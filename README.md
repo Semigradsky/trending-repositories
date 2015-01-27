@@ -58,3 +58,6 @@
 [libreboard](https://github.com/libreboard/libreboard) | An open-source kanban board
 [swatd](https://github.com/defuse/swatd) | Run a script when one or more sensors fail. | C
 [til](https://github.com/thoughtbot/til) | Today I Learned
+[paperwork](https://github.com/twostairs/paperwork) | Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | JavaScript
+[spaCy](https://github.com/honnibal/spaCy) | Industrial strength NLP with Python and Cython | Python
+[](https://github.com/)
