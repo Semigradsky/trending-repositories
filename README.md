@@ -60,4 +60,6 @@
 [til](https://github.com/thoughtbot/til) | Today I Learned
 [paperwork](https://github.com/twostairs/paperwork) | Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | JavaScript
 [spaCy](https://github.com/honnibal/spaCy) | Industrial strength NLP with Python and Cython | Python
+[shipit](https://github.com/shipitjs/shipit) | Universal automation and deployment tool written in JavaScript. | JavaScript
+[framework](https://github.com/aurelia/framework) | The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform. | JavaScript
 [](https://github.com/)
