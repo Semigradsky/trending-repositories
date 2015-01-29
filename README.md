@@ -62,4 +62,5 @@
 [spaCy](https://github.com/honnibal/spaCy) | Industrial strength NLP with Python and Cython | Python
 [shipit](https://github.com/shipitjs/shipit) | Universal automation and deployment tool written in JavaScript. | JavaScript
 [framework](https://github.com/aurelia/framework) | The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform. | JavaScript
+[ultra](https://github.com/venantius/ultra) | A Leiningen plugin for a superior development environment | Clojure
 [](https://github.com/)
