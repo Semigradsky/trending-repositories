@@ -63,4 +63,8 @@
 [shipit](https://github.com/shipitjs/shipit) | Universal automation and deployment tool written in JavaScript. | JavaScript
 [framework](https://github.com/aurelia/framework) | The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform. | JavaScript
 [ultra](https://github.com/venantius/ultra) | A Leiningen plugin for a superior development environment | Clojure
+[Comcast](https://github.com/tylertreat/Comcast) | Simulating shitty network connections so you can build better systems. | Go
+[Hound](https://github.com/etsy/Hound) | Lightning fast code searching made easy | JavaScript
+[is.js](https://github.com/arasatasaygin/is.js) | Micro check library | JavaScript
+[react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | JavaScript
 [](https://github.com/)
