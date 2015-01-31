@@ -67,4 +67,5 @@
 [Hound](https://github.com/etsy/Hound) | Lightning fast code searching made easy | JavaScript
 [is.js](https://github.com/arasatasaygin/is.js) | Micro check library | JavaScript
 [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | JavaScript
+[aws-sdk-go](https://github.com/awslabs/aws-sdk-go) | An incredibly experimental, automatically generated set of AWS clients in Go. | Go
 [](https://github.com/)
