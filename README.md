@@ -68,4 +68,6 @@
 [is.js](https://github.com/arasatasaygin/is.js) | Micro check library | JavaScript
 [react](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | JavaScript
 [aws-sdk-go](https://github.com/awslabs/aws-sdk-go) | An incredibly experimental, automatically generated set of AWS clients in Go. | Go
+[passenger-docker](https://github.com/phusion/passenger-docker) | Docker base images for Ruby, Python, Node.js and Meteor web apps | Shell
+[sandstorm](https://github.com/sandstorm-io/sandstorm) | Personal Cloud Sandbox | C++
 [](https://github.com/)
