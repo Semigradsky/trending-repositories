@@ -70,4 +70,7 @@
 [aws-sdk-go](https://github.com/awslabs/aws-sdk-go) | An incredibly experimental, automatically generated set of AWS clients in Go. | Go
 [passenger-docker](https://github.com/phusion/passenger-docker) | Docker base images for Ruby, Python, Node.js and Meteor web apps | Shell
 [sandstorm](https://github.com/sandstorm-io/sandstorm) | Personal Cloud Sandbox | C++
+[Spring](https://github.com/MengTo/Spring) | A library to simplify iOS animations in Swift. | Swift
+[rt0](https://github.com/lpsantil/rt0) | A minimal C runtime for Linux i386 & x86_64 | C
+[](https://github.com/)
 [](https://github.com/)
