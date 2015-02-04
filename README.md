@@ -73,4 +73,6 @@
 [Spring](https://github.com/MengTo/Spring) | A library to simplify iOS animations in Swift. | Swift
 [rt0](https://github.com/lpsantil/rt0) | A minimal C runtime for Linux i386 & x86_64 | C
 [mkcast](https://github.com/KeyboardFire/mkcast) | A tool for creating GIF screencasts of a terminal, with key presses overlaid. | Python
+[Dshell](https://github.com/USArmyResearchLab/Dshell) | Dshell is a network forensic analysis framework. | Python
+[react-hot-loader](https://github.com/gaearon/react-hot-loader) | Tweak React components in real time. | JavaScript
 [](https://github.com/)
