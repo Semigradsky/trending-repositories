@@ -49,6 +49,7 @@ function getRepoInfo(repoFullName, next) {
 			url: repoInfo.html_url,
 			homepage: repoInfo.homepage,
 			avatar: repoInfo.owner.avatar_url,
+			ownerUrl: repoInfo.owner.html_url,
 			stars: repoInfo.stargazers_count
 		});
 
