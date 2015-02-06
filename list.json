@@ -1,0 +1,626 @@
+[
+    {
+        "name": "awesome-courses",
+        "description": "List of awesome university courses for learning Computer Science!",
+        "url": "https://github.com/prakhar1989/awesome-courses",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/649249?v=3",
+        "stars": 10073
+    },
+    {
+        "name": "awesome-android-ui",
+        "description": "A curated list of awesome Android UI/UX libraries",
+        "url": "https://github.com/wasabeef/awesome-android-ui",
+        "homepage": "https://twitter.com/wasabeef_jp",
+        "avatar": "https://avatars.githubusercontent.com/u/1833474?v=3",
+        "stars": 4011
+    },
+    {
+        "name": "VPNOn",
+        "description": "Turn On your VPN like a hero.",
+        "url": "https://github.com/lexrus/VPNOn",
+        "homepage": "https://twitter.com/lexrus",
+        "avatar": "https://avatars.githubusercontent.com/u/219689?v=3",
+        "stars": 1318
+    },
+    {
+        "name": "uBlock",
+        "description": "µBlock - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.",
+        "url": "https://github.com/gorhill/uBlock",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/585534?v=3",
+        "stars": 5613
+    },
+    {
+        "name": "chrome-devtools-app",
+        "description": "Chrome DevTools packaged as an app via node-webkit",
+        "url": "https://github.com/auchenberg/chrome-devtools-app",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/173559?v=3",
+        "stars": 882
+    },
+    {
+        "name": "Cachet",
+        "description": "An open source status page system written in PHP",
+        "url": "https://github.com/cachethq/Cachet",
+        "homepage": "https://cachethq.io",
+        "avatar": "https://avatars.githubusercontent.com/u/9951502?v=3",
+        "stars": 1261
+    },
+    {
+        "name": "postgrest",
+        "description": "REST API for any Postgres database",
+        "url": "https://github.com/begriffs/postgrest",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/911911?v=3",
+        "stars": 2383
+    },
+    {
+        "name": "elasticsearch-gmail",
+        "description": "Index your Gmail Inbox with Elasticsearch",
+        "url": "https://github.com/oliver006/elasticsearch-gmail",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1222339?v=3",
+        "stars": 1057
+    },
+    {
+        "name": "snabbt.js",
+        "description": "Fast animations with javascript and CSS transforms",
+        "url": "https://github.com/daniel-lundin/snabbt.js",
+        "homepage": "http://daniel-lundin.github.io/snabbt.js/",
+        "avatar": "https://avatars.githubusercontent.com/u/545809?v=3",
+        "stars": 3819
+    },
+    {
+        "name": "wren",
+        "description": "The Wren Programming Language",
+        "url": "https://github.com/munificent/wren",
+        "homepage": "http://munificent.github.io/wren/",
+        "avatar": "https://avatars.githubusercontent.com/u/46275?v=3",
+        "stars": 608
+    },
+    {
+        "name": "hyperfox",
+        "description": "A security tool for proxying and recording HTTP and HTTPs traffic.",
+        "url": "https://github.com/xiam/hyperfox",
+        "homepage": "https://hyperfox.org",
+        "avatar": "https://avatars.githubusercontent.com/u/385670?v=3",
+        "stars": 754
+    },
+    {
+        "name": "PyScribe",
+        "description": "A Python library to make debugging with print statements simpler and more effective.",
+        "url": "https://github.com/alixander/PyScribe",
+        "homepage": "http://pyscribe.com",
+        "avatar": "https://avatars.githubusercontent.com/u/3120367?v=3",
+        "stars": 386
+    },
+    {
+        "name": "wifiphisher",
+        "description": "Fast automated phishing attacks against WiFi networks",
+        "url": "https://github.com/sophron/wifiphisher",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/554314?v=3",
+        "stars": 3112
+    },
+    {
+        "name": "retter",
+        "description": "A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography. :closed_lock_with_key:",
+        "url": "https://github.com/maciejczyzewski/retter",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1976088?v=3",
+        "stars": 1355
+    },
+    {
+        "name": "pgcli",
+        "description": "Postgres CLI with autocompletion and syntax highlighting",
+        "url": "https://github.com/amjith/pgcli",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/49260?v=3",
+        "stars": 1491
+    },
+    {
+        "name": "echarts",
+        "description": "Enterprise Charts | Github pages : http://ecomfe.github.io/echarts/index-en.html | Email : echarts@baidu.com | Baidu Hi : 1379172 | ",
+        "url": "https://github.com/ecomfe/echarts",
+        "homepage": "http://echarts.baidu.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/2268460?v=3",
+        "stars": 5817
+    },
+    {
+        "name": "pythonpy",
+        "description": "command line kung fu with python",
+        "url": "https://github.com/Russell91/pythonpy",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1069617?v=3",
+        "stars": 2348
+    },
+    {
+        "name": "novm",
+        "description": "Experimental KVM-based VMM, written in Go.",
+        "url": "https://github.com/google/novm",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
+        "stars": 1049
+    },
+    {
+        "name": "pgcli",
+        "description": "Postgres CLI with autocompletion and syntax highlighting",
+        "url": "https://github.com/amjith/pgcli",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/49260?v=3",
+        "stars": 1491
+    },
+    {
+        "name": "systemjs",
+        "description": "Universal dynamic module loader",
+        "url": "https://github.com/systemjs/systemjs",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/6577368?v=3",
+        "stars": 1661
+    },
+    {
+        "name": "git-game",
+        "description": "terminal game to test git skills",
+        "url": "https://github.com/hgarc014/git-game",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/5572299?v=3",
+        "stars": 1779
+    },
+    {
+        "name": "nintengo",
+        "description": "An NES emulator written in Go",
+        "url": "https://github.com/nwidger/nintengo",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/486290?v=3",
+        "stars": 1110
+    },
+    {
+        "name": "Hover",
+        "description": "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",
+        "url": "https://github.com/IanLunn/Hover",
+        "homepage": "http://ianlunn.github.io/Hover/",
+        "avatar": "https://avatars.githubusercontent.com/u/694641?v=3",
+        "stars": 8306
+    },
+    {
+        "name": "trip-to-iOS",
+        "description": "A curated list of delightful iOS resources.",
+        "url": "https://github.com/Aufree/trip-to-iOS",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/5310542?v=3",
+        "stars": 1490
+    },
+    {
+        "name": "novm",
+        "description": "Experimental KVM-based VMM, written in Go.",
+        "url": "https://github.com/google/novm",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
+        "stars": 1049
+    },
+    {
+        "name": "Telecine",
+        "description": "Record full-resolution video on your Android devices.",
+        "url": "https://github.com/JakeWharton/Telecine",
+        "homepage": "https://play.google.com/store/apps/details?id=com.jakewharton.telecine",
+        "avatar": "https://avatars.githubusercontent.com/u/66577?v=3",
+        "stars": 880
+    },
+    {
+        "name": "bond",
+        "description": "Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services. ",
+        "url": "https://github.com/Microsoft/bond",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
+        "stars": 615
+    },
+    {
+        "name": "Programming-Alpha-To-Omega",
+        "description": "从零开始学编程 系列汇总（从α到Ω）",
+        "url": "https://github.com/justjavac/Programming-Alpha-To-Omega",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/359395?v=3",
+        "stars": 519
+    },
+    {
+        "name": "icono",
+        "description": "One tag One icon, no font or svg, Pure CSS",
+        "url": "https://github.com/saeedalipoor/icono",
+        "homepage": "http://git.io/icono",
+        "avatar": "https://avatars.githubusercontent.com/u/1343083?v=3",
+        "stars": 2470
+    },
+    {
+        "name": "TheaterJS",
+        "description": "Typing effect mimicking human behavior.",
+        "url": "https://github.com/Zhouzi/TheaterJS",
+        "homepage": "http://codepen.io/Zhouzi/full/JoRazP/",
+        "avatar": "https://avatars.githubusercontent.com/u/2291025?v=3",
+        "stars": 2171
+    },
+    {
+        "name": "Sortable",
+        "description": "Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.",
+        "url": "https://github.com/RubaXa/Sortable",
+        "homepage": "http://rubaxa.github.io/Sortable/",
+        "avatar": "https://avatars.githubusercontent.com/u/1109562?v=3",
+        "stars": 2852
+    },
+    {
+        "name": "lambdaws",
+        "description": "Deploy, run and get results from Amazon AWS Lambda in a breeze",
+        "url": "https://github.com/mentum/lambdaws",
+        "homepage": "http://mentum.github.io/lambdaws",
+        "avatar": "https://avatars.githubusercontent.com/u/10017482?v=3",
+        "stars": 941
+    },
+    {
+        "name": "io.js",
+        "description": "A friendly fork of Node.js with an open governance model",
+        "url": "https://github.com/iojs/io.js",
+        "homepage": "https://iojs.org",
+        "avatar": "https://avatars.githubusercontent.com/u/9950313?v=3",
+        "stars": 9570
+    },
+    {
+        "name": "nw.js",
+        "description": "Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.",
+        "url": "https://github.com/nwjs/nw.js",
+        "homepage": "http://nwjs.io",
+        "avatar": "https://avatars.githubusercontent.com/u/10180421?v=3",
+        "stars": 20030
+    },
+    {
+        "name": "c-smart-pointers",
+        "description": "Smart pointers for the (GNU) C programming language",
+        "url": "https://github.com/Snaipe/c-smart-pointers",
+        "homepage": "http://snaipe.me/c/c-smart-pointers/",
+        "avatar": "https://avatars.githubusercontent.com/u/977973?v=3",
+        "stars": 428
+    },
+    {
+        "name": "fastlane",
+        "description": "Connect all iOS deployment tools into one streamlined workflow",
+        "url": "https://github.com/KrauseFx/fastlane",
+        "homepage": "http://fastlane.tools",
+        "avatar": "https://avatars.githubusercontent.com/u/869950?v=3",
+        "stars": 1365
+    },
+    {
+        "name": "blog",
+        "description": "All the sources for my react-powered blog",
+        "url": "https://github.com/jlongster/blog",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/17031?v=3",
+        "stars": 601
+    },
+    {
+        "name": "roslyn",
+        "description": "The .NET Compiler Platform (\"Roslyn\") provides open-source C# and Visual Basic compilers with rich code analysis APIs.",
+        "url": "https://github.com/dotnet/roslyn",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/9141961?v=3",
+        "stars": 1062
+    },
+    {
+        "name": "what-happens-when",
+        "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+        "url": "https://github.com/alex/what-happens-when",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/772?v=3",
+        "stars": 5911
+    },
+    {
+        "name": "torch7",
+        "description": "",
+        "url": "https://github.com/torch/torch7",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/4978924?v=3",
+        "stars": 1502
+    },
+    {
+        "name": "ios-deeplink-sdk",
+        "description": "A splendid route-matching, block-based way to handle your deep links.",
+        "url": "https://github.com/usebutton/ios-deeplink-sdk",
+        "homepage": "http://www.usebutton.com/sdk/deep-links",
+        "avatar": "https://avatars.githubusercontent.com/u/7770987?v=3",
+        "stars": 812
+    },
+    {
+        "name": "blessed-contrib",
+        "description": "Build terminal dashboards using ascii/ansi art and javascript",
+        "url": "https://github.com/yaronn/blessed-contrib",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1359037?v=3",
+        "stars": 5277
+    },
+    {
+        "name": "Side-Menu.Android",
+        "description": "",
+        "url": "https://github.com/Yalantis/Side-Menu.Android",
+        "homepage": "http://yalantis.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
+        "stars": 1107
+    },
+    {
+        "name": "Context-Menu.Android",
+        "description": "",
+        "url": "https://github.com/Yalantis/Context-Menu.Android",
+        "homepage": "http://yalantis.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
+        "stars": 826
+    },
+    {
+        "name": "github-cheat-sheet",
+        "description": "A list of cool features of Git and GitHub.",
+        "url": "https://github.com/tiimgreen/github-cheat-sheet",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/4130574?v=3",
+        "stars": 15062
+    },
+    {
+        "name": "JVFloatingDrawer",
+        "description": "An easy to use floating drawer view controller.",
+        "url": "https://github.com/JVillella/JVFloatingDrawer",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/6306986?v=3",
+        "stars": 752
+    },
+    {
+        "name": "linux-insides",
+        "description": "A little bit about a linux kernel",
+        "url": "https://github.com/0xAX/linux-insides",
+        "homepage": "http://0xax.gitbooks.io/linux-insides/content/index.html",
+        "avatar": "https://avatars.githubusercontent.com/u/2699235?v=3",
+        "stars": 2268
+    },
+    {
+        "name": "silicon",
+        "description": "A high performance, middleware oriented C++14 http web framework",
+        "url": "https://github.com/matt-42/silicon",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/846584?v=3",
+        "stars": 668
+    },
+    {
+        "name": "shellfire",
+        "description": "A repository of namespaced, composable shell (bash, sh and dash) function libraries",
+        "url": "https://github.com/shellfire-dev/shellfire",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/8732985?v=3",
+        "stars": 928
+    },
+    {
+        "name": "Front-end-Developer-Interview-Questions",
+        "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+        "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1136800?v=3",
+        "stars": 13879
+    },
+    {
+        "name": "marty",
+        "description": "A Javascript library for state management in React applications",
+        "url": "https://github.com/jhollingworth/marty",
+        "homepage": "http://martyjs.org",
+        "avatar": "https://avatars.githubusercontent.com/u/151172?v=3",
+        "stars": 719
+    },
+    {
+        "name": "riotjs",
+        "description": "A React- like, 2.5KB user interface library",
+        "url": "https://github.com/muut/riotjs",
+        "homepage": "https://muut.com/riotjs/",
+        "avatar": "https://avatars.githubusercontent.com/u/7271004?v=3",
+        "stars": 5063
+    },
+    {
+        "name": "gitlet",
+        "description": "Git implemented in JavaScript",
+        "url": "https://github.com/maryrosecook/gitlet",
+        "homepage": "http://gitlet.maryrosecook.com",
+        "avatar": "https://avatars.githubusercontent.com/u/2716?v=3",
+        "stars": 1017
+    },
+    {
+        "name": "libreboard",
+        "description": "An open-source kanban board",
+        "url": "https://github.com/libreboard/libreboard",
+        "homepage": "http://libreboard.com",
+        "avatar": "https://avatars.githubusercontent.com/u/10408837?v=3",
+        "stars": 3378
+    },
+    {
+        "name": "swatd",
+        "description": "Run a script when one or more sensors fail.",
+        "url": "https://github.com/defuse/swatd",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/4211072?v=3",
+        "stars": 742
+    },
+    {
+        "name": "til",
+        "description": "Today I Learned",
+        "url": "https://github.com/thoughtbot/til",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/6183?v=3",
+        "stars": 2499
+    },
+    {
+        "name": "paperwork",
+        "description": "Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep",
+        "url": "https://github.com/twostairs/paperwork",
+        "homepage": "http://paperwork.rocks",
+        "avatar": "https://avatars.githubusercontent.com/u/475581?v=3",
+        "stars": 2986
+    },
+    {
+        "name": "spaCy",
+        "description": "Industrial strength NLP with Python and Cython",
+        "url": "https://github.com/honnibal/spaCy",
+        "homepage": "http://honnibal.github.io/spaCy",
+        "avatar": "https://avatars.githubusercontent.com/u/8059750?v=3",
+        "stars": 712
+    },
+    {
+        "name": "shipit",
+        "description": "Universal automation and deployment tool written in JavaScript.",
+        "url": "https://github.com/shipitjs/shipit",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/10684892?v=3",
+        "stars": 1723
+    },
+    {
+        "name": "framework",
+        "description": "The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.",
+        "url": "https://github.com/aurelia/framework",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/9808864?v=3",
+        "stars": 1373
+    },
+    {
+        "name": "ultra",
+        "description": "A Leiningen plugin for a superior development environment",
+        "url": "https://github.com/venantius/ultra",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1824859?v=3",
+        "stars": 508
+    },
+    {
+        "name": "Comcast",
+        "description": "Simulating shitty network connections so you can build better systems.",
+        "url": "https://github.com/tylertreat/Comcast",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/552817?v=3",
+        "stars": 3224
+    },
+    {
+        "name": "Hound",
+        "description": "Lightning fast code searching made easy",
+        "url": "https://github.com/etsy/Hound",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/193389?v=3",
+        "stars": 1755
+    },
+    {
+        "name": "is.js",
+        "description": "Micro check library",
+        "url": "https://github.com/arasatasaygin/is.js",
+        "homepage": "https://arasatasaygin.github.io/is.js",
+        "avatar": "https://avatars.githubusercontent.com/u/2171796?v=3",
+        "stars": 2804
+    },
+    {
+        "name": "react",
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "url": "https://github.com/facebook/react",
+        "homepage": "http://facebook.github.io/react/",
+        "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
+        "stars": 15374
+    },
+    {
+        "name": "aws-sdk-go",
+        "description": "An incredibly experimental, automatically generated set of AWS clients in Go.",
+        "url": "https://github.com/awslabs/aws-sdk-go",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/3299148?v=3",
+        "stars": 1233
+    },
+    {
+        "name": "passenger-docker",
+        "description": "Docker base images for Ruby, Python, Node.js and Meteor web apps",
+        "url": "https://github.com/phusion/passenger-docker",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/830588?v=3",
+        "stars": 1349
+    },
+    {
+        "name": "sandstorm",
+        "description": "Personal Cloud Sandbox",
+        "url": "https://github.com/sandstorm-io/sandstorm",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/7479094?v=3",
+        "stars": 2064
+    },
+    {
+        "name": "Spring",
+        "description": "A library to simplify iOS animations in Swift.",
+        "url": "https://github.com/MengTo/Spring",
+        "homepage": "http://designcode.io",
+        "avatar": "https://avatars.githubusercontent.com/u/1065452?v=3",
+        "stars": 2141
+    },
+    {
+        "name": "rt0",
+        "description": "A minimal C runtime for Linux i386 & x86_64",
+        "url": "https://github.com/lpsantil/rt0",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/66716?v=3",
+        "stars": 375
+    },
+    {
+        "name": "mkcast",
+        "description": "A tool for creating GIF screencasts of a terminal, with key presses overlaid.",
+        "url": "https://github.com/KeyboardFire/mkcast",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/2389333?v=3",
+        "stars": 2751
+    },
+    {
+        "name": "Dshell",
+        "description": "Dshell is a network forensic analysis framework.",
+        "url": "https://github.com/USArmyResearchLab/Dshell",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/9535064?v=3",
+        "stars": 2882
+    },
+    {
+        "name": "react-hot-loader",
+        "description": "Tweak React components in real time.",
+        "url": "https://github.com/gaearon/react-hot-loader",
+        "homepage": "http://gaearon.github.io/react-hot-loader/",
+        "avatar": "https://avatars.githubusercontent.com/u/810438?v=3",
+        "stars": 1056
+    },
+    {
+        "name": "coreclr",
+        "description": "This repo contains the .NET Core runtime, called CoreCLR. It is an execution engine for .NET apps, performing functions such as IL byte code loading, compilation to machine code and garbage collection. The repo contains the complete up-to-date CoreCLR codebase.",
+        "url": "https://github.com/dotnet/coreclr",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/9141961?v=3",
+        "stars": 2805
+    },
+    {
+        "name": "flux-comparison",
+        "description": "Practical comparison of different Flux solutions",
+        "url": "https://github.com/voronianski/flux-comparison",
+        "homepage": "https://facebook.github.io/flux",
+        "avatar": "https://avatars.githubusercontent.com/u/974035?v=3",
+        "stars": 724
+    },
+    {
+        "name": "free-programming-books",
+        "description": "",
+        "url": "https://github.com/vhf/free-programming-books",
+        "homepage": "http://resrc.io/list/10/list-of-free-programming-books/",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?v=3",
+        "stars": 34884
+    },
+    {
+        "name": "prometheus",
+        "description": "The Prometheus monitoring system and time series database.",
+        "url": "https://github.com/prometheus/prometheus",
+        "homepage": "http://prometheus.io/",
+        "avatar": "https://avatars.githubusercontent.com/u/3380462?v=3",
+        "stars": 1332
+    },
+    {
+        "name": "kafka-manager",
+        "description": "A tool for managing Apache Kafka.",
+        "url": "https://github.com/yahoo/kafka-manager",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/16574?v=3",
+        "stars": 681
+    }
+]

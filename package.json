@@ -1,0 +1,24 @@
+{
+  "name": "trending-repositories",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semigradsky/trending-repositories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Semigradsky/trending-repositories/issues"
+  },
+  "homepage": "https://github.com/Semigradsky/trending-repositories",
+  "dependencies": {
+    "request": "~2.53.0",
+    "async": "~0.9.0",
+    "clone": "~0.2.0",
+    "progress": "~1.1.8"
+  }
+}
