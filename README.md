@@ -1,6 +1,6 @@
 ## Trending repositories - 2015
-||Name|Description|Stars|
-|---|---|---|---|
+||Name|Description||Stars|
+|---|---|---|---|---|
 | <img src="https://avatars.githubusercontent.com/u/649249?v=3" alt="owwner" width="50"> | [awesome-courses](https://github.com/prakhar1989/awesome-courses) | List of awesome university courses for learning Computer Science! | | 10073
 | <img src="https://avatars.githubusercontent.com/u/1833474?v=3" alt="owwner" width="50"> | [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | [<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">](https://twitter.com/wasabeef_jp)| 4011
 | <img src="https://avatars.githubusercontent.com/u/219689?v=3" alt="owwner" width="50"> | [VPNOn](https://github.com/lexrus/VPNOn) | Turn On your VPN like a hero. | [<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">](https://twitter.com/lexrus)| 1318
@@ -16,7 +16,7 @@
 | <img src="https://avatars.githubusercontent.com/u/554314?v=3" alt="owwner" width="50"> | [wifiphisher](https://github.com/sophron/wifiphisher) | Fast automated phishing attacks against WiFi networks | | 3112
 | <img src="https://avatars.githubusercontent.com/u/1976088?v=3" alt="owwner" width="50"> | [retter](https://github.com/maciejczyzewski/retter) | A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography. :closed_lock_with_key: | | 1355
 | <img src="https://avatars.githubusercontent.com/u/49260?v=3" alt="owwner" width="50"> | [pgcli](https://github.com/amjith/pgcli) | Postgres CLI with autocompletion and syntax highlighting | | 1491
-| <img src="https://avatars.githubusercontent.com/u/2268460?v=3" alt="owwner" width="50"> | [echarts](https://github.com/ecomfe/echarts) | Enterprise Charts | Github pages : http://ecomfe.github.io/echarts/index-en.html | Email : echarts@baidu.com | Baidu Hi : 1379172 |  | [<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">](http://echarts.baidu.com/)| 5817
+| <img src="https://avatars.githubusercontent.com/u/2268460?v=3" alt="owwner" width="50"> | [echarts](https://github.com/ecomfe/echarts) | Enterprise Charts | [<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">](http://echarts.baidu.com/)| 5817
 | <img src="https://avatars.githubusercontent.com/u/1069617?v=3" alt="owwner" width="50"> | [pythonpy](https://github.com/Russell91/pythonpy) | command line kung fu with python | | 2348
 | <img src="https://avatars.githubusercontent.com/u/1342004?v=3" alt="owwner" width="50"> | [novm](https://github.com/google/novm) | Experimental KVM-based VMM, written in Go. | | 1049
 | <img src="https://avatars.githubusercontent.com/u/49260?v=3" alt="owwner" width="50"> | [pgcli](https://github.com/amjith/pgcli) | Postgres CLI with autocompletion and syntax highlighting | | 1491
