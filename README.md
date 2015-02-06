@@ -77,4 +77,7 @@
 [react-hot-loader](https://github.com/gaearon/react-hot-loader) | Tweak React components in real time. | JavaScript
 [coreclr](https://github.com/dotnet/coreclr) | This repo contains the .NET Core runtime, called CoreCLR. It is an execution engine for .NET apps, performing functions such as IL byte code loading, compilation to machine code and garbage collection. The repo contains the complete up-to-date CoreCLR codebase. | C++
 [flux-comparison](https://github.com/voronianski/flux-comparison) | Practical comparison of different Flux solutions | JavaScript
+[free-programming-books](https://github.com/vhf/free-programming-books) | | List
+[prometheus](https://github.com/prometheus/prometheus) | The Prometheus monitoring system and time series database. | Go
+[kafka-manager](https://github.com/yahoo/kafka-manager) | A tool for managing Apache Kafka. | Scala
 [](https://github.com/)
