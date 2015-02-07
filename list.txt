@@ -76,3 +76,4 @@ voronianski/flux-comparison
 vhf/free-programming-books
 prometheus/prometheus
 yahoo/kafka-manager
+ShiqiYu/libfacedetection
