@@ -1,0 +1,2 @@
+#!/bin/sh
+node generateJson.js && node generateMd.js && git add . && git commit -m "Update list"
