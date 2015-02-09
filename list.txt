@@ -78,3 +78,5 @@ prometheus/prometheus
 yahoo/kafka-manager
 ShiqiYu/libfacedetection
 fogleman/pt
+ryanss/vim-hackernews
+israelidanny/ie8linter
