@@ -80,3 +80,4 @@ ShiqiYu/libfacedetection
 fogleman/pt
 ryanss/vim-hackernews
 israelidanny/ie8linter
+ali1234/raspi-teletext
