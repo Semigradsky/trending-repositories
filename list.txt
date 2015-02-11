@@ -81,3 +81,7 @@ fogleman/pt
 ryanss/vim-hackernews
 israelidanny/ie8linter
 ali1234/raspi-teletext
+phanan/htaccess
+mofarrell/p2pvc
+HubPress/hubpress.io
+PistonDevelopers/hematite
