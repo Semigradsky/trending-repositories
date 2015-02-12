@@ -85,3 +85,5 @@ phanan/htaccess
 mofarrell/p2pvc
 HubPress/hubpress.io
 PistonDevelopers/hematite
+Flipboard/react-canvas
+reapp/reapp
