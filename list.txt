@@ -87,3 +87,4 @@ HubPress/hubpress.io
 PistonDevelopers/hematite
 Flipboard/react-canvas
 reapp/reapp
+haxpax/gosms
