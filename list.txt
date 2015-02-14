@@ -88,3 +88,6 @@ PistonDevelopers/hematite
 Flipboard/react-canvas
 reapp/reapp
 haxpax/gosms
+sdelements/lets-chat
+pixle/subway
+grayghostvisuals/transformicons
