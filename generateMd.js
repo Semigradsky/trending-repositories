@@ -16,7 +16,7 @@ repos.forEach(function (repo) {
 		'| {description} '.replace('{description}', repo.description.replace(/\|.*/, '')) +
 		(repo.homepage ? '| [<img src="' + homeImg + '" width="30" alt="home">]({homepage})'.replace('{homepage}', repo.homepage) : '| ') +
 		'| {stars} '.replace('{stars}', humanize(repo.stars)) +
-		'| *{language}*\n'.replace('{language}', repo.language);
+		(repo.language ? '| *{language}*\n'.replace('{language}', repo.language) : '| \n');
 });
 
 fs.writeFileSync('README.md', content);
