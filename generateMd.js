@@ -1,7 +1,10 @@
 var fs = require('fs');
 var humanize = require('humanize-number');
 
-var content = '## Trending repositories - 2015\n|Owner|Name|Description|Url|Stars|\n|---|---|---|---|---|\n';
+var content =
+	'## Trending repositories - 2015\n' +
+	'|Owner|Name|Description|Url|Stars|\n' +
+	'|---|---|---|:-:|--:|\n';
 var homeImg = 'https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png';
 
 var repos = JSON.parse(fs.readFileSync('list.json', { encoding: 'UTF-8' }));
