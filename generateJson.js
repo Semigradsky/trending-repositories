@@ -50,7 +50,8 @@ function getRepoInfo(repoFullName, next) {
 			homepage: repoInfo.homepage,
 			avatar: repoInfo.owner.avatar_url,
 			ownerUrl: repoInfo.owner.html_url,
-			stars: repoInfo.stargazers_count
+			stars: repoInfo.stargazers_count,
+			language: repoInfo.language
 		});
 
 	});
