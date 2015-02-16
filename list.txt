@@ -92,3 +92,5 @@ sdelements/lets-chat
 pixle/subway
 grayghostvisuals/transformicons
 dasdom/BreakOutToRefresh
+joewalnes/websocketd
+lukehoban/es6features
