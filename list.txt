@@ -94,3 +94,4 @@ grayghostvisuals/transformicons
 dasdom/BreakOutToRefresh
 joewalnes/websocketd
 lukehoban/es6features
+babel/babel
