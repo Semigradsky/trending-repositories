@@ -95,3 +95,5 @@ dasdom/BreakOutToRefresh
 joewalnes/websocketd
 lukehoban/es6features
 babel/babel
+IonicaBizau/git-stats
+getify/You-Dont-Know-JS
