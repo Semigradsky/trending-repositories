@@ -97,3 +97,5 @@ lukehoban/es6features
 babel/babel
 IonicaBizau/git-stats
 getify/You-Dont-Know-JS
+facebook/stetho
+paulirish/memory-stats.js
