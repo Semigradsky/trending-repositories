@@ -99,3 +99,6 @@ IonicaBizau/git-stats
 getify/You-Dont-Know-JS
 facebook/stetho
 paulirish/memory-stats.js
+LeaVerou/awesomplete
+isagalaev/highlight.js
+square/sqlbrite
