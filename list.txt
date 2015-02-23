@@ -102,3 +102,7 @@ paulirish/memory-stats.js
 LeaVerou/awesomplete
 isagalaev/highlight.js
 square/sqlbrite
+bolshchikov/js-must-watch
+motemen/gore
+yuin/gopher-lua
+moklick/frontend-stuff
