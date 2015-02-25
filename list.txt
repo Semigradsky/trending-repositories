@@ -107,3 +107,5 @@ motemen/gore
 yuin/gopher-lua
 moklick/frontend-stuff
 ogham/exa
+Swordfish90/cool-retro-term
+google/stenographer
