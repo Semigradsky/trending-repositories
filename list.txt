@@ -109,3 +109,7 @@ moklick/frontend-stuff
 ogham/exa
 Swordfish90/cool-retro-term
 google/stenographer
+bendc/frontend-guidelines
+layerhq/Atlas-iOS
+maxwellito/vivus
+rancherio/os
