@@ -113,3 +113,5 @@ bendc/frontend-guidelines
 layerhq/Atlas-iOS
 maxwellito/vivus
 rancherio/os
+grpc/grpc
+jez/vim-as-an-ide
