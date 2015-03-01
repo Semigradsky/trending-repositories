@@ -115,3 +115,6 @@ maxwellito/vivus
 rancherio/os
 grpc/grpc
 jez/vim-as-an-ide
+kanaka/mal
+yldio/paz
+matteocrippa/awesome-swift
