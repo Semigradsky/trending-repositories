@@ -118,3 +118,4 @@ jez/vim-as-an-ide
 kanaka/mal
 yldio/paz
 matteocrippa/awesome-swift
+Naituw/WBWebViewConsole
