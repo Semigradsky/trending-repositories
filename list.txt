@@ -120,3 +120,6 @@ yldio/paz
 matteocrippa/awesome-swift
 Naituw/WBWebViewConsole
 rui314/8cc
+haifengl/smile
+sbstjn/timesheet.js
+nolimits4web/Swiper
