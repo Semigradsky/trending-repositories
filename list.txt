@@ -126,3 +126,5 @@ nolimits4web/Swiper
 Selz/plyr
 ryanmjacobs/c
 pgte/nock
+NativeScript/NativeScript
+vektra/templar
