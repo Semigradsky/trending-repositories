@@ -128,3 +128,6 @@ ryanmjacobs/c
 pgte/nock
 NativeScript/NativeScript
 vektra/templar
+Mango/slideout
+airbnb/airpal
+MengTo/AppStoreSketch
