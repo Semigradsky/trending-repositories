@@ -22,7 +22,6 @@ hgarc014/git-game
 nwidger/nintengo
 IanLunn/Hover
 Aufree/trip-to-iOS
-google/novm
 JakeWharton/Telecine
 Microsoft/bond
 justjavac/Programming-Alpha-To-Omega
