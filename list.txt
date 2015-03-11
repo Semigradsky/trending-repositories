@@ -116,7 +116,7 @@ rancherio/os
 grpc/grpc
 jez/vim-as-an-ide
 kanaka/mal
-yldio/paz
+paz-sh/paz
 matteocrippa/awesome-swift
 Naituw/WBWebViewConsole
 rui314/8cc
