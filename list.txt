@@ -137,3 +137,4 @@ orhanobut/dialogplus
 pheuter/essential-react
 google/fonts
 hakimel/css
+DanielRapp/doppler
