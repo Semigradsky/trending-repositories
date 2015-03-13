@@ -138,3 +138,5 @@ pheuter/essential-react
 google/fonts
 hakimel/css
 DanielRapp/doppler
+iluwatar/java-design-patterns
+Yomguithereal/baobab
