@@ -140,3 +140,8 @@ hakimel/css
 DanielRapp/doppler
 iluwatar/java-design-patterns
 Yomguithereal/baobab
+wishstudio/flinux
+googlesamples/android-UniversalMusicPlayer
+kitematic/kitematic
+MengTo/DesignerNewsApp
+hyperoslo/Form
