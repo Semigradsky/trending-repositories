@@ -149,3 +149,5 @@ zxh0/jvm.go
 jhauswald/sirius
 solidsnack/GraphpostgresQL
 matiasinsaurralde/facebook-tunnel
+gogits/gogs
+lhartikk/AstroBuild
