@@ -156,3 +156,7 @@ andelf/fuck12306
 riccardoscalco/textures
 Microsoft/msbuild
 Microsoft/Windows-Driver-Frameworks
+skywinder/github-changelog-generator
+pdcgomes/XCActionBar
+cparnot/ASCIImage
+jtleek/datasharing
