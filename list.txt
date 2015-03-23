@@ -160,3 +160,5 @@ skywinder/github-changelog-generator
 pdcgomes/XCActionBar
 cparnot/ASCIImage
 jtleek/datasharing
+rdpeng/ProgrammingAssignment2
+anacrolix/torrent
