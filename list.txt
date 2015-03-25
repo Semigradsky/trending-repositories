@@ -162,3 +162,10 @@ cparnot/ASCIImage
 jtleek/datasharing
 rdpeng/ProgrammingAssignment2
 anacrolix/torrent
+simple-android-framework-exchange/android_design_patterns_analysis
+kriskowal/gtor
+pcqpcq/open-source-android-apps
+primer/primer
+facebook/augmented-traffic-control
+fogleman/nes
+ardagnir/pterosaur
