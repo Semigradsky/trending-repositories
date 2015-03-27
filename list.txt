@@ -172,3 +172,5 @@ ardagnir/pterosaur
 mikechau/react-primer-draft
 google/bazel
 ConnorAtherton/loaders.css
+vim/vim
+facebook/componentkit
