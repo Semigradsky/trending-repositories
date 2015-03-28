@@ -174,3 +174,5 @@ google/bazel
 ConnorAtherton/loaders.css
 vim/vim
 facebook/componentkit
+facebook/react-native
+facebook/fresco
