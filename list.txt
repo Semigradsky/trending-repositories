@@ -176,3 +176,6 @@ vim/vim
 facebook/componentkit
 facebook/react-native
 facebook/fresco
+gizak/termui
+airbnb/javascript
+centaurean/density
