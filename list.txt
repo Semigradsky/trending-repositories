@@ -179,3 +179,5 @@ facebook/fresco
 gizak/termui
 airbnb/javascript
 centaurean/density
+thampiman/reverse-geocoder
+fchollet/keras
