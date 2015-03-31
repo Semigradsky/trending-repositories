@@ -181,3 +181,4 @@ airbnb/javascript
 centaurean/density
 thampiman/reverse-geocoder
 fchollet/keras
+ry/v8worker
