@@ -186,3 +186,9 @@ ripienaar/free-for-dev
 steeve/france.code-civil
 labstack/echo
 electronicarts/orbit
+PixelsCommander/HTML-GL
+google/yapf
+Matt-Esch/virtual-dom
+danielgindi/ios-charts
+n1trux/awesome-sysadmin
+agis-/git-style-guide
