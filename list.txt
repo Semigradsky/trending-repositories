@@ -192,3 +192,5 @@ Matt-Esch/virtual-dom
 danielgindi/ios-charts
 n1trux/awesome-sysadmin
 agis-/git-style-guide
+rc0x03/node-osmosis
+mohebifar/xto6
