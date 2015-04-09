@@ -195,3 +195,4 @@ agis-/git-style-guide
 rc0x03/node-osmosis
 mohebifar/xto6
 mojo-js/mesh.js
+stewdio/beep.js
