@@ -196,3 +196,7 @@ rc0x03/node-osmosis
 mohebifar/xto6
 mojo-js/mesh.js
 stewdio/beep.js
+illacceptanything/illacceptanything
+digicoop/kaiwa
+github/git-lfs
+cjwirth/awesome-ios-ui
