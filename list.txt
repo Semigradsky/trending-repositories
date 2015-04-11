@@ -200,3 +200,6 @@ illacceptanything/illacceptanything
 digicoop/kaiwa
 github/git-lfs
 cjwirth/awesome-ios-ui
+mahmoud/boltons
+botwillacceptanything/botwillacceptanything
+rsms/fb-mac-messenger
