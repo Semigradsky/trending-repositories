@@ -203,3 +203,5 @@ cjwirth/awesome-ios-ui
 mahmoud/boltons
 botwillacceptanything/botwillacceptanything
 rsms/fb-mac-messenger
+inFullMobile/WobbleView
+tibastral/markdownify
