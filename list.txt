@@ -47,7 +47,7 @@ JVillella/JVFloatingDrawer
 matt-42/silicon
 shellfire-dev/shellfire
 h5bp/Front-end-Developer-Interview-Questions
-jhollingworth/marty
+martyjs/marty
 muut/riotjs
 maryrosecook/gitlet
 libreboard/libreboard
