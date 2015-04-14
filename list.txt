@@ -205,3 +205,5 @@ botwillacceptanything/botwillacceptanything
 rsms/fb-mac-messenger
 inFullMobile/WobbleView
 tibastral/markdownify
+tsx/shireframe
+Yalantis/FlipViewPager.Draco
