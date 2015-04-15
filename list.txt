@@ -31,7 +31,7 @@ RubaXa/Sortable
 mentum/lambdaws
 iojs/io.js
 nwjs/nw.js
-Snaipe/c-smart-pointers
+Snaipe/libcsptr
 KrauseFx/fastlane
 jlongster/blog
 dotnet/roslyn
