@@ -207,3 +207,6 @@ inFullMobile/WobbleView
 tibastral/markdownify
 tsx/shireframe
 Yalantis/FlipViewPager.Draco
+onevcat/Kingfisher
+timjacobi/angular2-education
+JadenGeller/Helium
