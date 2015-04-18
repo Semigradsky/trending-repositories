@@ -215,3 +215,5 @@ laravel/lumen
 knadh/niltalk
 bevacqua/dragula
 box/t3js
+eliotsykes/rspec-rails-examples
+callmecavs/layzr.js
