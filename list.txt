@@ -217,3 +217,5 @@ bevacqua/dragula
 box/t3js
 eliotsykes/rspec-rails-examples
 callmecavs/layzr.js
+nvbn/thefuck
+syl20bnr/spacemacs
