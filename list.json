@@ -6,7 +6,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/649249?v=3",
         "ownerUrl": "https://github.com/prakhar1989",
-        "stars": 11522,
+        "stars": 11562,
         "language": null
     },
     {
@@ -16,7 +16,7 @@
         "homepage": "https://twitter.com/wasabeef_jp",
         "avatar": "https://avatars.githubusercontent.com/u/1833474?v=3",
         "ownerUrl": "https://github.com/wasabeef",
-        "stars": 5816,
+        "stars": 5921,
         "language": null
     },
     {
@@ -26,7 +26,7 @@
         "homepage": "https://itunes.apple.com/app/vpn-on/id951344279",
         "avatar": "https://avatars.githubusercontent.com/u/219689?v=3",
         "ownerUrl": "https://github.com/lexrus",
-        "stars": 1650,
+        "stars": 1655,
         "language": "Swift"
     },
     {
@@ -36,7 +36,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/585534?v=3",
         "ownerUrl": "https://github.com/gorhill",
-        "stars": 370,
+        "stars": 440,
         "language": "JavaScript"
     },
     {
@@ -46,17 +46,17 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/173559?v=3",
         "ownerUrl": "https://github.com/auchenberg",
-        "stars": 968,
+        "stars": 969,
         "language": "JavaScript"
     },
     {
         "name": "Cachet",
-        "description": "An open source status page system written in PHP",
+        "description": "An open source status page system, for everyone.",
         "url": "https://github.com/cachethq/Cachet",
         "homepage": "https://cachethq.io",
         "avatar": "https://avatars.githubusercontent.com/u/9951502?v=3",
         "ownerUrl": "https://github.com/cachethq",
-        "stars": 2260,
+        "stars": 2291,
         "language": "PHP"
     },
     {
@@ -66,7 +66,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/911911?v=3",
         "ownerUrl": "https://github.com/begriffs",
-        "stars": 2535,
+        "stars": 2634,
         "language": "Haskell"
     },
     {
@@ -86,7 +86,7 @@
         "homepage": "http://daniel-lundin.github.io/snabbt.js/",
         "avatar": "https://avatars.githubusercontent.com/u/545809?v=3",
         "ownerUrl": "https://github.com/daniel-lundin",
-        "stars": 4132,
+        "stars": 4151,
         "language": "JavaScript"
     },
     {
@@ -96,17 +96,17 @@
         "homepage": "http://munificent.github.io/wren/",
         "avatar": "https://avatars.githubusercontent.com/u/46275?v=3",
         "ownerUrl": "https://github.com/munificent",
-        "stars": 673,
+        "stars": 676,
         "language": "C"
     },
     {
         "name": "hyperfox",
-        "description": "A security tool for proxying and recording HTTP and HTTPs traffic.",
+        "description": "HTTP/HTTPs proxy and recorder.",
         "url": "https://github.com/xiam/hyperfox",
         "homepage": "https://hyperfox.org",
         "avatar": "https://avatars.githubusercontent.com/u/385670?v=3",
         "ownerUrl": "https://github.com/xiam",
-        "stars": 787,
+        "stars": 788,
         "language": "Go"
     },
     {
@@ -116,7 +116,7 @@
         "homepage": "http://pyscribe.com",
         "avatar": "https://avatars.githubusercontent.com/u/3120367?v=3",
         "ownerUrl": "https://github.com/alixander",
-        "stars": 397,
+        "stars": 398,
         "language": "Python"
     },
     {
@@ -126,7 +126,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/554314?v=3",
         "ownerUrl": "https://github.com/sophron",
-        "stars": 3285,
+        "stars": 3288,
         "language": "Python"
     },
     {
@@ -136,7 +136,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1976088?v=3",
         "ownerUrl": "https://github.com/maciejczyzewski",
-        "stars": 1375,
+        "stars": 1380,
         "language": "C++"
     },
     {
@@ -146,7 +146,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/49260?v=3",
         "ownerUrl": "https://github.com/amjith",
-        "stars": 1805,
+        "stars": 5,
         "language": "Python"
     },
     {
@@ -156,7 +156,7 @@
         "homepage": "http://echarts.baidu.com/",
         "avatar": "https://avatars.githubusercontent.com/u/2268460?v=3",
         "ownerUrl": "https://github.com/ecomfe",
-        "stars": 6491,
+        "stars": 6523,
         "language": "JavaScript"
     },
     {
@@ -166,7 +166,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1069617?v=3",
         "ownerUrl": "https://github.com/Russell91",
-        "stars": 2383,
+        "stars": 2387,
         "language": "Python"
     },
     {
@@ -176,7 +176,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 1105,
+        "stars": 1106,
         "language": "Go"
     },
     {
@@ -186,7 +186,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/49260?v=3",
         "ownerUrl": "https://github.com/amjith",
-        "stars": 1805,
+        "stars": 5,
         "language": "Python"
     },
     {
@@ -196,7 +196,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/6577368?v=3",
         "ownerUrl": "https://github.com/systemjs",
-        "stars": 2248,
+        "stars": 2272,
         "language": "JavaScript"
     },
     {
@@ -206,7 +206,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/5572299?v=3",
         "ownerUrl": "https://github.com/hgarc014",
-        "stars": 1934,
+        "stars": 1936,
         "language": null
     },
     {
@@ -226,7 +226,7 @@
         "homepage": "http://ianlunn.github.io/Hover/",
         "avatar": "https://avatars.githubusercontent.com/u/694641?v=3",
         "ownerUrl": "https://github.com/IanLunn",
-        "stars": 9408,
+        "stars": 9438,
         "language": "CSS"
     },
     {
@@ -236,7 +236,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/5310542?v=3",
         "ownerUrl": "https://github.com/Aufree",
-        "stars": 2549,
+        "stars": 2593,
         "language": null
     },
     {
@@ -246,7 +246,7 @@
         "homepage": "https://play.google.com/store/apps/details?id=com.jakewharton.telecine",
         "avatar": "https://avatars.githubusercontent.com/u/66577?v=3",
         "ownerUrl": "https://github.com/JakeWharton",
-        "stars": 980,
+        "stars": 981,
         "language": "Java"
     },
     {
@@ -256,7 +256,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 1011,
+        "stars": 1016,
         "language": "C++"
     },
     {
@@ -266,7 +266,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/359395?v=3",
         "ownerUrl": "https://github.com/justjavac",
-        "stars": 595,
+        "stars": 600,
         "language": null
     },
     {
@@ -276,7 +276,7 @@
         "homepage": "http://git.io/icono",
         "avatar": "https://avatars.githubusercontent.com/u/1343083?v=3",
         "ownerUrl": "https://github.com/saeedalipoor",
-        "stars": 2776,
+        "stars": 2781,
         "language": "CSS"
     },
     {
@@ -286,7 +286,7 @@
         "homepage": "http://codepen.io/Zhouzi/full/JoRazP/",
         "avatar": "https://avatars.githubusercontent.com/u/2291025?v=3",
         "ownerUrl": "https://github.com/Zhouzi",
-        "stars": 2378,
+        "stars": 2381,
         "language": "HTML"
     },
     {
@@ -296,7 +296,7 @@
         "homepage": "http://rubaxa.github.io/Sortable/",
         "avatar": "https://avatars.githubusercontent.com/u/1109562?v=3",
         "ownerUrl": "https://github.com/RubaXa",
-        "stars": 3689,
+        "stars": 3808,
         "language": "JavaScript"
     },
     {
@@ -316,7 +316,7 @@
         "homepage": "https://iojs.org",
         "avatar": "https://avatars.githubusercontent.com/u/9950313?v=3",
         "ownerUrl": "https://github.com/iojs",
-        "stars": 11710,
+        "stars": 11763,
         "language": "JavaScript"
     },
     {
@@ -326,7 +326,7 @@
         "homepage": "http://nwjs.io",
         "avatar": "https://avatars.githubusercontent.com/u/10180421?v=3",
         "ownerUrl": "https://github.com/nwjs",
-        "stars": 21601,
+        "stars": 21671,
         "language": "C++"
     },
     {
@@ -346,7 +346,7 @@
         "homepage": "https://fastlane.tools",
         "avatar": "https://avatars.githubusercontent.com/u/869950?v=3",
         "ownerUrl": "https://github.com/KrauseFx",
-        "stars": 2006,
+        "stars": 2027,
         "language": "Ruby"
     },
     {
@@ -356,7 +356,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/17031?v=3",
         "ownerUrl": "https://github.com/jlongster",
-        "stars": 719,
+        "stars": 723,
         "language": "JavaScript"
     },
     {
@@ -366,7 +366,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9141961?v=3",
         "ownerUrl": "https://github.com/dotnet",
-        "stars": 1820,
+        "stars": 1840,
         "language": "C#"
     },
     {
@@ -376,7 +376,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/772?v=3",
         "ownerUrl": "https://github.com/alex",
-        "stars": 7790,
+        "stars": 7807,
         "language": null
     },
     {
@@ -386,7 +386,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/4978924?v=3",
         "ownerUrl": "https://github.com/torch",
-        "stars": 1794,
+        "stars": 1808,
         "language": "C"
     },
     {
@@ -396,7 +396,7 @@
         "homepage": "http://www.usebutton.com/sdk/deep-links",
         "avatar": "https://avatars.githubusercontent.com/u/7770987?v=3",
         "ownerUrl": "https://github.com/usebutton",
-        "stars": 951,
+        "stars": 954,
         "language": "Objective-C"
     },
     {
@@ -406,7 +406,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1359037?v=3",
         "ownerUrl": "https://github.com/yaronn",
-        "stars": 6103,
+        "stars": 6136,
         "language": "JavaScript"
     },
     {
@@ -416,7 +416,7 @@
         "homepage": "http://yalantis.com/",
         "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
         "ownerUrl": "https://github.com/Yalantis",
-        "stars": 1565,
+        "stars": 1582,
         "language": "Java"
     },
     {
@@ -426,7 +426,7 @@
         "homepage": "http://yalantis.com/",
         "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
         "ownerUrl": "https://github.com/Yalantis",
-        "stars": 1216,
+        "stars": 1234,
         "language": "Java"
     },
     {
@@ -436,7 +436,7 @@
         "homepage": "http://git.io/sheet",
         "avatar": "https://avatars.githubusercontent.com/u/4130574?v=3",
         "ownerUrl": "https://github.com/tiimgreen",
-        "stars": 15907,
+        "stars": 15932,
         "language": null
     },
     {
@@ -446,7 +446,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6306986?v=3",
         "ownerUrl": "https://github.com/JVillella",
-        "stars": 1011,
+        "stars": 1015,
         "language": "Objective-C"
     },
     {
@@ -456,7 +456,7 @@
         "homepage": "http://0xax.gitbooks.io/linux-insides/content/index.html",
         "avatar": "https://avatars.githubusercontent.com/u/2699235?v=3",
         "ownerUrl": "https://github.com/0xAX",
-        "stars": 4844,
+        "stars": 4993,
         "language": null
     },
     {
@@ -466,7 +466,7 @@
         "homepage": "http://siliconframework.org",
         "avatar": "https://avatars.githubusercontent.com/u/846584?v=3",
         "ownerUrl": "https://github.com/matt-42",
-        "stars": 777,
+        "stars": 776,
         "language": "C++"
     },
     {
@@ -486,7 +486,7 @@
         "homepage": "http://h5bp.github.io/Front-end-Developer-Interview-Questions/",
         "avatar": "https://avatars.githubusercontent.com/u/1136800?v=3",
         "ownerUrl": "https://github.com/h5bp",
-        "stars": 15249,
+        "stars": 15286,
         "language": null
     },
     {
@@ -496,7 +496,7 @@
         "homepage": "http://martyjs.org",
         "avatar": "https://avatars.githubusercontent.com/u/9610603?v=3",
         "ownerUrl": "https://github.com/martyjs",
-        "stars": 896,
+        "stars": 903,
         "language": "JavaScript"
     },
     {
@@ -506,7 +506,7 @@
         "homepage": "https://muut.com/riotjs/",
         "avatar": "https://avatars.githubusercontent.com/u/7271004?v=3",
         "ownerUrl": "https://github.com/muut",
-        "stars": 5966,
+        "stars": 5990,
         "language": "JavaScript"
     },
     {
@@ -516,7 +516,7 @@
         "homepage": "http://gitlet.maryrosecook.com",
         "avatar": "https://avatars.githubusercontent.com/u/2716?v=3",
         "ownerUrl": "https://github.com/maryrosecook",
-        "stars": 1165,
+        "stars": 1167,
         "language": "JavaScript"
     },
     {
@@ -526,7 +526,7 @@
         "homepage": "http://libreboard.com",
         "avatar": "https://avatars.githubusercontent.com/u/10408837?v=3",
         "ownerUrl": "https://github.com/libreboard",
-        "stars": 3627,
+        "stars": 3636,
         "language": null
     },
     {
@@ -536,7 +536,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/4211072?v=3",
         "ownerUrl": "https://github.com/defuse",
-        "stars": 771,
+        "stars": 773,
         "language": "C"
     },
     {
@@ -556,7 +556,7 @@
         "homepage": "http://paperwork.rocks",
         "avatar": "https://avatars.githubusercontent.com/u/475581?v=3",
         "ownerUrl": "https://github.com/twostairs",
-        "stars": 3835,
+        "stars": 3845,
         "language": "JavaScript"
     },
     {
@@ -566,7 +566,7 @@
         "homepage": "http://honnibal.github.io/spaCy",
         "avatar": "https://avatars.githubusercontent.com/u/8059750?v=3",
         "ownerUrl": "https://github.com/honnibal",
-        "stars": 826,
+        "stars": 828,
         "language": "Python"
     },
     {
@@ -576,7 +576,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/10684892?v=3",
         "ownerUrl": "https://github.com/shipitjs",
-        "stars": 2015,
+        "stars": 2028,
         "language": "JavaScript"
     },
     {
@@ -586,7 +586,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9808864?v=3",
         "ownerUrl": "https://github.com/aurelia",
-        "stars": 2476,
+        "stars": 2529,
         "language": "JavaScript"
     },
     {
@@ -596,7 +596,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1824859?v=3",
         "ownerUrl": "https://github.com/venantius",
-        "stars": 612,
+        "stars": 614,
         "language": "Clojure"
     },
     {
@@ -606,7 +606,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/552817?v=3",
         "ownerUrl": "https://github.com/tylertreat",
-        "stars": 3517,
+        "stars": 3520,
         "language": "Go"
     },
     {
@@ -616,7 +616,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/193389?v=3",
         "ownerUrl": "https://github.com/etsy",
-        "stars": 2185,
+        "stars": 2189,
         "language": "Go"
     },
     {
@@ -626,17 +626,17 @@
         "homepage": "https://arasatasaygin.github.io/is.js",
         "avatar": "https://avatars.githubusercontent.com/u/2171796?v=3",
         "ownerUrl": "https://github.com/arasatasaygin",
-        "stars": 5644,
+        "stars": 5654,
         "language": "JavaScript"
     },
     {
         "name": "react",
         "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
         "url": "https://github.com/facebook/react",
-        "homepage": "http://facebook.github.io/react/",
+        "homepage": "https://facebook.github.io/react/",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 20439,
+        "stars": 20634,
         "language": "JavaScript"
     },
     {
@@ -646,7 +646,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/3299148?v=3",
         "ownerUrl": "https://github.com/awslabs",
-        "stars": 1450,
+        "stars": 1459,
         "language": "Go"
     },
     {
@@ -656,7 +656,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/830588?v=3",
         "ownerUrl": "https://github.com/phusion",
-        "stars": 1503,
+        "stars": 1508,
         "language": "ApacheConf"
     },
     {
@@ -666,7 +666,7 @@
         "homepage": "https://sandstorm.io",
         "avatar": "https://avatars.githubusercontent.com/u/7479094?v=3",
         "ownerUrl": "https://github.com/sandstorm-io",
-        "stars": 2354,
+        "stars": 2361,
         "language": "C++"
     },
     {
@@ -676,7 +676,7 @@
         "homepage": "http://designcode.io",
         "avatar": "https://avatars.githubusercontent.com/u/1065452?v=3",
         "ownerUrl": "https://github.com/MengTo",
-        "stars": 3527,
+        "stars": 3564,
         "language": "Swift"
     },
     {
@@ -696,7 +696,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2389333?v=3",
         "ownerUrl": "https://github.com/KeyboardFire",
-        "stars": 3232,
+        "stars": 3233,
         "language": "Python"
     },
     {
@@ -706,7 +706,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/9535064?v=3",
         "ownerUrl": "https://github.com/USArmyResearchLab",
-        "stars": 3639,
+        "stars": 3646,
         "language": "Python"
     },
     {
@@ -716,7 +716,7 @@
         "homepage": "http://gaearon.github.io/react-hot-loader/",
         "avatar": "https://avatars.githubusercontent.com/u/810438?v=3",
         "ownerUrl": "https://github.com/gaearon",
-        "stars": 1531,
+        "stars": 1554,
         "language": "JavaScript"
     },
     {
@@ -726,7 +726,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9141961?v=3",
         "ownerUrl": "https://github.com/dotnet",
-        "stars": 4188,
+        "stars": 4212,
         "language": "C#"
     },
     {
@@ -736,7 +736,7 @@
         "homepage": "http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example",
         "avatar": "https://avatars.githubusercontent.com/u/974035?v=3",
         "ownerUrl": "https://github.com/voronianski",
-        "stars": 1032,
+        "stars": 1051,
         "language": "JavaScript"
     },
     {
@@ -746,7 +746,7 @@
         "homepage": "http://resrc.io/list/10/list-of-free-programming-books/",
         "avatar": "https://avatars.githubusercontent.com/u/2022803?v=3",
         "ownerUrl": "https://github.com/vhf",
-        "stars": 38380,
+        "stars": 38481,
         "language": null
     },
     {
@@ -756,7 +756,7 @@
         "homepage": "http://prometheus.io/",
         "avatar": "https://avatars.githubusercontent.com/u/3380462?v=3",
         "ownerUrl": "https://github.com/prometheus",
-        "stars": 1976,
+        "stars": 1991,
         "language": "Go"
     },
     {
@@ -766,7 +766,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/16574?v=3",
         "ownerUrl": "https://github.com/yahoo",
-        "stars": 1078,
+        "stars": 1084,
         "language": "Scala"
     },
     {
@@ -776,7 +776,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/7151133?v=3",
         "ownerUrl": "https://github.com/ShiqiYu",
-        "stars": 428,
+        "stars": 429,
         "language": "C++"
     },
     {
@@ -786,7 +786,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/520208?v=3",
         "ownerUrl": "https://github.com/fogleman",
-        "stars": 857,
+        "stars": 856,
         "language": "Go"
     },
     {
@@ -826,7 +826,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/8056274?v=3",
         "ownerUrl": "https://github.com/phanan",
-        "stars": 8156,
+        "stars": 8161,
         "language": null
     },
     {
@@ -836,7 +836,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/4332159?v=3",
         "ownerUrl": "https://github.com/mofarrell",
-        "stars": 2289,
+        "stars": 2294,
         "language": "C"
     },
     {
@@ -846,7 +846,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9373039?v=3",
         "ownerUrl": "https://github.com/HubPress",
-        "stars": 1894,
+        "stars": 1904,
         "language": "CSS"
     },
     {
@@ -856,7 +856,7 @@
         "homepage": "http://hematite.piston.rs/",
         "avatar": "https://avatars.githubusercontent.com/u/7623406?v=3",
         "ownerUrl": "https://github.com/PistonDevelopers",
-        "stars": 551,
+        "stars": 554,
         "language": "Rust"
     },
     {
@@ -866,7 +866,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/457049?v=3",
         "ownerUrl": "https://github.com/Flipboard",
-        "stars": 5527,
+        "stars": 5549,
         "language": "JavaScript"
     },
     {
@@ -876,7 +876,7 @@
         "homepage": "http://www.reapp.io",
         "avatar": "https://avatars.githubusercontent.com/u/10092752?v=3",
         "ownerUrl": "https://github.com/reapp",
-        "stars": 2108,
+        "stars": 2122,
         "language": "JavaScript"
     },
     {
@@ -896,7 +896,7 @@
         "homepage": "http://sdelements.github.io/lets-chat",
         "avatar": "https://avatars.githubusercontent.com/u/739346?v=3",
         "ownerUrl": "https://github.com/sdelements",
-        "stars": 6128,
+        "stars": 6164,
         "language": "JavaScript"
     },
     {
@@ -906,7 +906,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/11059670?v=3",
         "ownerUrl": "https://github.com/mariuszostrowski",
-        "stars": 2483,
+        "stars": 2490,
         "language": null
     },
     {
@@ -926,7 +926,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/4385357?v=3",
         "ownerUrl": "https://github.com/dasdom",
-        "stars": 1202,
+        "stars": 1204,
         "language": "Swift"
     },
     {
@@ -936,7 +936,7 @@
         "homepage": "http://websocketd.com/",
         "avatar": "https://avatars.githubusercontent.com/u/48950?v=3",
         "ownerUrl": "https://github.com/joewalnes",
-        "stars": 6140,
+        "stars": 6148,
         "language": "Go"
     },
     {
@@ -946,7 +946,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/223467?v=3",
         "ownerUrl": "https://github.com/lukehoban",
-        "stars": 5682,
+        "stars": 5745,
         "language": null
     },
     {
@@ -956,7 +956,7 @@
         "homepage": "https://babeljs.io/",
         "avatar": "https://avatars.githubusercontent.com/u/9637642?v=3",
         "ownerUrl": "https://github.com/babel",
-        "stars": 5180,
+        "stars": 5272,
         "language": "JavaScript"
     },
     {
@@ -966,7 +966,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2864371?v=3",
         "ownerUrl": "https://github.com/IonicaBizau",
-        "stars": 2965,
+        "stars": 2973,
         "language": "JavaScript"
     },
     {
@@ -976,7 +976,7 @@
         "homepage": "http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series",
         "avatar": "https://avatars.githubusercontent.com/u/150330?v=3",
         "ownerUrl": "https://github.com/getify",
-        "stars": 14017,
+        "stars": 14287,
         "language": "JavaScript"
     },
     {
@@ -986,7 +986,7 @@
         "homepage": "http://facebook.github.io/stetho/",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 2415,
+        "stars": 2449,
         "language": "Java"
     },
     {
@@ -996,7 +996,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/39191?v=3",
         "ownerUrl": "https://github.com/paulirish",
-        "stars": 1577,
+        "stars": 1579,
         "language": "JavaScript"
     },
     {
@@ -1006,7 +1006,7 @@
         "homepage": "http://leaverou.github.io/awesomplete/",
         "avatar": "https://avatars.githubusercontent.com/u/175836?v=3",
         "ownerUrl": "https://github.com/LeaVerou",
-        "stars": 3512,
+        "stars": 3527,
         "language": "HTML"
     },
     {
@@ -1016,7 +1016,7 @@
         "homepage": "https://highlightjs.org/",
         "avatar": "https://avatars.githubusercontent.com/u/99931?v=3",
         "ownerUrl": "https://github.com/isagalaev",
-        "stars": 5102,
+        "stars": 5121,
         "language": "JavaScript"
     },
     {
@@ -1026,7 +1026,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/82592?v=3",
         "ownerUrl": "https://github.com/square",
-        "stars": 1115,
+        "stars": 1122,
         "language": "Java"
     },
     {
@@ -1036,7 +1036,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1206121?v=3",
         "ownerUrl": "https://github.com/bolshchikov",
-        "stars": 9008,
+        "stars": 9021,
         "language": null
     },
     {
@@ -1046,7 +1046,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/8465?v=3",
         "ownerUrl": "https://github.com/motemen",
-        "stars": 926,
+        "stars": 928,
         "language": "Go"
     },
     {
@@ -1056,7 +1056,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/56500?v=3",
         "ownerUrl": "https://github.com/yuin",
-        "stars": 773,
+        "stars": 777,
         "language": "Go"
     },
     {
@@ -1066,7 +1066,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2857535?v=3",
         "ownerUrl": "https://github.com/moklick",
-        "stars": 6717,
+        "stars": 6723,
         "language": null
     },
     {
@@ -1076,7 +1076,7 @@
         "homepage": "http://bsago.me/exa",
         "avatar": "https://avatars.githubusercontent.com/u/503760?v=3",
         "ownerUrl": "https://github.com/ogham",
-        "stars": 508,
+        "stars": 510,
         "language": "Rust"
     },
     {
@@ -1086,7 +1086,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6009070?v=3",
         "ownerUrl": "https://github.com/Swordfish90",
-        "stars": 3479,
+        "stars": 3482,
         "language": "QML"
     },
     {
@@ -1106,7 +1106,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/51664?v=3",
         "ownerUrl": "https://github.com/bendc",
-        "stars": 4815,
+        "stars": 4822,
         "language": null
     },
     {
@@ -1116,7 +1116,7 @@
         "homepage": "http://atlas.layer.com/",
         "avatar": "https://avatars.githubusercontent.com/u/5497685?v=3",
         "ownerUrl": "https://github.com/layerhq",
-        "stars": 2122,
+        "stars": 2138,
         "language": "Objective-C"
     },
     {
@@ -1126,7 +1126,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1097232?v=3",
         "ownerUrl": "https://github.com/maxwellito",
-        "stars": 3712,
+        "stars": 3721,
         "language": "JavaScript"
     },
     {
@@ -1136,7 +1136,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9343010?v=3",
         "ownerUrl": "https://github.com/rancherio",
-        "stars": 1174,
+        "stars": 1183,
         "language": "Go"
     },
     {
@@ -1146,7 +1146,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/7802525?v=3",
         "ownerUrl": "https://github.com/grpc",
-        "stars": 2456,
+        "stars": 2469,
         "language": "C"
     },
     {
@@ -1176,7 +1176,7 @@
         "homepage": "http://paz.sh",
         "avatar": "https://avatars.githubusercontent.com/u/11271984?v=3",
         "ownerUrl": "https://github.com/paz-sh",
-        "stars": 924,
+        "stars": 932,
         "language": "Shell"
     },
     {
@@ -1186,7 +1186,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/475463?v=3",
         "ownerUrl": "https://github.com/matteocrippa",
-        "stars": 2599,
+        "stars": 2622,
         "language": null
     },
     {
@@ -1196,7 +1196,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/353943?v=3",
         "ownerUrl": "https://github.com/Naituw",
-        "stars": 639,
+        "stars": 643,
         "language": "Objective-C"
     },
     {
@@ -1226,7 +1226,7 @@
         "homepage": "https://sbstjn.github.io/timesheet.js",
         "avatar": "https://avatars.githubusercontent.com/u/248965?v=3",
         "ownerUrl": "https://github.com/sbstjn",
-        "stars": 5362,
+        "stars": 5367,
         "language": "JavaScript"
     },
     {
@@ -1236,7 +1236,7 @@
         "homepage": "http://www.idangero.us/swiper/",
         "avatar": "https://avatars.githubusercontent.com/u/999588?v=3",
         "ownerUrl": "https://github.com/nolimits4web",
-        "stars": 4503,
+        "stars": 4539,
         "language": "JavaScript"
     },
     {
@@ -1246,7 +1246,7 @@
         "homepage": "http://plyr.io",
         "avatar": "https://avatars.githubusercontent.com/u/5273825?v=3",
         "ownerUrl": "https://github.com/Selz",
-        "stars": 3487,
+        "stars": 3504,
         "language": "JavaScript"
     },
     {
@@ -1256,7 +1256,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/4251257?v=3",
         "ownerUrl": "https://github.com/ryanmjacobs",
-        "stars": 1181,
+        "stars": 1184,
         "language": "C"
     },
     {
@@ -1266,7 +1266,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/47910?v=3",
         "ownerUrl": "https://github.com/pgte",
-        "stars": 2003,
+        "stars": 2013,
         "language": "JavaScript"
     },
     {
@@ -1276,7 +1276,7 @@
         "homepage": "http://www.nativescript.org",
         "avatar": "https://avatars.githubusercontent.com/u/7392261?v=3",
         "ownerUrl": "https://github.com/NativeScript",
-        "stars": 2843,
+        "stars": 2874,
         "language": null
     },
     {
@@ -1286,7 +1286,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5193687?v=3",
         "ownerUrl": "https://github.com/vektra",
-        "stars": 669,
+        "stars": 672,
         "language": "Go"
     },
     {
@@ -1296,7 +1296,7 @@
         "homepage": "https://mango.github.io/slideout/",
         "avatar": "https://avatars.githubusercontent.com/u/5920385?v=3",
         "ownerUrl": "https://github.com/Mango",
-        "stars": 4087,
+        "stars": 4106,
         "language": "JavaScript"
     },
     {
@@ -1306,7 +1306,7 @@
         "homepage": "http://airbnb.github.io/airpal",
         "avatar": "https://avatars.githubusercontent.com/u/698437?v=3",
         "ownerUrl": "https://github.com/airbnb",
-        "stars": 781,
+        "stars": 788,
         "language": "Java"
     },
     {
@@ -1316,7 +1316,7 @@
         "homepage": "http://designcode.io/",
         "avatar": "https://avatars.githubusercontent.com/u/1065452?v=3",
         "ownerUrl": "https://github.com/MengTo",
-        "stars": 1028,
+        "stars": 1029,
         "language": null
     },
     {
@@ -1326,7 +1326,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/5016978?v=3",
         "ownerUrl": "https://github.com/divmain",
-        "stars": 1058,
+        "stars": 1062,
         "language": "Python"
     },
     {
@@ -1336,7 +1336,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/40650?v=3",
         "ownerUrl": "https://github.com/mroth",
-        "stars": 1286,
+        "stars": 1288,
         "language": "JavaScript"
     },
     {
@@ -1346,7 +1346,7 @@
         "homepage": "https://www.npmjs.com/gitgoodies",
         "avatar": "https://avatars.githubusercontent.com/u/1139621?v=3",
         "ownerUrl": "https://github.com/qw3rtman",
-        "stars": 819,
+        "stars": 818,
         "language": "JavaScript"
     },
     {
@@ -1356,7 +1356,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1089616?v=3",
         "ownerUrl": "https://github.com/orhanobut",
-        "stars": 902,
+        "stars": 914,
         "language": "Java"
     },
     {
@@ -1366,7 +1366,7 @@
         "homepage": "http://pheuter.github.io/essential-react/",
         "avatar": "https://avatars.githubusercontent.com/u/92698?v=3",
         "ownerUrl": "https://github.com/pheuter",
-        "stars": 1373,
+        "stars": 1381,
         "language": "JavaScript"
     },
     {
@@ -1376,7 +1376,7 @@
         "homepage": "http://www.google.com/fonts",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 3254,
+        "stars": 3278,
         "language": "HTML"
     },
     {
@@ -1386,7 +1386,7 @@
         "homepage": "http://lab.hakim.se",
         "avatar": "https://avatars.githubusercontent.com/u/629429?v=3",
         "ownerUrl": "https://github.com/hakimel",
-        "stars": 2097,
+        "stars": 2101,
         "language": "JavaScript"
     },
     {
@@ -1396,7 +1396,7 @@
         "homepage": "http://danielrapp.github.io/doppler/",
         "avatar": "https://avatars.githubusercontent.com/u/442870?v=3",
         "ownerUrl": "https://github.com/DanielRapp",
-        "stars": 1812,
+        "stars": 1820,
         "language": "JavaScript"
     },
     {
@@ -1406,7 +1406,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/582346?v=3",
         "ownerUrl": "https://github.com/iluwatar",
-        "stars": 4970,
+        "stars": 5030,
         "language": "Java"
     },
     {
@@ -1416,7 +1416,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2571951?v=3",
         "ownerUrl": "https://github.com/Yomguithereal",
-        "stars": 871,
+        "stars": 885,
         "language": "JavaScript"
     },
     {
@@ -1426,7 +1426,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/946459?v=3",
         "ownerUrl": "https://github.com/wishstudio",
-        "stars": 2829,
+        "stars": 2834,
         "language": "C"
     },
     {
@@ -1436,7 +1436,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/7378196?v=3",
         "ownerUrl": "https://github.com/googlesamples",
-        "stars": 3032,
+        "stars": 3045,
         "language": "Java"
     },
     {
@@ -1446,7 +1446,7 @@
         "homepage": "https://kitematic.com",
         "avatar": "https://avatars.githubusercontent.com/u/8460345?v=3",
         "ownerUrl": "https://github.com/kitematic",
-        "stars": 3616,
+        "stars": 3665,
         "language": "JavaScript"
     },
     {
@@ -1456,7 +1456,7 @@
         "homepage": "http://designcode.io",
         "avatar": "https://avatars.githubusercontent.com/u/1065452?v=3",
         "ownerUrl": "https://github.com/MengTo",
-        "stars": 946,
+        "stars": 951,
         "language": "Objective-C"
     },
     {
@@ -1466,17 +1466,17 @@
         "homepage": "http://hyper.no",
         "avatar": "https://avatars.githubusercontent.com/u/1340892?v=3",
         "ownerUrl": "https://github.com/hyperoslo",
-        "stars": 949,
+        "stars": 962,
         "language": "Objective-C"
     },
     {
         "name": "jvm.go",
-        "description": "A JVM written in GO...",
+        "description": "A JVM written in Go",
         "url": "https://github.com/zxh0/jvm.go",
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/5507614?v=3",
         "ownerUrl": "https://github.com/zxh0",
-        "stars": 1305,
+        "stars": 1310,
         "language": "Go"
     },
     {
@@ -1486,7 +1486,7 @@
         "homepage": "http://sirius.clarity-lab.org",
         "avatar": "https://avatars.githubusercontent.com/u/2567493?v=3",
         "ownerUrl": "https://github.com/jhauswald",
-        "stars": 3182,
+        "stars": 3195,
         "language": "C++"
     },
     {
@@ -1496,7 +1496,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/153008?v=3",
         "ownerUrl": "https://github.com/solidsnack",
-        "stars": 562,
+        "stars": 564,
         "language": "PLpgSQL"
     },
     {
@@ -1506,7 +1506,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/20110?v=3",
         "ownerUrl": "https://github.com/matiasinsaurralde",
-        "stars": 938,
+        "stars": 970,
         "language": "Groff"
     },
     {
@@ -1516,7 +1516,7 @@
         "homepage": "http://gogs.io",
         "avatar": "https://avatars.githubusercontent.com/u/6656686?v=3",
         "ownerUrl": "https://github.com/gogits",
-        "stars": 7145,
+        "stars": 7159,
         "language": "Go"
     },
     {
@@ -1526,7 +1526,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1086545?v=3",
         "ownerUrl": "https://github.com/lhartikk",
-        "stars": 405,
+        "stars": 407,
         "language": "Python"
     },
     {
@@ -1536,7 +1536,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 2366,
+        "stars": 2386,
         "language": "Go"
     },
     {
@@ -1556,7 +1556,7 @@
         "homepage": "http://riccardoscalco.github.io/textures/",
         "avatar": "https://avatars.githubusercontent.com/u/1370300?v=3",
         "ownerUrl": "https://github.com/riccardoscalco",
-        "stars": 2860,
+        "stars": 2866,
         "language": "CoffeeScript"
     },
     {
@@ -1566,7 +1566,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 1916,
+        "stars": 1927,
         "language": "C#"
     },
     {
@@ -1576,7 +1576,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 521,
+        "stars": 524,
         "language": "C++"
     },
     {
@@ -1586,7 +1586,7 @@
         "homepage": "https://skywinder.github.io/github-changelog-generator/",
         "avatar": "https://avatars.githubusercontent.com/u/3356474?v=3",
         "ownerUrl": "https://github.com/skywinder",
-        "stars": 1060,
+        "stars": 1074,
         "language": "Ruby"
     },
     {
@@ -1596,7 +1596,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/495143?v=3",
         "ownerUrl": "https://github.com/pdcgomes",
-        "stars": 1039,
+        "stars": 1044,
         "language": "Objective-C"
     },
     {
@@ -1606,7 +1606,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/4797?v=3",
         "ownerUrl": "https://github.com/cparnot",
-        "stars": 1395,
+        "stars": 1396,
         "language": "Objective-C"
     },
     {
@@ -1616,7 +1616,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1571674?v=3",
         "ownerUrl": "https://github.com/jtleek",
-        "stars": 1435,
+        "stars": 1470,
         "language": null
     },
     {
@@ -1626,7 +1626,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/9612?v=3",
         "ownerUrl": "https://github.com/rdpeng",
-        "stars": 137,
+        "stars": 141,
         "language": "R"
     },
     {
@@ -1636,7 +1636,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/988750?v=3",
         "ownerUrl": "https://github.com/anacrolix",
-        "stars": 804,
+        "stars": 809,
         "language": "Go"
     },
     {
@@ -1646,7 +1646,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/11178375?v=3",
         "ownerUrl": "https://github.com/simple-android-framework-exchange",
-        "stars": 986,
+        "stars": 998,
         "language": "Java"
     },
     {
@@ -1656,7 +1656,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/60294?v=3",
         "ownerUrl": "https://github.com/kriskowal",
-        "stars": 1091,
+        "stars": 1095,
         "language": "JavaScript"
     },
     {
@@ -1666,7 +1666,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1411571?v=3",
         "ownerUrl": "https://github.com/pcqpcq",
-        "stars": 1716,
+        "stars": 1726,
         "language": null
     },
     {
@@ -1676,7 +1676,7 @@
         "homepage": "http://primercss.io",
         "avatar": "https://avatars.githubusercontent.com/u/7143434?v=3",
         "ownerUrl": "https://github.com/primer",
-        "stars": 3289,
+        "stars": 3326,
         "language": "CSS"
     },
     {
@@ -1686,7 +1686,7 @@
         "homepage": "https://facebook.github.io/augmented-traffic-control",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 2178,
+        "stars": 2187,
         "language": "Python"
     },
     {
@@ -1696,7 +1696,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/520208?v=3",
         "ownerUrl": "https://github.com/fogleman",
-        "stars": 1431,
+        "stars": 1435,
         "language": "Go"
     },
     {
@@ -1706,7 +1706,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2434110?v=3",
         "ownerUrl": "https://github.com/ardagnir",
-        "stars": 795,
+        "stars": 796,
         "language": "JavaScript"
     },
     {
@@ -1716,7 +1716,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2453159?v=3",
         "ownerUrl": "https://github.com/mikechau",
-        "stars": 3221,
+        "stars": 3237,
         "language": null
     },
     {
@@ -1726,7 +1726,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 2514,
+        "stars": 2531,
         "language": "Java"
     },
     {
@@ -1736,7 +1736,7 @@
         "homepage": "http://connoratherton.com/loaders",
         "avatar": "https://avatars.githubusercontent.com/u/3777511?v=3",
         "ownerUrl": "https://github.com/ConnorAtherton",
-        "stars": 3835,
+        "stars": 3914,
         "language": "CSS"
     },
     {
@@ -1746,7 +1746,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/11618545?v=3",
         "ownerUrl": "https://github.com/vim",
-        "stars": 2952,
+        "stars": 2963,
         "language": "C"
     },
     {
@@ -1756,7 +1756,7 @@
         "homepage": "http://www.componentkit.org/",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 1821,
+        "stars": 1847,
         "language": "Objective-C++"
     },
     {
@@ -1766,7 +1766,7 @@
         "homepage": "http://facebook.github.io/react-native/",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 12601,
+        "stars": 12832,
         "language": "JavaScript"
     },
     {
@@ -1776,7 +1776,7 @@
         "homepage": "http://frescolib.org/",
         "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
         "ownerUrl": "https://github.com/facebook",
-        "stars": 3579,
+        "stars": 3630,
         "language": "Java"
     },
     {
@@ -1786,7 +1786,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2100512?v=3",
         "ownerUrl": "https://github.com/gizak",
-        "stars": 3146,
+        "stars": 3174,
         "language": "Go"
     },
     {
@@ -1796,7 +1796,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/698437?v=3",
         "ownerUrl": "https://github.com/airbnb",
-        "stars": 17287,
+        "stars": 17400,
         "language": "JavaScript"
     },
     {
@@ -1816,7 +1816,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/185084?v=3",
         "ownerUrl": "https://github.com/thampiman",
-        "stars": 1058,
+        "stars": 1062,
         "language": "Python"
     },
     {
@@ -1826,7 +1826,7 @@
         "homepage": "http://keras.io/",
         "avatar": "https://avatars.githubusercontent.com/u/710255?v=3",
         "ownerUrl": "https://github.com/fchollet",
-        "stars": 656,
+        "stars": 666,
         "language": "Python"
     },
     {
@@ -1836,7 +1836,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/80?v=3",
         "ownerUrl": "https://github.com/ry",
-        "stars": 737,
+        "stars": 770,
         "language": "C++"
     },
     {
@@ -1846,7 +1846,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/82342?v=3",
         "ownerUrl": "https://github.com/ripienaar",
-        "stars": 8064,
+        "stars": 8620,
         "language": null
     },
     {
@@ -1856,7 +1856,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/137467?v=3",
         "ownerUrl": "https://github.com/steeve",
-        "stars": 2254,
+        "stars": 2267,
         "language": null
     },
     {
@@ -1866,7 +1866,7 @@
         "homepage": "http://labstack.github.io/echo",
         "avatar": "https://avatars.githubusercontent.com/u/2624634?v=3",
         "ownerUrl": "https://github.com/labstack",
-        "stars": 1479,
+        "stars": 1508,
         "language": "Go"
     },
     {
@@ -1876,7 +1876,7 @@
         "homepage": "http://orbit.bioware.com/",
         "avatar": "https://avatars.githubusercontent.com/u/1637638?v=3",
         "ownerUrl": "https://github.com/electronicarts",
-        "stars": 670,
+        "stars": 683,
         "language": "Java"
     },
     {
@@ -1886,7 +1886,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/810671?v=3",
         "ownerUrl": "https://github.com/PixelsCommander",
-        "stars": 1888,
+        "stars": 1904,
         "language": "JavaScript"
     },
     {
@@ -1896,7 +1896,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 2288,
+        "stars": 2324,
         "language": "Python"
     },
     {
@@ -1906,7 +1906,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1058839?v=3",
         "ownerUrl": "https://github.com/Matt-Esch",
-        "stars": 3415,
+        "stars": 3432,
         "language": "JavaScript"
     },
     {
@@ -1916,7 +1916,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/366926?v=3",
         "ownerUrl": "https://github.com/danielgindi",
-        "stars": 2368,
+        "stars": 2428,
         "language": "Swift"
     },
     {
@@ -1926,7 +1926,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/7255542?v=3",
         "ownerUrl": "https://github.com/n1trux",
-        "stars": 2560,
+        "stars": 2585,
         "language": null
     },
     {
@@ -1936,7 +1936,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/827224?v=3",
         "ownerUrl": "https://github.com/agis-",
-        "stars": 2773,
+        "stars": 2837,
         "language": null
     },
     {
@@ -1946,7 +1946,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/7538316?v=3",
         "ownerUrl": "https://github.com/rc0x03",
-        "stars": 1717,
+        "stars": 1754,
         "language": "JavaScript"
     },
     {
@@ -1956,7 +1956,7 @@
         "homepage": "http://xto6.com",
         "avatar": "https://avatars.githubusercontent.com/u/6104558?v=3",
         "ownerUrl": "https://github.com/mohebifar",
-        "stars": 752,
+        "stars": 763,
         "language": "JavaScript"
     },
     {
@@ -1966,7 +1966,7 @@
         "homepage": "http://crudlet.herokuapp.com",
         "avatar": "https://avatars.githubusercontent.com/u/8062239?v=3",
         "ownerUrl": "https://github.com/mojo-js",
-        "stars": 605,
+        "stars": 609,
         "language": "JavaScript"
     },
     {
@@ -1976,7 +1976,7 @@
         "homepage": "http://beepjs.com",
         "avatar": "https://avatars.githubusercontent.com/u/342184?v=3",
         "ownerUrl": "https://github.com/stewdio",
-        "stars": 942,
+        "stars": 986,
         "language": "JavaScript"
     },
     {
@@ -1986,7 +1986,7 @@
         "homepage": "https://illacceptanything.github.io/",
         "avatar": "https://avatars.githubusercontent.com/u/11853526?v=3",
         "ownerUrl": "https://github.com/illacceptanything",
-        "stars": 1076,
+        "stars": 1079,
         "language": "HTML"
     },
     {
@@ -1996,7 +1996,7 @@
         "homepage": "http://getkaiwa.com",
         "avatar": "https://avatars.githubusercontent.com/u/8895497?v=3",
         "ownerUrl": "https://github.com/digicoop",
-        "stars": 827,
+        "stars": 844,
         "language": "JavaScript"
     },
     {
@@ -2006,7 +2006,7 @@
         "homepage": "https://git-lfs.github.com",
         "avatar": "https://avatars.githubusercontent.com/u/9919?v=3",
         "ownerUrl": "https://github.com/github",
-        "stars": 1624,
+        "stars": 1684,
         "language": "Go"
     },
     {
@@ -2016,7 +2016,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1579644?v=3",
         "ownerUrl": "https://github.com/cjwirth",
-        "stars": 3734,
+        "stars": 4002,
         "language": null
     },
     {
@@ -2026,7 +2026,7 @@
         "homepage": "https://boltons.readthedocs.org",
         "avatar": "https://avatars.githubusercontent.com/u/130193?v=3",
         "ownerUrl": "https://github.com/mahmoud",
-        "stars": 2192,
+        "stars": 2248,
         "language": "Python"
     },
     {
@@ -2036,7 +2036,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9858782?v=3",
         "ownerUrl": "https://github.com/botwillacceptanything",
-        "stars": 920,
+        "stars": 925,
         "language": "JavaScript"
     },
     {
@@ -2046,7 +2046,7 @@
         "homepage": "http://fbmacmessenger.rsms.me/",
         "avatar": "https://avatars.githubusercontent.com/u/47046?v=3",
         "ownerUrl": "https://github.com/rsms",
-        "stars": 1028,
+        "stars": 1047,
         "language": "JavaScript"
     },
     {
@@ -2056,7 +2056,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1788009?v=3",
         "ownerUrl": "https://github.com/inFullMobile",
-        "stars": 1187,
+        "stars": 1253,
         "language": "Swift"
     },
     {
@@ -2066,7 +2066,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/33167?v=3",
         "ownerUrl": "https://github.com/tibastral",
-        "stars": 774,
+        "stars": 802,
         "language": "JavaScript"
     },
     {
@@ -2076,7 +2076,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/912719?v=3",
         "ownerUrl": "https://github.com/tsx",
-        "stars": 865,
+        "stars": 914,
         "language": "JavaScript"
     },
     {
@@ -2086,7 +2086,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
         "ownerUrl": "https://github.com/Yalantis",
-        "stars": 656,
+        "stars": 719,
         "language": "Java"
     },
     {
@@ -2096,7 +2096,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1019875?v=3",
         "ownerUrl": "https://github.com/onevcat",
-        "stars": 1078,
+        "stars": 1307,
         "language": "Swift"
     },
     {
@@ -2106,7 +2106,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2023165?v=3",
         "ownerUrl": "https://github.com/timjacobi",
-        "stars": 1092,
+        "stars": 1281,
         "language": null
     },
     {
@@ -2116,7 +2116,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/4544152?v=3",
         "ownerUrl": "https://github.com/JadenGeller",
-        "stars": 728,
+        "stars": 816,
         "language": "Objective-C"
     },
     {
@@ -2126,7 +2126,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/11183179?v=3",
         "ownerUrl": "https://github.com/ResearchKit",
-        "stars": 2772,
+        "stars": 3176,
         "language": "Objective-C"
     },
     {
@@ -2136,7 +2136,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/958072?v=3",
         "ownerUrl": "https://github.com/laravel",
-        "stars": 1555,
+        "stars": 1864,
         "language": "PHP"
     },
     {
@@ -2146,7 +2146,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/547147?v=3",
         "ownerUrl": "https://github.com/knadh",
-        "stars": 463,
+        "stars": 498,
         "language": "Go"
     },
     {
@@ -2156,7 +2156,7 @@
         "homepage": "http://bevacqua.github.io/dragula",
         "avatar": "https://avatars.githubusercontent.com/u/934293?v=3",
         "ownerUrl": "https://github.com/bevacqua",
-        "stars": 1417,
+        "stars": 2931,
         "language": "JavaScript"
     },
     {
@@ -2166,7 +2166,7 @@
         "homepage": "http://t3js.org",
         "avatar": "https://avatars.githubusercontent.com/u/23900?v=3",
         "ownerUrl": "https://github.com/box",
-        "stars": 675,
+        "stars": 938,
         "language": "JavaScript"
     },
     {
@@ -2176,17 +2176,47 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/31698?v=3",
         "ownerUrl": "https://github.com/eliotsykes",
-        "stars": 543,
+        "stars": 713,
         "language": "Ruby"
     },
     {
         "name": "layzr.js",
-        "description": "A small, fast, modern, and dependency-free library for lazy loading images.",
+        "description": "A small, fast, modern, and dependency-free library for lazy loading.",
         "url": "https://github.com/callmecavs/layzr.js",
         "homepage": "http://callmecavs.github.io/layzr.js/",
         "avatar": "https://avatars.githubusercontent.com/u/2293641?v=3",
         "ownerUrl": "https://github.com/callmecavs",
-        "stars": 903,
+        "stars": 1931,
         "language": "JavaScript"
+    },
+    {
+        "name": "thefuck",
+        "description": "Magnificent app which corrects your previous console command.",
+        "url": "https://github.com/nvbn/thefuck",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1114542?v=3",
+        "ownerUrl": "https://github.com/nvbn",
+        "stars": 5902,
+        "language": "Python"
+    },
+    {
+        "name": "spacemacs",
+        "description": "Emacs advanced Kit focused on Evil: The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!",
+        "url": "https://github.com/syl20bnr/spacemacs",
+        "homepage": "https://twitter.com/spacemacs",
+        "avatar": "https://avatars.githubusercontent.com/u/1243537?v=3",
+        "ownerUrl": "https://github.com/syl20bnr",
+        "stars": 1964,
+        "language": "Emacs Lisp"
+    },
+    {
+        "name": "Curved-Fab-Reveal-Example",
+        "description": "",
+        "url": "https://github.com/saulmm/Curved-Fab-Reveal-Example",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/3531999?v=3",
+        "ownerUrl": "https://github.com/saulmm",
+        "stars": 432,
+        "language": "Java"
     }
 ]
