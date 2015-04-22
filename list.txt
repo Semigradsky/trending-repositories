@@ -220,3 +220,5 @@ callmecavs/layzr.js
 nvbn/thefuck
 syl20bnr/spacemacs
 saulmm/Curved-Fab-Reveal-Example
+mailgun/godebug
+caesar0301/awesome-public-datasets
