@@ -225,3 +225,5 @@ caesar0301/awesome-public-datasets
 tholman/elevator.js
 akullpp/awesome-java
 bendc/sprint
+yhat/rodeo
+atom/electron
