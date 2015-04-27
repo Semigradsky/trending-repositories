@@ -228,3 +228,6 @@ bendc/sprint
 yhat/rodeo
 atom/electron
 Dogfalo/materialize
+adamwulf/app-launch-guide
+kabukky/journey
+vicapow/explained-visually
