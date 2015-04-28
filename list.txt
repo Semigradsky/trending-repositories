@@ -231,3 +231,5 @@ Dogfalo/materialize
 adamwulf/app-launch-guide
 kabukky/journey
 vicapow/explained-visually
+jonathanslenders/pyvim
+SamyPesse/betty
