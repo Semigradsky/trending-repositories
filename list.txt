@@ -233,3 +233,5 @@ kabukky/journey
 vicapow/explained-visually
 jonathanslenders/pyvim
 SamyPesse/betty
+caiorss/Functional-Programming
+foam-framework/foam
