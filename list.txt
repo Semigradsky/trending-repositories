@@ -12,11 +12,10 @@ xiam/hyperfox
 alixander/PyScribe
 sophron/wifiphisher
 MaciejCzyzewski/retter
-amjith/pgcli
+dbcli/pgcli
 ecomfe/echarts
 Russell91/pythonpy
 google/novm
-amjith/pgcli
 systemjs/systemjs
 hgarc014/git-game
 nwidger/nintengo
