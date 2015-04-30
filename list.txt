@@ -234,3 +234,6 @@ jonathanslenders/pyvim
 SamyPesse/betty
 caiorss/Functional-Programming
 foam-framework/foam
+hashicorp/vault
+mholt/caddy
+antirez/disque
