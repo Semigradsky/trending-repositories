@@ -237,3 +237,6 @@ foam-framework/foam
 hashicorp/vault
 mholt/caddy
 antirez/disque
+Rich-Harris/ramjet
+mortenjust/androidtool-mac
+Mashape/kong
