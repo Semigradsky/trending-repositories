@@ -242,3 +242,8 @@ mortenjust/androidtool-mac
 Mashape/kong
 moose-team/friends
 MicrosoftDX/Vorlonjs
+SirCmpwn/TrueCraft
+NeXTs/Clusterize.js
+domokit/sky_sdk
+mwaskom/seaborn
+mattgodbolt/zindex
