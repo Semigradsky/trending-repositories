@@ -247,3 +247,4 @@ NeXTs/Clusterize.js
 domokit/sky_sdk
 mwaskom/seaborn
 mattgodbolt/zindex
+florent37/MaterialViewPager
