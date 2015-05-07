@@ -249,3 +249,4 @@ mwaskom/seaborn
 mattgodbolt/zindex
 florent37/MaterialViewPager
 typicode/json-server
+hephaest0s/usbkill
