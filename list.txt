@@ -253,3 +253,5 @@ hephaest0s/usbkill
 jingweno/ccat
 fat/zoom.js
 Bilibili/ijkplayer
+facebook/PathPicker
+go-bootstrap/go-bootstrap
