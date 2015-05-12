@@ -258,3 +258,6 @@ go-bootstrap/go-bootstrap
 square/leakcanary
 unisonweb/platform
 polegone/gonix
+rapidloop/rtop
+JetBrains/anko
+rdpeng/ExData_Plotting1
