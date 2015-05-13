@@ -261,3 +261,5 @@ polegone/gonix
 rapidloop/rtop
 JetBrains/anko
 rdpeng/ExData_Plotting1
+okor/justice
+segmentio/deku
