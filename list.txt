@@ -257,7 +257,7 @@ facebook/PathPicker
 go-bootstrap/go-bootstrap
 square/leakcanary
 unisonweb/platform
-polegone/gonix
+EricLagerg/gonix
 rapidloop/rtop
 JetBrains/anko
 rdpeng/ExData_Plotting1
