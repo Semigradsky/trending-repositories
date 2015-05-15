@@ -36,7 +36,7 @@ jlongster/blog
 dotnet/roslyn
 alex/what-happens-when
 torch/torch7
-usebutton/ios-deeplink-sdk
+usebutton/DeepLinkKit
 yaronn/blessed-contrib
 Yalantis/Side-Menu.Android
 Yalantis/Context-Menu.Android
