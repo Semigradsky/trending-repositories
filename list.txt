@@ -264,3 +264,5 @@ rdpeng/ExData_Plotting1
 okor/justice
 segmentio/deku
 losvedir/ephemeral2
+Microsoft/node
+jhurray/JHChainableAnimations
