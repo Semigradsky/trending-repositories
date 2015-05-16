@@ -28,7 +28,7 @@ saeedalipoor/icono
 Zhouzi/TheaterJS
 RubaXa/Sortable
 mentum/lambdaws
-iojs/io.js
+nodejs/io.js
 nwjs/nw.js
 Snaipe/libcsptr
 KrauseFx/fastlane
