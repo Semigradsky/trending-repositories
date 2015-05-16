@@ -266,3 +266,7 @@ segmentio/deku
 losvedir/ephemeral2
 Microsoft/node
 jhurray/JHChainableAnimations
+KeenSoftwareHouse/SpaceEngineers
+schachmat/wego
+Microsoft/TouchDevelop
+sindresorhus/awesome
