@@ -262,7 +262,7 @@ rapidloop/rtop
 JetBrains/anko
 rdpeng/ExData_Plotting1
 okor/justice
-segmentio/deku
+dekujs/deku
 losvedir/ephemeral2
 Microsoft/node
 jhurray/JHChainableAnimations
