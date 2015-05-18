@@ -270,3 +270,8 @@ KeenSoftwareHouse/SpaceEngineers
 schachmat/wego
 Microsoft/TouchDevelop
 sindresorhus/awesome
+brianium/watermarkjs
+rust-lang/rust
+Draveness/DKChainableAnimationKit
+jorisvink/kore
+nodejs/node
