@@ -275,3 +275,5 @@ rust-lang/rust
 Draveness/DKChainableAnimationKit
 jorisvink/kore
 nodejs/node
+amoffat/snake
+nagadomi/waifu2x
