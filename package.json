@@ -15,10 +15,11 @@
     "url": "https://github.com/Semigradsky/trending-repositories/issues"
   },
   "homepage": "https://github.com/Semigradsky/trending-repositories",
-  "dependencies": {
+  "devDependencies": {
     "async": "~0.9.0",
     "clone": "~0.2.0",
     "humanize-number": "0.0.2",
+    "mustache": "^2.0.0",
     "progress": "~1.1.8",
     "request": "~2.53.0"
   }

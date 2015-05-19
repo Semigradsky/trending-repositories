@@ -1,0 +1,12 @@
+## Trending repositories - {{year}}</br>
+|=_=|Owner|Description|Url|Stars|Language|</br>
+|:-:|---|---|:-:|--:|:-:|</br>
+{{#repos}}
+ | {{#star}}<img alt=":star:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b50.png" width="20">{{/star}}
+   {{#cake}}<img alt=":cake:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png" width="20">{{/cake}}
+ | [<img src="{{avatar}}" alt="owwner" width="50">]({{ownerUrl}})
+ | <div>[{{name}}]({{{url}}})</div> {{description}}
+ | {{#homepage}}[<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">]({{{homepage}}}){{/homepage}}
+ | {{stars}}
+ | {{#language}}*{{language}}*{{/language}}</br>
+{{/repos}}
