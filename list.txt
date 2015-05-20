@@ -277,3 +277,5 @@ jorisvink/kore
 nodejs/node
 amoffat/snake
 nagadomi/waifu2x
+h2o/h2o
+realm/SwiftLint
