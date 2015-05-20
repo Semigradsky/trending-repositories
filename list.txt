@@ -145,7 +145,7 @@ kitematic/kitematic
 MengTo/DesignerNewsApp
 hyperoslo/Form
 zxh0/jvm.go
-jhauswald/sirius
+claritylab/sirius
 solidsnack/GraphpostgresQL
 matiasinsaurralde/facebook-tunnel
 gogits/gogs
