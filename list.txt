@@ -282,3 +282,6 @@ realm/SwiftLint
 bitshadow/iconate
 dotnet/wcf
 yahoo/mysql_perf_analyzer
+philipwalton/solved-by-flexbox
+tonsky/FiraCode
+AlessandroZ/LaZagne
