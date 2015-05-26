@@ -285,3 +285,5 @@ yahoo/mysql_perf_analyzer
 philipwalton/solved-by-flexbox
 tonsky/FiraCode
 AlessandroZ/LaZagne
+yhat/scrape
+36Kr-Mobile/KRVideoPlayer
