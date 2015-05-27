@@ -287,3 +287,6 @@ tonsky/FiraCode
 AlessandroZ/LaZagne
 yhat/scrape
 36Kr-Mobile/KRVideoPlayer
+bang590/JSPatch
+ricochet-im/ricochet
+johnil/VVeboTableViewDemo
