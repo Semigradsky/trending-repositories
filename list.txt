@@ -290,3 +290,7 @@ yhat/scrape
 bang590/JSPatch
 ricochet-im/ricochet
 johnil/VVeboTableViewDemo
+google/roboto
+jariz/vibrant.js
+astoilkov/jsblocks
+stonesam92/WhatsMac
