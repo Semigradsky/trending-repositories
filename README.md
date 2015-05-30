@@ -1,7 +1,6 @@
 ## Trending repositories - 2015
 
 |=_=|Owner|Description|Url|Stars|Language|
-
 |:-:|---|---|:-:|--:|:-:|
 | <img alt=":star:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2b50.png" width="20">| [<img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;649249?v=3" alt="owwner" width="50">](https://github.com/prakhar1989)| <div>[awesome-courses](https://github.com/prakhar1989/awesome-courses)</div> List of awesome university courses for learning Computer Science!|| 11,891| 
 |<img alt=":cake:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f370.png" width="20">| [<img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;1833474?v=3" alt="owwner" width="50">](https://github.com/wasabeef)| <div>[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)</div> A curated list of awesome Android UI&#x2F;UX libraries| [<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3e0.png" width="30" alt="home">](https://twitter.com/wasabeef_jp)| 6,685| 
