@@ -300,3 +300,8 @@ danfang/me-api
 Polymer/polymer
 docker/docker-bench-security
 cssnext/cssnext
+cjb/GitTorrent
+mkeeter/antimony
+RocketChat/Rocket.Chat
+race604/FlyRefresh
+chrisbanes/cheesesquare
