@@ -305,3 +305,4 @@ mkeeter/antimony
 RocketChat/Rocket.Chat
 race604/FlyRefresh
 chrisbanes/cheesesquare
+bpampuch/pdfmake
