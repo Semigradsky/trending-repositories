@@ -61,7 +61,7 @@ tylertreat/Comcast
 etsy/Hound
 arasatasaygin/is.js
 facebook/react
-awslabs/aws-sdk-go
+aws/aws-sdk-go
 phusion/passenger-docker
 sandstorm-io/sandstorm
 MengTo/Spring
