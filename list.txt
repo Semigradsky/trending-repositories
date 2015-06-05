@@ -47,7 +47,7 @@ matt-42/silicon
 shellfire-dev/shellfire
 h5bp/Front-end-Developer-Interview-Questions
 martyjs/marty
-muut/riotjs
+riot/riot
 maryrosecook/gitlet
 libreboard/libreboard
 defuse/swatd
