@@ -309,3 +309,7 @@ bpampuch/pdfmake
 huytd/agar.io-clone
 zsaleeba/picoc
 bevacqua/woofmark
+iamdaiyuan/ios_top_1000
+mateogianolio/mlp-character-recognition
+s16h/py-must-watch
+horst3180/Arc-theme
