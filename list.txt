@@ -293,7 +293,7 @@ johnil/VVeboTableViewDemo
 google/roboto
 jariz/vibrant.js
 astoilkov/jsblocks
-stonesam92/WhatsMac
+stonesam92/ChitChat
 AaronRandall/Screentendo
 olahol/melody-jsnes
 danfang/me-api
