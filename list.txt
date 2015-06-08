@@ -318,3 +318,5 @@ loadfive/Knwl.js
 cockroachdb/cockroach
 Rossem/RedditStorage
 airbnb/aerosolve
+manastech/crystal
+PaoloRotolo/AppIntro
