@@ -17,7 +17,7 @@ ecomfe/echarts
 Russell91/pythonpy
 google/novm
 systemjs/systemjs
-hgarc014/git-game
+git-game/git-game
 nwidger/nintengo
 IanLunn/Hover
 Aufree/trip-to-iOS
