@@ -320,3 +320,5 @@ Rossem/RedditStorage
 airbnb/aerosolve
 manastech/crystal
 PaoloRotolo/AppIntro
+odewahn/docker-jumpstart
+vbarbaresi/MetroGit
