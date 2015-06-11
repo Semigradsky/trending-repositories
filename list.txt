@@ -323,3 +323,5 @@ PaoloRotolo/AppIntro
 odewahn/docker-jumpstart
 vbarbaresi/MetroGit
 mamaral/Onboard
+ryanries/UniversalPauseButton
+jamesmawm/High-Frequency-Trading-Model-with-IB
