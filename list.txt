@@ -325,3 +325,5 @@ vbarbaresi/MetroGit
 mamaral/Onboard
 ryanries/UniversalPauseButton
 jamesmawm/High-Frequency-Trading-Model-with-IB
+mist64/xhyve
+insidegui/WWDC
