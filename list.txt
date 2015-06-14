@@ -327,3 +327,9 @@ ryanries/UniversalPauseButton
 jamesmawm/High-Frequency-Trading-Model-with-IB
 mist64/xhyve
 insidegui/WWDC
+facebook/infer
+jussi-kalliokoski/trine
+BloombergMedia/whatiscode
+linkedin/pinot
+purifycss/purifycss
+kolodny/exercises
