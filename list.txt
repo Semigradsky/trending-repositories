@@ -336,3 +336,5 @@ kolodny/exercises
 equinusocio/material-theme
 kilimchoi/engineering-blogs
 fraser-hemp/gradify
+jlevy/the-art-of-command-line
+michaelvillar/dynamics.js
