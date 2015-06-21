@@ -1,17 +1,21 @@
-var fs = require('fs');
-var humanize = require('humanize-number');
-var Mustache = require('mustache');
+import fs from 'fs';
+import humanize from 'humanize-number';
+import { render } from 'mustache';
 
-var repos = JSON.parse(fs.readFileSync('list.json', { encoding: 'UTF-8' }));
-var template = fs.readFileSync('template.mst').toString();
+const repos = JSON.parse(fs.readFileSync('list.json', { encoding: 'UTF-8' }));
+const template = fs.readFileSync('template.mst').toString();
 
-var content = Mustache.render(template, {
+let content = render(template, {
 	year: new Date().getFullYear(),
 	repos: repos.map(preparateRepo)
 });
 
 // remove unnecessary page breaks
-content = content.replace(/\s{2,}/g, '').replace(/<\/br>/g, '\n');
+content = content.replace(/(\r\n|\n|\r)/gm, '');
+// remove unnecessary spaces
+content = content.replace(/\s{2,}/g, '');
+// add page breaks
+content = content.replace(/<\/br>/g, '\n');
 
 fs.writeFileSync('README.md', content);
 
@@ -32,5 +36,5 @@ function preparateRepo(repo) {
 }
 
 function escape(str) {
-	return str.replace(/\|.*/g, '').replace(/\s+/g, ' ');
+	return str.replace(/\|.*/g, '');
 }

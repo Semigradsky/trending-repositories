@@ -1,13 +1,12 @@
-var request = require('request');
-var async = require('async');
-var fs = require('fs');
-var path = require('path');
-var clone = require('clone');
-var ProgressBar = require('progress');
+import request from 'request';
+import { map } from 'async';
+import fs from 'fs';
+import clone from 'clone';
+import ProgressBar from 'progress';
 
-var TOKEN = 'f3bdfe1bfa18f84ef0f19eb90adf4d710fdff304';
+const TOKEN = 'f3bdfe1bfa18f84ef0f19eb90adf4d710fdff304';
 
-var options = {
+const options = {
 	url: 'https://api.github.com/repos/',
 	method: 'GET',
 	headers: {
@@ -16,31 +15,31 @@ var options = {
 	}
 };
 
-var list = fs.readFileSync('list.txt', { encoding: 'UTF-8' }).trim().split('\n');
+const list = fs.readFileSync('list.txt', { encoding: 'UTF-8' }).trim().split('\n');
 
-var bar = new ProgressBar('  generating [:bar] :percent :etas', {
+const bar = new ProgressBar('  generating [:bar] :percent :etas', {
 	complete: '=',
 	incomplete: ' ',
 	width: 20,
 	total: list.length
 });
 
-async.map(list, getRepoInfo, function complete(err, data) {
+map(list, getRepoInfo, (err, data) => {
 	fs.writeFileSync('list.json', JSON.stringify(data, null, 4));
 });
 
 
 function getRepoInfo(repoFullName, next) {
-	var opts = clone(options);
+	const opts = clone(options);
 		opts.url += repoFullName.trim();
 
-	request(opts, function onRequest(err, res, body) {
+	request(opts, (err, res, body) => {
 
 		if (err || res.statusCode !== 200) {
 			return next(err);
 		}
 
-		var repoInfo = JSON.parse(body);
+		const repoInfo = JSON.parse(body);
 		bar.tick();
 
 		next(null, {
