@@ -348,3 +348,5 @@ xoreaxeaxeax/movfuscator
 opencontainers/runc
 RPISEC/MBE
 Aluxian/WhatsApp-Desktop
+facebook/nuclide
+derric/cleanthesis
