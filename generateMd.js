@@ -10,8 +10,8 @@ let content = render(template, {
 	repos: repos.map(preparateRepo)
 });
 
-// remove unnecessary page breaks
-content = content.replace(/(\r\n|\n|\r)/gm, '');
+// remove unnecessary page breaks with spaces
+content = content.replace(/(\s*\r\n\s*|\s*\n\s*|\s*\r\s*)/gm, '');
 // remove unnecessary spaces
 content = content.replace(/\s{2,}/g, '');
 // add page breaks
