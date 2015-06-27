@@ -352,3 +352,4 @@ facebook/nuclide
 derric/cleanthesis
 mattermost/platform
 4Lang/4
+atom/atom
