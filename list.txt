@@ -353,3 +353,6 @@ derric/cleanthesis
 mattermost/platform
 4Lang/4
 atom/atom
+gilesbowkett/rewind
+coodict/javascript-in-one-pic
+levigross/grequests
