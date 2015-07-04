@@ -364,3 +364,9 @@ Khan/tota11y
 wbkd/awesome-d3
 awslabs/s2n
 Jam3/math-as-code
+sublimehq/Packages
+FormidableLabs/spectacle
+google/deepdream
+graphql/graphql-js
+gilbarbara/logos
+facebook/graphql
