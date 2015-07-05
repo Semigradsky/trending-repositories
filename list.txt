@@ -370,3 +370,5 @@ google/deepdream
 graphql/graphql-js
 gilbarbara/logos
 facebook/graphql
+casesandberg/reactcss
+drduh/pwd.sh
