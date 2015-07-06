@@ -372,3 +372,6 @@ gilbarbara/logos
 facebook/graphql
 casesandberg/reactcss
 drduh/pwd.sh
+Workiva/go-datastructures
+mikemintz/react-rethinkdb
+chenglou/react-animation
