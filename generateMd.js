@@ -36,5 +36,5 @@ function preparateRepo(repo) {
 }
 
 function escape(str) {
-	return str.replace(/\|.*/g, '');
+	return str ? str.replace(/\|.*/g, '') : '';
 }
