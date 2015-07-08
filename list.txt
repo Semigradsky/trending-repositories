@@ -374,7 +374,7 @@ casesandberg/reactcss
 drduh/pwd.sh
 Workiva/go-datastructures
 mikemintz/react-rethinkdb
-chenglou/react-animation
+chenglou/react-motion
 tencent-php/tsf
 gaearon/redux
 google/material-design-lite
