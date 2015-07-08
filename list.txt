@@ -377,3 +377,5 @@ mikemintz/react-rethinkdb
 chenglou/react-animation
 tencent-php/tsf
 gaearon/redux
+google/material-design-lite
+rasguanabana/ytfs
