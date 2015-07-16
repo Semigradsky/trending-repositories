@@ -386,3 +386,5 @@ google/incremental-dom
 AndrewBelt/hack.chat
 ipselon/react-ui-builder
 jkbrzt/cointrol
+DrBoolean/mostly-adequate-guide
+tessalt/echo-chamber-js
