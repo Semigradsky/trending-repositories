@@ -388,3 +388,5 @@ ipselon/react-ui-builder
 jkbrzt/cointrol
 DrBoolean/mostly-adequate-guide
 tessalt/echo-chamber-js
+google/eddystone
+actorapp/actor-platform
