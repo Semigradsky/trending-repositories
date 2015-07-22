@@ -394,3 +394,4 @@ jonobr1/two.js
 octalmage/robotjs
 avinassh/rockstar
 openstf/stf
+bevacqua/fuzzysearch
