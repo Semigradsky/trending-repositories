@@ -396,3 +396,5 @@ avinassh/rockstar
 openstf/stf
 bevacqua/fuzzysearch
 p8952/bocker
+IFTTT/RazzleDazzle
+cymen/show-me-the-react
