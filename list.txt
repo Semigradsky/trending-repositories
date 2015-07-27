@@ -399,3 +399,4 @@ p8952/bocker
 IFTTT/RazzleDazzle
 cymen/show-me-the-react
 larsenwork/monoid
+mrowa44/emojify
