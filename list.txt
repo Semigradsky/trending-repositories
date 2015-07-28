@@ -400,3 +400,7 @@ IFTTT/RazzleDazzle
 cymen/show-me-the-react
 larsenwork/monoid
 mrowa44/emojify
+code-mc/material-icon-lib
+Samsung/jerryscript
+wasabeef/Blurry
+photonstorm/phaser
