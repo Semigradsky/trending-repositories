@@ -405,3 +405,6 @@ Samsung/jerryscript
 wasabeef/Blurry
 photonstorm/phaser
 phoboslab/jsmpeg-vnc
+ninjaprox/NVActivityIndicatorView
+keen/explorer
+Kickball/awesome-selfhosted
