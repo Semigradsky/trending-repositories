@@ -419,3 +419,6 @@ madisonmay/Tomorrow
 servant-app/JAWS
 pusher/atom-pair
 FiloSottile/whosthere
+JuanitoFatas/fast-ruby
+cpvrlab/ImagePlay
+daveliepmann/tufte-css
