@@ -422,3 +422,7 @@ FiloSottile/whosthere
 JuanitoFatas/fast-ruby
 cpvrlab/ImagePlay
 daveliepmann/tufte-css
+Microsoft/WinObjC
+rushter/data-science-blogs
+jagenjo/webglstudio.js
+xoreaxeaxeax/sinkhole
