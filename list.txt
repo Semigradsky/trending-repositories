@@ -427,3 +427,6 @@ rushter/data-science-blogs
 jagenjo/webglstudio.js
 xoreaxeaxeax/sinkhole
 danluu/post-mortems
+hexahedria/biaxial-rnn-music-composition
+chrislusf/seaweedfs
+dalboris/vpaint
