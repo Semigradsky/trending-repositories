@@ -437,3 +437,8 @@ mmin18/LayoutCast
 szilard/benchm-ml
 what-studio/profiling
 guardian/grid
+ParsePlatform/Parse-SDK-iOS-OSX
+10se1ucgo/DisableWinTracking
+ParsePlatform/Parse-SDK-Android
+jnv/lists
+rackt/redux
