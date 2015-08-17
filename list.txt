@@ -442,3 +442,5 @@ ParsePlatform/Parse-SDK-iOS-OSX
 ParsePlatform/Parse-SDK-Android
 jnv/lists
 rackt/redux
+SalGnt/cscs
+nicolewhite/algebra.js
