@@ -444,3 +444,11 @@ jnv/lists
 rackt/redux
 SalGnt/cscs
 nicolewhite/algebra.js
+apaszke/termtile
+euphoria-io/heim
+qklabs/qksms
+yudai/gotty
+Netflix/falcor
+casesandberg/react-color
+01org/acat
+witheve/Eve
