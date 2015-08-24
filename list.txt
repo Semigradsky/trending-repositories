@@ -453,3 +453,12 @@ casesandberg/react-color
 01org/acat
 witheve/Eve
 SkillCollege/SimplifyReader
+git-up/GitUp
+getlantern/lantern
+ivopetkov/responsively-lazy
+shadowsocks/shadowsocks
+somebee/imba
+dropbox/hackpad
+rhiever/Data-Analysis-and-Machine-Learning-Projects
+cloudwu/mptun
+shadowsocks/shadowsocks-iOS
