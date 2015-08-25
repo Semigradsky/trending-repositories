@@ -462,3 +462,5 @@ dropbox/hackpad
 rhiever/Data-Analysis-and-Machine-Learning-Projects
 cloudwu/mptun
 shadowsocks/shadowsocks-iOS
+danluu/debugging-stories
+ritzyed/ritzy
