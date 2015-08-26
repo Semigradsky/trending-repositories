@@ -464,3 +464,5 @@ cloudwu/mptun
 shadowsocks/shadowsocks-iOS
 danluu/debugging-stories
 ritzyed/ritzy
+elementalui/elemental
+achiku/jungle
