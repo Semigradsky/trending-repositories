@@ -466,3 +466,4 @@ danluu/debugging-stories
 ritzyed/ritzy
 elementalui/elemental
 achiku/jungle
+csvoss/oneliner
