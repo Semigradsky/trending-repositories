@@ -467,3 +467,5 @@ ritzyed/ritzy
 elementalui/elemental
 achiku/jungle
 csvoss/oneliner
+michaeldfallen/git-radar
+fouber/blog
