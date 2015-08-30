@@ -469,3 +469,8 @@ achiku/jungle
 csvoss/oneliner
 michaeldfallen/git-radar
 fouber/blog
+flarum/flarum
+h2non/toxy
+lfit/itpol
+Qihoo360/DroidPlugin
+sindresorhus/ava
