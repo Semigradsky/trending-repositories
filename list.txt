@@ -474,3 +474,13 @@ h2non/toxy
 lfit/itpol
 Qihoo360/DroidPlugin
 sindresorhus/ava
+chrissimpkins/Hack
+drduh/OS-X-Yosemite-Security-and-Privacy-Guide
+OfficeDev/Office-UI-Fabric
+TalAter/UpUp
+kahun/awesome-sysadmin
+CharlieHess/slack-poker-bot
+jcjohnson/neural-style
+ProseMirror/prosemirror
+pakastin/deck-of-cards
+gaearon/react-transform-boilerplate
