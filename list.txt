@@ -484,3 +484,8 @@ jcjohnson/neural-style
 ProseMirror/prosemirror
 pakastin/deck-of-cards
 gaearon/react-transform-boilerplate
+twitter/diffy
+clippings/layout-grid
+bonnyfone/vectalign
+shockone/black-screen
+benvanik/xenia
