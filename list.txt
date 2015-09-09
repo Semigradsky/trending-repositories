@@ -487,5 +487,10 @@ gaearon/react-transform-boilerplate
 twitter/diffy
 clippings/layout-grid
 bonnyfone/vectalign
-shockone/black-screen
+black-screen/black-screen
 benvanik/xenia
+pingcap/tidb
+CTurt/PS4-SDK
+alda-lang/alda
+gloomyson/StarCraft
+joushou/sshmuxd
