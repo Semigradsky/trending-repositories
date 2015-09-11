@@ -494,3 +494,5 @@ CTurt/PS4-SDK
 alda-lang/alda
 gloomyson/StarCraft
 joushou/sshmuxd
+romannurik/LayerVisualizer
+google/lovefield
