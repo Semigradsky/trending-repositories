@@ -511,3 +511,6 @@ htty/htty
 tmux-plugins/tmux-resurrect
 alibaba/AndFix
 adrai/flowchart.js
+jingweno/hacker-menu
+shu223/iOS-9-Sampler
+iCHAIT/awesome-osx
