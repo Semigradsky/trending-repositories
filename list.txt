@@ -514,3 +514,8 @@ adrai/flowchart.js
 jingweno/hacker-menu
 shu223/iOS-9-Sampler
 iCHAIT/awesome-osx
+Maratyszcza/PeachPy
+ChenYilong/iOS9AdaptationTips
+isocpp/CppCoreGuidelines
+Juude/awesome-android-performance
+wojteklukaszuk/Watchdog
