@@ -519,3 +519,6 @@ ChenYilong/iOS9AdaptationTips
 isocpp/CppCoreGuidelines
 Juude/awesome-android-performance
 wojteklukaszuk/Watchdog
+cxxr/better-java
+XcodeGhostSource/XcodeGhost
+jasarien/Provenance
