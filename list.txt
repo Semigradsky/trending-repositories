@@ -522,3 +522,4 @@ wojteklukaszuk/Watchdog
 cxxr/better-java
 XcodeGhostSource/XcodeGhost
 jasarien/Provenance
+lgvalle/Material-Animations
