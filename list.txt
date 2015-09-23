@@ -523,3 +523,6 @@ cxxr/better-java
 XcodeGhostSource/XcodeGhost
 jasarien/Provenance
 lgvalle/Material-Animations
+szhu/3030
+donnemartin/saws
+smarr/latex-to-html5
