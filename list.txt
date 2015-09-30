@@ -532,3 +532,9 @@ zulip/zulip
 gernest/utron
 yahoo/gryffin
 delight-im/FreeGeoDB
+tyrantgit/ExplosionField
+hashicorp/otto
+zenorocha/clipboard.js
+Randommood/Strangeloop2015
+gatsbyjs/gatsby
+18F/web-design-standards
