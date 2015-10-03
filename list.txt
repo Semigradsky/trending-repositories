@@ -527,10 +527,13 @@ donnemartin/saws
 smarr/latex-to-html5
 google/brotli
 scylladb/scylla
+race604/ZhiHuDaily-React-Native
+fatih/vim-go
+delight-im/FreeGeoDB
+ViccAlexander/Chameleon
 zulip/zulip
 gernest/utron
 yahoo/gryffin
-delight-im/FreeGeoDB
 tyrantgit/ExplosionField
 hashicorp/otto
 zenorocha/clipboard.js
@@ -539,3 +542,6 @@ gatsbyjs/gatsby
 18F/web-design-standards
 jackpot51/redox
 mapsme/omim
+edobashira/speech-language-processing
+Homebrew/homebrew
+Popmotion/popmotion
