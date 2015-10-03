@@ -493,7 +493,7 @@ benvanik/xenia
 pingcap/tidb
 CTurt/PS4-SDK
 alda-lang/alda
-gloomyson/StarCraft
+# gloomyson/StarCraft // unavailable due to DMCA takedown
 joushou/sshmuxd
 romannurik/LayerVisualizer
 google/lovefield

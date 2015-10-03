@@ -15,7 +15,10 @@ const options = {
 	}
 };
 
-const list = fs.readFileSync('list.txt', { encoding: 'UTF-8' }).trim().split('\n');
+const list = fs
+	.readFileSync('list.txt', { encoding: 'UTF-8' })
+	.trim().split('\n')
+	.filter(x => x[0] !== '#');
 
 const bar = new ProgressBar('  generating [:bar] :percent :etas', {
 	complete: '=',
