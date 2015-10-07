@@ -550,3 +550,8 @@ duemunk/Async
 deepmind/rc-data
 bouchenoiremarc/Sketch-Constraints
 m3ng9i/ran
+open-source-society/computer-science
+devinhunt/typebase.css
+ShareX/ShareX
+nylas/N1
+remie/YouTransfer
