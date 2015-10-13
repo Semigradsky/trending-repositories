@@ -559,3 +559,7 @@ hmlb/phpunit-vw
 ampproject/amphtml
 relax/relax
 auchenberg/volkswagen
+clef/handbook
+weui/weui
+samccone/drool
+macdao/ocds-guide-to-setting-up-mac
