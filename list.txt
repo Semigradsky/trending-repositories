@@ -568,3 +568,10 @@ connors/photon
 cmusatyalab/openface
 jwagner/smartcrop.js
 jessicard/remote-jobs
+gabrielbull/react-desktop
+herrbischoff/awesome-osx-command-line
+basecamp/trix
+ipselon/structor
+metabase/metabase
+Khan/style-guides
+letsencrypt/letsencrypt
