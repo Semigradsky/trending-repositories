@@ -575,3 +575,8 @@ ipselon/structor
 metabase/metabase
 Khan/style-guides
 letsencrypt/letsencrypt
+Yalantis/StarWars.iOS
+reinderien/mimic
+cortesi/devd
+butterproject/butter
+javascript-society/javascript-path
