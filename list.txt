@@ -583,3 +583,8 @@ javascript-society/javascript-path
 dropbox/zxcvbn
 xfumihiro/ViewInspector
 quilljs/quill
+react-toolbox/react-toolbox
+nickbutcher/plaid
+yaronn/wopr
+rstacruz/rscss
+hangtwenty/dive-into-machine-learning
