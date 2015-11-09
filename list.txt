@@ -588,3 +588,9 @@ nickbutcher/plaid
 yaronn/wopr
 rstacruz/rscss
 hangtwenty/dive-into-machine-learning
+benoitvallon/react-native-nw-react-calculator
+thoughtbot/administrate
+ibireme/YYText
+jshaw87/Cheatsheets
+flutter/engine
+neutraltone/awesome-stock-resources
