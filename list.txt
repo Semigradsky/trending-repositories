@@ -594,3 +594,6 @@ ibireme/YYText
 jshaw87/Cheatsheets
 flutter/engine
 neutraltone/awesome-stock-resources
+tensorflow/tensorflow
+cryfish2015/QingTingCheat
+uber/react-map-gl
