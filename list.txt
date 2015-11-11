@@ -595,7 +595,7 @@ jshaw87/Cheatsheets
 flutter/engine
 neutraltone/awesome-stock-resources
 tensorflow/tensorflow
-cryfish2015/QingTingCheat
+# cryfish2015/QingTingCheat // unavailable due to DMCA takedown
 uber/react-map-gl
 autumnai/leaf
 tholman/github-corners
