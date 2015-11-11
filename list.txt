@@ -597,3 +597,5 @@ neutraltone/awesome-stock-resources
 tensorflow/tensorflow
 cryfish2015/QingTingCheat
 uber/react-map-gl
+autumnai/leaf
+tholman/github-corners
