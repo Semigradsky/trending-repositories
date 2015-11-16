@@ -602,3 +602,5 @@ tholman/github-corners
 winterbe/java8-tutorial
 mozilla/firefox-ios
 DhavalKapil/icmptunnel
+jamesob/desk
+edwardtufte/tufte-css
