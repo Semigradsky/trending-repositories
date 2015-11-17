@@ -604,3 +604,5 @@ mozilla/firefox-ios
 DhavalKapil/icmptunnel
 jamesob/desk
 edwardtufte/tufte-css
+jaredreich/notie.js
+Animatious/awesome-animation
