@@ -606,3 +606,7 @@ jamesob/desk
 edwardtufte/tufte-css
 jaredreich/notie.js
 Animatious/awesome-animation
+plotly/plotly.js
+nanopack/yoke
+docker/dockercraft
+spinnaker/spinnaker
