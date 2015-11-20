@@ -610,3 +610,7 @@ plotly/plotly.js
 nanopack/yoke
 docker/dockercraft
 spinnaker/spinnaker
+Microsoft/vscode
+facebook/mention-bot
+altitude/login-with-ssh
+hitherejoe/animate
