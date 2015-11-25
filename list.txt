@@ -614,3 +614,10 @@ Microsoft/vscode
 facebook/mention-bot
 altitude/login-with-ssh
 hitherejoe/animate
+legomushroom/mojs
+NARKOZ/hacker-scripts
+CacheBrowser/cachebrowser
+PerfectlySoft/Perfect
+Automattic/wp-calypso
+markdregan/Bayesian-Modelling-in-Python
+kdzwinel/betwixt
