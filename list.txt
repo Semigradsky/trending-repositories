@@ -621,3 +621,6 @@ PerfectlySoft/Perfect
 Automattic/wp-calypso
 markdregan/Bayesian-Modelling-in-Python
 kdzwinel/betwixt
+samyk/magspoof
+timekit-io/booking-js
+maruel/panicparse
