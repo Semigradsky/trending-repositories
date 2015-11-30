@@ -624,3 +624,6 @@ kdzwinel/betwixt
 samyk/magspoof
 timekit-io/booking-js
 maruel/panicparse
+bevacqua/es6
+codeinthedark/editor
+MaximAbramchuck/awesome-interviews
