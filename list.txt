@@ -627,3 +627,5 @@ maruel/panicparse
 bevacqua/es6
 codeinthedark/editor
 MaximAbramchuck/awesome-interviews
+JoelBesada/activate-power-mode
+ibireme/YYKit
