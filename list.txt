@@ -629,3 +629,13 @@ codeinthedark/editor
 MaximAbramchuck/awesome-interviews
 JoelBesada/activate-power-mode
 ibireme/YYKit
+apple/swift
+apple/swift-package-manager
+twitter/labella.js
+apple/swift-evolution
+apple/swift-corelibs-foundation
+diafygi/acme-tiny
+HospitalRun/hospitalrun-frontend
+hashcat/hashcat
+airbnb/reagent
+airbnb/enzyme
