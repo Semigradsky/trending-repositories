@@ -637,5 +637,4 @@ apple/swift-corelibs-foundation
 diafygi/acme-tiny
 HospitalRun/hospitalrun-frontend
 hashcat/hashcat
-airbnb/reagent
 airbnb/enzyme
