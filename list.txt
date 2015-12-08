@@ -638,3 +638,5 @@ diafygi/acme-tiny
 HospitalRun/hospitalrun-frontend
 hashcat/hashcat
 airbnb/enzyme
+openalpr/openalpr
+d3/d3-shape
