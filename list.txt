@@ -640,3 +640,5 @@ hashcat/hashcat
 airbnb/enzyme
 openalpr/openalpr
 d3/d3-shape
+oneuijs/You-Dont-Need-jQuery
+sdc-alibaba/SUI-Mobile
