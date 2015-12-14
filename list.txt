@@ -642,3 +642,6 @@ openalpr/openalpr
 d3/d3-shape
 oneuijs/You-Dont-Need-jQuery
 sdc-alibaba/SUI-Mobile
+Quartz/bad-data-guide
+laruence/php7-internal
+rupa/z
