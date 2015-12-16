@@ -645,3 +645,7 @@ sdc-alibaba/SUI-Mobile
 Quartz/bad-data-guide
 laruence/php7-internal
 rupa/z
+phanan/koel
+AllThingsSmitty/css-protips
+google/git-appraise
+twbs/bootstrap
