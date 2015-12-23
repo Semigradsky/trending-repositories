@@ -657,3 +657,6 @@ heroku/react-refetch
 jlmakes/scrollreveal.js
 biezhi/blade
 ErikvdVen/php-gif
+lektor/lektor
+dellis23/ispy
+koekeishiya/kwm
