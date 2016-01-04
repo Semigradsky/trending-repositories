@@ -669,3 +669,6 @@ dherman/neon
 tldr-pages/tldr
 mxstbr/react-boilerplate
 renaudcerrato/ToggleDrawable
+awslabs/aws-shell
+donnemartin/data-science-ipython-notebooks
+andersevenrud/OS.js-v2
