@@ -6,7 +6,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/25254?v=3",
         "ownerUrl": "https://github.com/tj",
-        "stars": 1357,
+        "stars": 1805,
         "language": "JavaScript"
     },
     {
@@ -16,7 +16,7 @@
         "homepage": "http://getguesstimate.com/",
         "avatar": "https://avatars.githubusercontent.com/u/13894028?v=3",
         "ownerUrl": "https://github.com/getguesstimate",
-        "stars": 1142,
+        "stars": 1399,
         "language": "JavaScript"
     },
     {
@@ -26,7 +26,7 @@
         "homepage": "http://os.js.org/",
         "avatar": "https://avatars.githubusercontent.com/u/161548?v=3",
         "ownerUrl": "https://github.com/andersevenrud",
-        "stars": 2113,
+        "stars": 2606,
         "language": "JavaScript"
     },
     {
@@ -36,7 +36,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9892522?v=3",
         "ownerUrl": "https://github.com/FreeCodeCamp",
-        "stars": 52181,
+        "stars": 56538,
         "language": "JavaScript"
     },
     {
@@ -46,7 +46,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/6636455?v=3",
         "ownerUrl": "https://github.com/Lucifier129",
-        "stars": 483,
+        "stars": 587,
         "language": "JavaScript"
     },
     {
@@ -56,7 +56,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/364727?v=3",
         "ownerUrl": "https://github.com/ericelliott",
-        "stars": 4544,
+        "stars": 5325,
         "language": "ApacheConf"
     },
     {
@@ -66,7 +66,207 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
         "ownerUrl": "https://github.com/jlevy",
-        "stars": 22225,
+        "stars": 24397,
         "language": null
+    },
+    {
+        "name": "btfs",
+        "description": "A bittorrent filesystem based on FUSE. C++.",
+        "url": "https://github.com/johang/btfs",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/41016?v=3",
+        "ownerUrl": "https://github.com/johang",
+        "stars": 1401,
+        "language": "C++"
+    },
+    {
+        "name": "JSVerbalExpressions",
+        "description": "JavaScript Regular expressions made easy",
+        "url": "https://github.com/VerbalExpressions/JSVerbalExpressions",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/5083777?v=3",
+        "ownerUrl": "https://github.com/VerbalExpressions",
+        "stars": 8786,
+        "language": "JavaScript"
+    },
+    {
+        "name": "reverse",
+        "description": "Reverse engineering tool for x86/ARM/MIPS. Generates indented pseudo-C with colored syntax code.",
+        "url": "https://github.com/joelpx/reverse",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/4718852?v=3",
+        "ownerUrl": "https://github.com/joelpx",
+        "stars": 1249,
+        "language": "Python"
+    },
+    {
+        "name": "openage",
+        "description": "Free (as in freedom) open source clone of the Age of Empires II engine.",
+        "url": "https://github.com/SFTtech/openage",
+        "homepage": "http://openage.sft.mx",
+        "avatar": "https://avatars.githubusercontent.com/u/1783325?v=3",
+        "ownerUrl": "https://github.com/SFTtech",
+        "stars": 4726,
+        "language": "C++"
+    },
+    {
+        "name": "pymux",
+        "description": "A terminal multiplexer (like tmux) in Python",
+        "url": "https://github.com/jonathanslenders/pymux",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/216638?v=3",
+        "ownerUrl": "https://github.com/jonathanslenders",
+        "stars": 854,
+        "language": "Python"
+    },
+    {
+        "name": "wechat-deleted-friends",
+        "description": "查看被删的微信好友",
+        "url": "https://github.com/0x5e/wechat-deleted-friends",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/5144674?v=3",
+        "ownerUrl": "https://github.com/0x5e",
+        "stars": 3443,
+        "language": "Python"
+    },
+    {
+        "name": "bitbar",
+        "description": "Put the output from any script or program in your Mac OS X Menu Bar",
+        "url": "https://github.com/matryer/bitbar",
+        "homepage": "https://getbitbar.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/101659?v=3",
+        "ownerUrl": "https://github.com/matryer",
+        "stars": 4848,
+        "language": "Objective-C"
+    },
+    {
+        "name": "elements-of-python-style",
+        "description": "Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.",
+        "url": "https://github.com/amontalenti/elements-of-python-style",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/40263?v=3",
+        "ownerUrl": "https://github.com/amontalenti",
+        "stars": 1600,
+        "language": null
+    },
+    {
+        "name": "react-howto",
+        "description": "Your guide to the (sometimes overwhelming!) React ecosystem.",
+        "url": "https://github.com/petehunt/react-howto",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/239742?v=3",
+        "ownerUrl": "https://github.com/petehunt",
+        "stars": 2323,
+        "language": null
+    },
+    {
+        "name": "bootstrap",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "url": "https://github.com/twbs/bootstrap",
+        "homepage": "http://getbootstrap.com",
+        "avatar": "https://avatars.githubusercontent.com/u/2918581?v=3",
+        "ownerUrl": "https://github.com/twbs",
+        "stars": 91351,
+        "language": "CSS"
+    },
+    {
+        "name": "nodal",
+        "description": "Web Servers Made Easy With Node.js",
+        "url": "https://github.com/keithwhor/nodal",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/3936867?v=3",
+        "ownerUrl": "https://github.com/keithwhor",
+        "stars": 1728,
+        "language": "JavaScript"
+    },
+    {
+        "name": "HowToBeAProgrammer",
+        "description": "A guide on how to be a Programmer - originally published by Robert L Read",
+        "url": "https://github.com/braydie/HowToBeAProgrammer",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1651008?v=3",
+        "ownerUrl": "https://github.com/braydie",
+        "stars": 4931,
+        "language": null
+    },
+    {
+        "name": "jstips",
+        "description": "This is about one JS tip every day!",
+        "url": "https://github.com/loverajoel/jstips",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1700100?v=3",
+        "ownerUrl": "https://github.com/loverajoel",
+        "stars": 4603,
+        "language": "JavaScript"
+    },
+    {
+        "name": "phc-winner-argon2",
+        "description": "The password hash Argon2, winner of PHC ",
+        "url": "https://github.com/P-H-C/phc-winner-argon2",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/14961703?v=3",
+        "ownerUrl": "https://github.com/P-H-C",
+        "stars": 746,
+        "language": "C"
+    },
+    {
+        "name": "feature.js",
+        "description": "Feature.js is a fast, simple and lightweight browser feature detection library in 1kb.",
+        "url": "https://github.com/viljamis/feature.js",
+        "homepage": "http://featurejs.com/",
+        "avatar": "https://avatars.githubusercontent.com/u/671836?v=3",
+        "ownerUrl": "https://github.com/viljamis",
+        "stars": 1278,
+        "language": "HTML"
+    },
+    {
+        "name": "fastdom",
+        "description": "Eliminates layout thrashing by batching DOM measurement and mutation tasks",
+        "url": "https://github.com/wilsonpage/fastdom",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1020551?v=3",
+        "ownerUrl": "https://github.com/wilsonpage",
+        "stars": 3024,
+        "language": "JavaScript"
+    },
+    {
+        "name": "og-equity-compensation",
+        "description": "Stock options, RSUs, taxes — a guide for humans",
+        "url": "https://github.com/jlevy/og-equity-compensation",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
+        "ownerUrl": "https://github.com/jlevy",
+        "stars": 3506,
+        "language": null
+    },
+    {
+        "name": "vim-galore",
+        "description": "Everything you need to know about Vim.",
+        "url": "https://github.com/mhinz/vim-galore",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/972014?v=3",
+        "ownerUrl": "https://github.com/mhinz",
+        "stars": 3240,
+        "language": null
+    },
+    {
+        "name": "medis",
+        "description": "Medis is a beautiful, easy-to-use Mac database management application for Redis.",
+        "url": "https://github.com/luin/medis",
+        "homepage": "http://getmedis.com",
+        "avatar": "https://avatars.githubusercontent.com/u/635902?v=3",
+        "ownerUrl": "https://github.com/luin",
+        "stars": 1496,
+        "language": "JavaScript"
+    },
+    {
+        "name": "python-elevator-challenge",
+        "description": "So You Think You Can Program An Elevator",
+        "url": "https://github.com/mshang/python-elevator-challenge",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/999614?v=3",
+        "ownerUrl": "https://github.com/mshang",
+        "stars": 853,
+        "language": "Python"
     }
 ]
