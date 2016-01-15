@@ -25,3 +25,6 @@ jlevy/og-equity-compensation
 mhinz/vim-galore
 luin/medis
 mshang/python-elevator-challenge
+Microsoft/ChakraCore
+JakeLin/IBAnimatable
+lodash/lodash
