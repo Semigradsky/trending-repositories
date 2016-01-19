@@ -6,7 +6,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/25254?v=3",
         "ownerUrl": "https://github.com/tj",
-        "stars": 1819,
+        "stars": 1938,
         "language": "JavaScript"
     },
     {
@@ -16,17 +16,17 @@
         "homepage": "http://getguesstimate.com/",
         "avatar": "https://avatars.githubusercontent.com/u/13894028?v=3",
         "ownerUrl": "https://github.com/getguesstimate",
-        "stars": 1401,
+        "stars": 1427,
         "language": "JavaScript"
     },
     {
-        "name": "OS.js-v2",
+        "name": "OS.js",
         "description": "JavaScript Cloud/Web Desktop Platform",
-        "url": "https://github.com/andersevenrud/OS.js-v2",
+        "url": "https://github.com/os-js/OS.js",
         "homepage": "http://os.js.org/",
-        "avatar": "https://avatars.githubusercontent.com/u/161548?v=3",
-        "ownerUrl": "https://github.com/andersevenrud",
-        "stars": 2612,
+        "avatar": "https://avatars.githubusercontent.com/u/16737562?v=3",
+        "ownerUrl": "https://github.com/os-js",
+        "stars": 2761,
         "language": "JavaScript"
     },
     {
@@ -36,7 +36,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9892522?v=3",
         "ownerUrl": "https://github.com/FreeCodeCamp",
-        "stars": 56829,
+        "stars": 59239,
         "language": "JavaScript"
     },
     {
@@ -46,7 +46,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/6636455?v=3",
         "ownerUrl": "https://github.com/Lucifier129",
-        "stars": 588,
+        "stars": 617,
         "language": "JavaScript"
     },
     {
@@ -56,7 +56,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/364727?v=3",
         "ownerUrl": "https://github.com/ericelliott",
-        "stars": 5338,
+        "stars": 5424,
         "language": "ApacheConf"
     },
     {
@@ -66,7 +66,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
         "ownerUrl": "https://github.com/jlevy",
-        "stars": 24435,
+        "stars": 24635,
         "language": null
     },
     {
@@ -76,7 +76,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/41016?v=3",
         "ownerUrl": "https://github.com/johang",
-        "stars": 1405,
+        "stars": 1413,
         "language": "C++"
     },
     {
@@ -86,7 +86,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5083777?v=3",
         "ownerUrl": "https://github.com/VerbalExpressions",
-        "stars": 8817,
+        "stars": 8934,
         "language": "JavaScript"
     },
     {
@@ -96,7 +96,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/4718852?v=3",
         "ownerUrl": "https://github.com/joelpx",
-        "stars": 1252,
+        "stars": 1266,
         "language": "Python"
     },
     {
@@ -106,7 +106,7 @@
         "homepage": "http://openage.sft.mx",
         "avatar": "https://avatars.githubusercontent.com/u/1783325?v=3",
         "ownerUrl": "https://github.com/SFTtech",
-        "stars": 4730,
+        "stars": 4745,
         "language": "C++"
     },
     {
@@ -116,7 +116,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/216638?v=3",
         "ownerUrl": "https://github.com/jonathanslenders",
-        "stars": 856,
+        "stars": 869,
         "language": "Python"
     },
     {
@@ -126,7 +126,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5144674?v=3",
         "ownerUrl": "https://github.com/0x5e",
-        "stars": 3473,
+        "stars": 3582,
         "language": "Python"
     },
     {
@@ -136,7 +136,7 @@
         "homepage": "https://getbitbar.com/",
         "avatar": "https://avatars.githubusercontent.com/u/101659?v=3",
         "ownerUrl": "https://github.com/matryer",
-        "stars": 4874,
+        "stars": 4997,
         "language": "Objective-C"
     },
     {
@@ -146,7 +146,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/40263?v=3",
         "ownerUrl": "https://github.com/amontalenti",
-        "stars": 1603,
+        "stars": 1748,
         "language": null
     },
     {
@@ -156,7 +156,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/239742?v=3",
         "ownerUrl": "https://github.com/petehunt",
-        "stars": 2379,
+        "stars": 2558,
         "language": null
     },
     {
@@ -166,7 +166,7 @@
         "homepage": "http://getbootstrap.com",
         "avatar": "https://avatars.githubusercontent.com/u/2918581?v=3",
         "ownerUrl": "https://github.com/twbs",
-        "stars": 91375,
+        "stars": 91562,
         "language": "CSS"
     },
     {
@@ -176,17 +176,17 @@
         "homepage": "http://www.nodaljs.com/",
         "avatar": "https://avatars.githubusercontent.com/u/3936867?v=3",
         "ownerUrl": "https://github.com/keithwhor",
-        "stars": 1744,
+        "stars": 1881,
         "language": "JavaScript"
     },
     {
         "name": "HowToBeAProgrammer",
         "description": "A guide on how to be a Programmer - originally published by Robert L Read",
         "url": "https://github.com/braydie/HowToBeAProgrammer",
-        "homepage": "",
+        "homepage": "https://braydie.gitbooks.io/how-to-be-a-programmer/content/",
         "avatar": "https://avatars.githubusercontent.com/u/1651008?v=3",
         "ownerUrl": "https://github.com/braydie",
-        "stars": 5169,
+        "stars": 6075,
         "language": null
     },
     {
@@ -196,7 +196,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1700100?v=3",
         "ownerUrl": "https://github.com/loverajoel",
-        "stars": 4743,
+        "stars": 6129,
         "language": "JavaScript"
     },
     {
@@ -206,7 +206,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/14961703?v=3",
         "ownerUrl": "https://github.com/P-H-C",
-        "stars": 750,
+        "stars": 800,
         "language": "C"
     },
     {
@@ -216,7 +216,7 @@
         "homepage": "http://featurejs.com/",
         "avatar": "https://avatars.githubusercontent.com/u/671836?v=3",
         "ownerUrl": "https://github.com/viljamis",
-        "stars": 1299,
+        "stars": 1664,
         "language": "HTML"
     },
     {
@@ -226,7 +226,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1020551?v=3",
         "ownerUrl": "https://github.com/wilsonpage",
-        "stars": 3027,
+        "stars": 3047,
         "language": "JavaScript"
     },
     {
@@ -236,7 +236,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
         "ownerUrl": "https://github.com/jlevy",
-        "stars": 3593,
+        "stars": 3880,
         "language": null
     },
     {
@@ -246,7 +246,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/972014?v=3",
         "ownerUrl": "https://github.com/mhinz",
-        "stars": 3367,
+        "stars": 3855,
         "language": null
     },
     {
@@ -256,7 +256,7 @@
         "homepage": "http://getmedis.com",
         "avatar": "https://avatars.githubusercontent.com/u/635902?v=3",
         "ownerUrl": "https://github.com/luin",
-        "stars": 1561,
+        "stars": 1785,
         "language": "JavaScript"
     },
     {
@@ -266,7 +266,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/999614?v=3",
         "ownerUrl": "https://github.com/mshang",
-        "stars": 915,
+        "stars": 1107,
         "language": "Python"
     },
     {
@@ -276,7 +276,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 3489,
+        "stars": 4278,
         "language": "JavaScript"
     },
     {
@@ -286,7 +286,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/573856?v=3",
         "ownerUrl": "https://github.com/JakeLin",
-        "stars": 855,
+        "stars": 1747,
         "language": "Swift"
     },
     {
@@ -296,7 +296,57 @@
         "homepage": "https://lodash.com/",
         "avatar": "https://avatars.githubusercontent.com/u/2565403?v=3",
         "ownerUrl": "https://github.com/lodash",
-        "stars": 13718,
+        "stars": 13990,
         "language": "JavaScript"
+    },
+    {
+        "name": "Malware",
+        "description": "Course materials for Malware Analysis by RPISEC",
+        "url": "https://github.com/RPISEC/Malware",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/9358837?v=3",
+        "ownerUrl": "https://github.com/RPISEC",
+        "stars": 902,
+        "language": null
+    },
+    {
+        "name": "warp-ctc",
+        "description": "Fast parallel CTC.",
+        "url": "https://github.com/baidu-research/warp-ctc",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/8051311?v=3",
+        "ownerUrl": "https://github.com/baidu-research",
+        "stars": 1500,
+        "language": "Cuda"
+    },
+    {
+        "name": "dear-github",
+        "description": "An open letter to GitHub from the maintainers of open source projects",
+        "url": "https://github.com/dear-github/dear-github",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/16708458?v=3",
+        "ownerUrl": "https://github.com/dear-github",
+        "stars": 2981,
+        "language": null
+    },
+    {
+        "name": "SVGnest",
+        "description": "An open source vector nesting tool",
+        "url": "https://github.com/Jack000/SVGnest",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/2636509?v=3",
+        "ownerUrl": "https://github.com/Jack000",
+        "stars": 518,
+        "language": "JavaScript"
+    },
+    {
+        "name": "apex",
+        "description": "Minimal AWS Lambda function manager with Go support.",
+        "url": "https://github.com/apex/apex",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/10543471?v=3",
+        "ownerUrl": "https://github.com/apex",
+        "stars": 1130,
+        "language": "Go"
     }
 ]
