@@ -29,7 +29,7 @@ Microsoft/ChakraCore
 JakeLin/IBAnimatable
 lodash/lodash
 RPISEC/Malware
-aidu-research/warp-ctc
+baidu-research/warp-ctc
 dear-github/dear-github
 Jack000/SVGnest
 apex/apex
