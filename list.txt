@@ -33,3 +33,8 @@ baidu-research/warp-ctc
 dear-github/dear-github
 Jack000/SVGnest
 apex/apex
+ben174/git-draw
+samshadwell/TrumpScript
+fastos/tcpdive
+cmusatyalab/openface
+cdmedia/cms.js
