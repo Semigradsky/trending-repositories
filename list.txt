@@ -38,3 +38,11 @@ samshadwell/TrumpScript
 fastos/tcpdive
 cmusatyalab/openface
 cdmedia/cms.js
+jiahaog/nativefier
+brave/browser-laptop
+weui/weui
+Jam3/devtool
+yangyangwithgnu/hardseed
+DrkSephy/es6-cheatsheet
+milligram/milligram
+ejci/favico.js
