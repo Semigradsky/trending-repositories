@@ -46,3 +46,10 @@ yangyangwithgnu/hardseed
 DrkSephy/es6-cheatsheet
 milligram/milligram
 ejci/favico.js
+Yalantis/uCrop
+AlexTatiyants/pev
+Microsoft/CNTK
+Soundnode/soundnode-app
+zquestz/s
+HunterLarco/voxel.css
+nlf/dlite
