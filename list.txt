@@ -53,3 +53,17 @@ Soundnode/soundnode-app
 zquestz/s
 HunterLarco/voxel.css
 nlf/dlite
+fengyuanchen/viewerjs
+cht8687/You-Dont-Need-Lodash-Underscore
+rabbitmq/internals
+developit/preact
+waruqi/tbox
+ParsePlatform/parse-server
+veltman/clmystery
+Kinto/kinto
+google/seesaw
+caesar0301/awesome-public-datasets
+CosmicMind/Material
+CatchChat/Yep
+cantino/huginn
+chinchang/hint.css
