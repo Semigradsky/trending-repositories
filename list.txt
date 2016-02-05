@@ -67,3 +67,7 @@ CosmicMind/Material
 CatchChat/Yep
 cantino/huginn
 chinchang/hint.css
+jgthms/bulma
+fogleman/ln
+awalGarg/cv-maker
+alexazhou/VeryNginx
