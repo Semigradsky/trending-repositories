@@ -71,3 +71,17 @@ jgthms/bulma
 fogleman/ln
 awalGarg/cv-maker
 alexazhou/VeryNginx
+pkmital/tensorflow_tutorials
+josephmisiti/awesome-machine-learning
+mjmlio/mjml
+bevacqua/dragula
+github/scientist
+p-e-w/maybe
+AriaFallah/WebpackTutorial
+buckket/twtxt
+jayphelps/git-blame-someone-else
+kennethreitz/records
+pudo/datasetm
+jbranchaud/til
+stevemao/diff-so-fancy
+minimaxir/big-list-of-naughty-strings
