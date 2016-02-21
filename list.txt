@@ -98,3 +98,8 @@ src-d/go-git
 google/EarlGrey
 callmecavs/bricks.js
 scup/atellier
+wardowsmcc/badass
+timothycrosley/hug
+Hashnode/mern-starter
+jflesch/paperwork
+defaultnamehere/zzzzz
