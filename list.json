@@ -6,7 +6,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/25254?v=3",
         "ownerUrl": "https://github.com/tj",
-        "stars": 2157,
+        "stars": 2253,
         "language": "JavaScript"
     },
     {
@@ -16,17 +16,17 @@
         "homepage": "http://getguesstimate.com/",
         "avatar": "https://avatars.githubusercontent.com/u/13894028?v=3",
         "ownerUrl": "https://github.com/getguesstimate",
-        "stars": 1529,
+        "stars": 1558,
         "language": "JavaScript"
     },
     {
         "name": "OS.js",
         "description": "JavaScript Cloud/Web Desktop Platform",
         "url": "https://github.com/os-js/OS.js",
-        "homepage": "http://os.js.org/",
+        "homepage": "https://os.js.org/",
         "avatar": "https://avatars.githubusercontent.com/u/16737562?v=3",
         "ownerUrl": "https://github.com/os-js",
-        "stars": 3061,
+        "stars": 3108,
         "language": "JavaScript"
     },
     {
@@ -36,7 +36,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9892522?v=3",
         "ownerUrl": "https://github.com/FreeCodeCamp",
-        "stars": 78213,
+        "stars": 89144,
         "language": "JavaScript"
     },
     {
@@ -46,7 +46,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/6636455?v=3",
         "ownerUrl": "https://github.com/Lucifier129",
-        "stars": 687,
+        "stars": 737,
         "language": "JavaScript"
     },
     {
@@ -56,7 +56,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/364727?v=3",
         "ownerUrl": "https://github.com/ericelliott",
-        "stars": 5752,
+        "stars": 5886,
         "language": "ApacheConf"
     },
     {
@@ -66,7 +66,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
         "ownerUrl": "https://github.com/jlevy",
-        "stars": 25576,
+        "stars": 25835,
         "language": null
     },
     {
@@ -76,7 +76,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/41016?v=3",
         "ownerUrl": "https://github.com/johang",
-        "stars": 1452,
+        "stars": 1476,
         "language": "C++"
     },
     {
@@ -86,17 +86,17 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5083777?v=3",
         "ownerUrl": "https://github.com/VerbalExpressions",
-        "stars": 9269,
+        "stars": 9338,
         "language": "JavaScript"
     },
     {
-        "name": "reverse",
+        "name": "plasma",
         "description": "Reverse engineering tool for x86/ARM/MIPS. Generates indented pseudo-C with colored syntax code.",
-        "url": "https://github.com/joelpx/reverse",
+        "url": "https://github.com/joelpx/plasma",
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/4718852?v=3",
         "ownerUrl": "https://github.com/joelpx",
-        "stars": 1312,
+        "stars": 1327,
         "language": "Python"
     },
     {
@@ -106,7 +106,7 @@
         "homepage": "http://openage.sft.mx",
         "avatar": "https://avatars.githubusercontent.com/u/1783325?v=3",
         "ownerUrl": "https://github.com/SFTtech",
-        "stars": 4820,
+        "stars": 4885,
         "language": "C++"
     },
     {
@@ -116,7 +116,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/216638?v=3",
         "ownerUrl": "https://github.com/jonathanslenders",
-        "stars": 906,
+        "stars": 917,
         "language": "Python"
     },
     {
@@ -126,7 +126,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5144674?v=3",
         "ownerUrl": "https://github.com/0x5e",
-        "stars": 3875,
+        "stars": 3990,
         "language": "Python"
     },
     {
@@ -136,7 +136,7 @@
         "homepage": "https://getbitbar.com/",
         "avatar": "https://avatars.githubusercontent.com/u/101659?v=3",
         "ownerUrl": "https://github.com/matryer",
-        "stars": 5761,
+        "stars": 6015,
         "language": "Objective-C"
     },
     {
@@ -146,7 +146,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/40263?v=3",
         "ownerUrl": "https://github.com/amontalenti",
-        "stars": 1977,
+        "stars": 2037,
         "language": null
     },
     {
@@ -156,7 +156,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/239742?v=3",
         "ownerUrl": "https://github.com/petehunt",
-        "stars": 3368,
+        "stars": 4435,
         "language": null
     },
     {
@@ -166,17 +166,17 @@
         "homepage": "http://getbootstrap.com",
         "avatar": "https://avatars.githubusercontent.com/u/2918581?v=3",
         "ownerUrl": "https://github.com/twbs",
-        "stars": 92753,
+        "stars": 93495,
         "language": "CSS"
     },
     {
         "name": "nodal",
-        "description": "Web Servers Made Easy With Node.js",
+        "description": "API Services Made Easy With Node.js",
         "url": "https://github.com/keithwhor/nodal",
         "homepage": "http://www.nodaljs.com/",
         "avatar": "https://avatars.githubusercontent.com/u/3936867?v=3",
         "ownerUrl": "https://github.com/keithwhor",
-        "stars": 2231,
+        "stars": 2447,
         "language": "JavaScript"
     },
     {
@@ -186,17 +186,17 @@
         "homepage": "https://braydie.gitbooks.io/how-to-be-a-programmer/content/",
         "avatar": "https://avatars.githubusercontent.com/u/1651008?v=3",
         "ownerUrl": "https://github.com/braydie",
-        "stars": 7236,
+        "stars": 7322,
         "language": null
     },
     {
         "name": "jstips",
-        "description": "This is about one JS tip every day!",
+        "description": "This is about useful JS tips!",
         "url": "https://github.com/loverajoel/jstips",
-        "homepage": "",
+        "homepage": "http://jstips.co",
         "avatar": "https://avatars.githubusercontent.com/u/1700100?v=3",
         "ownerUrl": "https://github.com/loverajoel",
-        "stars": 8896,
+        "stars": 9194,
         "language": "CSS"
     },
     {
@@ -206,7 +206,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/14961703?v=3",
         "ownerUrl": "https://github.com/P-H-C",
-        "stars": 907,
+        "stars": 952,
         "language": "C"
     },
     {
@@ -216,7 +216,7 @@
         "homepage": "http://featurejs.com/",
         "avatar": "https://avatars.githubusercontent.com/u/671836?v=3",
         "ownerUrl": "https://github.com/viljamis",
-        "stars": 2562,
+        "stars": 2626,
         "language": "HTML"
     },
     {
@@ -226,7 +226,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1020551?v=3",
         "ownerUrl": "https://github.com/wilsonpage",
-        "stars": 3124,
+        "stars": 3174,
         "language": "JavaScript"
     },
     {
@@ -236,7 +236,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2058167?v=3",
         "ownerUrl": "https://github.com/jlevy",
-        "stars": 4265,
+        "stars": 4343,
         "language": null
     },
     {
@@ -246,7 +246,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/972014?v=3",
         "ownerUrl": "https://github.com/mhinz",
-        "stars": 4346,
+        "stars": 4443,
         "language": "VimL"
     },
     {
@@ -256,7 +256,7 @@
         "homepage": "http://getmedis.com",
         "avatar": "https://avatars.githubusercontent.com/u/635902?v=3",
         "ownerUrl": "https://github.com/luin",
-        "stars": 2153,
+        "stars": 2212,
         "language": "JavaScript"
     },
     {
@@ -266,7 +266,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/999614?v=3",
         "ownerUrl": "https://github.com/mshang",
-        "stars": 1263,
+        "stars": 1274,
         "language": "Python"
     },
     {
@@ -276,7 +276,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 4900,
+        "stars": 4980,
         "language": "JavaScript"
     },
     {
@@ -286,7 +286,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/573856?v=3",
         "ownerUrl": "https://github.com/JakeLin",
-        "stars": 2793,
+        "stars": 3251,
         "language": "Swift"
     },
     {
@@ -296,7 +296,7 @@
         "homepage": "https://lodash.com/",
         "avatar": "https://avatars.githubusercontent.com/u/2565403?v=3",
         "ownerUrl": "https://github.com/lodash",
-        "stars": 14769,
+        "stars": 15197,
         "language": "JavaScript"
     },
     {
@@ -306,7 +306,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9358837?v=3",
         "ownerUrl": "https://github.com/RPISEC",
-        "stars": 1044,
+        "stars": 1078,
         "language": null
     },
     {
@@ -316,7 +316,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/8051311?v=3",
         "ownerUrl": "https://github.com/baidu-research",
-        "stars": 2082,
+        "stars": 2143,
         "language": "Cuda"
     },
     {
@@ -326,7 +326,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/16708458?v=3",
         "ownerUrl": "https://github.com/dear-github",
-        "stars": 4254,
+        "stars": 4328,
         "language": null
     },
     {
@@ -336,7 +336,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2636509?v=3",
         "ownerUrl": "https://github.com/Jack000",
-        "stars": 794,
+        "stars": 813,
         "language": "JavaScript"
     },
     {
@@ -346,7 +346,7 @@
         "homepage": "http://apex.run",
         "avatar": "https://avatars.githubusercontent.com/u/10543471?v=3",
         "ownerUrl": "https://github.com/apex",
-        "stars": 1959,
+        "stars": 2113,
         "language": "Go"
     },
     {
@@ -356,7 +356,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1502483?v=3",
         "ownerUrl": "https://github.com/ben174",
-        "stars": 1160,
+        "stars": 1205,
         "language": "JavaScript"
     },
     {
@@ -366,7 +366,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/3265633?v=3",
         "ownerUrl": "https://github.com/samshadwell",
-        "stars": 3103,
+        "stars": 3198,
         "language": "Python"
     },
     {
@@ -376,7 +376,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/7972753?v=3",
         "ownerUrl": "https://github.com/fastos",
-        "stars": 1197,
+        "stars": 1249,
         "language": "Shell"
     },
     {
@@ -386,7 +386,7 @@
         "homepage": "http://cmusatyalab.github.io/openface/",
         "avatar": "https://avatars.githubusercontent.com/u/3372991?v=3",
         "ownerUrl": "https://github.com/cmusatyalab",
-        "stars": 4081,
+        "stars": 4143,
         "language": "Lua"
     },
     {
@@ -396,17 +396,17 @@
         "homepage": "http://cdmedia.github.io/cms.js",
         "avatar": "https://avatars.githubusercontent.com/u/4675420?v=3",
         "ownerUrl": "https://github.com/cdmedia",
-        "stars": 1717,
+        "stars": 1748,
         "language": "JavaScript"
     },
     {
         "name": "nativefier",
         "description": "Wrap any web page natively without even thinking, across Windows, OSX and Linux",
         "url": "https://github.com/jiahaog/nativefier",
-        "homepage": "",
+        "homepage": "https://jiahaog.com/nativefier",
         "avatar": "https://avatars.githubusercontent.com/u/7111741?v=3",
         "ownerUrl": "https://github.com/jiahaog",
-        "stars": 4877,
+        "stars": 5094,
         "language": "JavaScript"
     },
     {
@@ -416,7 +416,7 @@
         "homepage": "http://www.brave.com",
         "avatar": "https://avatars.githubusercontent.com/u/12301619?v=3",
         "ownerUrl": "https://github.com/brave",
-        "stars": 2098,
+        "stars": 2286,
         "language": "JavaScript"
     },
     {
@@ -426,7 +426,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/10220215?v=3",
         "ownerUrl": "https://github.com/weui",
-        "stars": 6898,
+        "stars": 7489,
         "language": "CSS"
     },
     {
@@ -436,7 +436,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1165621?v=3",
         "ownerUrl": "https://github.com/Jam3",
-        "stars": 2305,
+        "stars": 2418,
         "language": "JavaScript"
     },
     {
@@ -446,7 +446,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/3734415?v=3",
         "ownerUrl": "https://github.com/yangyangwithgnu",
-        "stars": 4222,
+        "stars": 4423,
         "language": "C++"
     },
     {
@@ -456,7 +456,7 @@
         "homepage": "http://slides.com/drksephy/ecmascript-2015",
         "avatar": "https://avatars.githubusercontent.com/u/1226900?v=3",
         "ownerUrl": "https://github.com/DrkSephy",
-        "stars": 6666,
+        "stars": 6934,
         "language": "JavaScript"
     },
     {
@@ -466,7 +466,7 @@
         "homepage": "http://milligram.github.io",
         "avatar": "https://avatars.githubusercontent.com/u/16243913?v=3",
         "ownerUrl": "https://github.com/milligram",
-        "stars": 3296,
+        "stars": 3409,
         "language": "CSS"
     },
     {
@@ -476,7 +476,7 @@
         "homepage": "http://lab.ejci.net/favico.js/",
         "avatar": "https://avatars.githubusercontent.com/u/1025656?v=3",
         "ownerUrl": "https://github.com/ejci",
-        "stars": 6618,
+        "stars": 6684,
         "language": "JavaScript"
     },
     {
@@ -486,7 +486,7 @@
         "homepage": "https://yalantis.com/blog/introducing-ucrop-our-own-image-cropping-library-for-android/",
         "avatar": "https://avatars.githubusercontent.com/u/752338?v=3",
         "ownerUrl": "https://github.com/Yalantis",
-        "stars": 2187,
+        "stars": 2392,
         "language": "Java"
     },
     {
@@ -496,7 +496,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/774302?v=3",
         "ownerUrl": "https://github.com/AlexTatiyants",
-        "stars": 709,
+        "stars": 718,
         "language": "CSS"
     },
     {
@@ -506,7 +506,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
         "ownerUrl": "https://github.com/Microsoft",
-        "stars": 4468,
+        "stars": 4699,
         "language": "C++"
     },
     {
@@ -516,7 +516,7 @@
         "homepage": "http://www.soundnodeapp.com",
         "avatar": "https://avatars.githubusercontent.com/u/7566474?v=3",
         "ownerUrl": "https://github.com/Soundnode",
-        "stars": 2175,
+        "stars": 2239,
         "language": "JavaScript"
     },
     {
@@ -526,7 +526,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/83898?v=3",
         "ownerUrl": "https://github.com/zquestz",
-        "stars": 1298,
+        "stars": 1333,
         "language": "Go"
     },
     {
@@ -536,7 +536,7 @@
         "homepage": "http://voxelcss.com",
         "avatar": "https://avatars.githubusercontent.com/u/2695807?v=3",
         "ownerUrl": "https://github.com/HunterLarco",
-        "stars": 3010,
+        "stars": 3096,
         "language": "CSS"
     },
     {
@@ -546,7 +546,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/424045?v=3",
         "ownerUrl": "https://github.com/nlf",
-        "stars": 1743,
+        "stars": 1886,
         "language": "Go"
     },
     {
@@ -556,7 +556,7 @@
         "homepage": "http://fengyuanchen.github.io/viewerjs",
         "avatar": "https://avatars.githubusercontent.com/u/3456749?v=3",
         "ownerUrl": "https://github.com/fengyuanchen",
-        "stars": 1492,
+        "stars": 1536,
         "language": "JavaScript"
     },
     {
@@ -566,7 +566,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/4587603?v=3",
         "ownerUrl": "https://github.com/cht8687",
-        "stars": 1160,
+        "stars": 1180,
         "language": "JavaScript"
     },
     {
@@ -576,7 +576,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/96669?v=3",
         "ownerUrl": "https://github.com/rabbitmq",
-        "stars": 1225,
+        "stars": 1257,
         "language": null
     },
     {
@@ -586,7 +586,7 @@
         "homepage": "http://developit.github.io/preact/",
         "avatar": "https://avatars.githubusercontent.com/u/105127?v=3",
         "ownerUrl": "https://github.com/developit",
-        "stars": 2011,
+        "stars": 2195,
         "language": "JavaScript"
     },
     {
@@ -596,7 +596,7 @@
         "homepage": "http://www.tboox.org",
         "avatar": "https://avatars.githubusercontent.com/u/151335?v=3",
         "ownerUrl": "https://github.com/waruqi",
-        "stars": 922,
+        "stars": 926,
         "language": "C"
     },
     {
@@ -606,7 +606,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/1294580?v=3",
         "ownerUrl": "https://github.com/ParsePlatform",
-        "stars": 6341,
+        "stars": 7197,
         "language": "JavaScript"
     },
     {
@@ -616,17 +616,17 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2120446?v=3",
         "ownerUrl": "https://github.com/veltman",
-        "stars": 3108,
+        "stars": 3128,
         "language": null
     },
     {
         "name": "kinto",
-        "description": "A lightweight JSON storage service with synchronisation and sharing abilities.",
+        "description": "A minimalist JSON storage service with synchronisation and sharing abilities.",
         "url": "https://github.com/Kinto/kinto",
         "homepage": "http://kinto.readthedocs.org/",
         "avatar": "https://avatars.githubusercontent.com/u/13413813?v=3",
         "ownerUrl": "https://github.com/Kinto",
-        "stars": 2606,
+        "stars": 2648,
         "language": "Python"
     },
     {
@@ -636,7 +636,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 3412,
+        "stars": 3499,
         "language": "Go"
     },
     {
@@ -646,7 +646,7 @@
         "homepage": "https://goo.gl/WZ8XAJ",
         "avatar": "https://avatars.githubusercontent.com/u/499254?v=3",
         "ownerUrl": "https://github.com/caesar0301",
-        "stars": 12893,
+        "stars": 13308,
         "language": null
     },
     {
@@ -656,7 +656,7 @@
         "homepage": "http://cosmicmind.io",
         "avatar": "https://avatars.githubusercontent.com/u/10069574?v=3",
         "ownerUrl": "https://github.com/CosmicMind",
-        "stars": 4158,
+        "stars": 4588,
         "language": "Swift"
     },
     {
@@ -666,7 +666,7 @@
         "homepage": "http://soyep.com",
         "avatar": "https://avatars.githubusercontent.com/u/7514530?v=3",
         "ownerUrl": "https://github.com/CatchChat",
-        "stars": 3473,
+        "stars": 3806,
         "language": "Swift"
     },
     {
@@ -676,7 +676,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/83835?v=3",
         "ownerUrl": "https://github.com/cantino",
-        "stars": 13183,
+        "stars": 13317,
         "language": "Ruby"
     },
     {
@@ -686,7 +686,7 @@
         "homepage": "http://kushagragour.in/lab/hint/",
         "avatar": "https://avatars.githubusercontent.com/u/379918?v=3",
         "ownerUrl": "https://github.com/chinchang",
-        "stars": 6125,
+        "stars": 6277,
         "language": "CSS"
     },
     {
@@ -696,7 +696,7 @@
         "homepage": "http://bulma.io",
         "avatar": "https://avatars.githubusercontent.com/u/1254808?v=3",
         "ownerUrl": "https://github.com/jgthms",
-        "stars": 5291,
+        "stars": 5729,
         "language": "CSS"
     },
     {
@@ -706,7 +706,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/520208?v=3",
         "ownerUrl": "https://github.com/fogleman",
-        "stars": 1699,
+        "stars": 1728,
         "language": "Go"
     },
     {
@@ -716,17 +716,17 @@
         "homepage": "http://awal.js.org/cv-maker",
         "avatar": "https://avatars.githubusercontent.com/u/9100409?v=3",
         "ownerUrl": "https://github.com/awalGarg",
-        "stars": 929,
+        "stars": 953,
         "language": "JavaScript"
     },
     {
         "name": "VeryNginx",
-        "description": "A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide waf , custom action and analyzing. 功能强大并且拥有对人类友好界面的Nginx, 提供防火墙，自定义行为和统计功能",
+        "description": " A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. 功能强大且拥有对人类友好界面的Nginx，提供防火墙，自定义行为，和统计功能",
         "url": "https://github.com/alexazhou/VeryNginx",
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9353779?v=3",
         "ownerUrl": "https://github.com/alexazhou",
-        "stars": 1218,
+        "stars": 1350,
         "language": "HTML"
     },
     {
@@ -736,7 +736,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/429252?v=3",
         "ownerUrl": "https://github.com/pkmital",
-        "stars": 1844,
+        "stars": 1887,
         "language": "Jupyter Notebook"
     },
     {
@@ -746,7 +746,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/246302?v=3",
         "ownerUrl": "https://github.com/josephmisiti",
-        "stars": 11236,
+        "stars": 11600,
         "language": "Python"
     },
     {
@@ -756,7 +756,7 @@
         "homepage": "https://mjml.io",
         "avatar": "https://avatars.githubusercontent.com/u/16115896?v=3",
         "ownerUrl": "https://github.com/mjmlio",
-        "stars": 2490,
+        "stars": 2852,
         "language": "JavaScript"
     },
     {
@@ -766,7 +766,7 @@
         "homepage": "http://bevacqua.github.io/dragula/",
         "avatar": "https://avatars.githubusercontent.com/u/934293?v=3",
         "ownerUrl": "https://github.com/bevacqua",
-        "stars": 12666,
+        "stars": 12800,
         "language": "JavaScript"
     },
     {
@@ -776,7 +776,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/9919?v=3",
         "ownerUrl": "https://github.com/github",
-        "stars": 3068,
+        "stars": 3330,
         "language": "Ruby"
     },
     {
@@ -786,7 +786,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2702526?v=3",
         "ownerUrl": "https://github.com/p-e-w",
-        "stars": 5391,
+        "stars": 5623,
         "language": "Python"
     },
     {
@@ -796,7 +796,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/9424976?v=3",
         "ownerUrl": "https://github.com/AriaFallah",
-        "stars": 1291,
+        "stars": 1401,
         "language": "JavaScript"
     },
     {
@@ -806,7 +806,7 @@
         "homepage": "http://twtxt.readthedocs.org/en/stable/",
         "avatar": "https://avatars.githubusercontent.com/u/111178?v=3",
         "ownerUrl": "https://github.com/buckket",
-        "stars": 817,
+        "stars": 832,
         "language": "Python"
     },
     {
@@ -816,7 +816,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/762949?v=3",
         "ownerUrl": "https://github.com/jayphelps",
-        "stars": 3389,
+        "stars": 3569,
         "language": "Shell"
     },
     {
@@ -826,7 +826,7 @@
         "homepage": "https://pypi.python.org/pypi/records/",
         "avatar": "https://avatars.githubusercontent.com/u/119893?v=3",
         "ownerUrl": "https://github.com/kennethreitz",
-        "stars": 1884,
+        "stars": 2050,
         "language": "Python"
     },
     {
@@ -836,7 +836,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/694063?v=3",
         "ownerUrl": "https://github.com/jbranchaud",
-        "stars": 4423,
+        "stars": 4755,
         "language": "VimL"
     },
     {
@@ -846,7 +846,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/17226113?v=3",
         "ownerUrl": "https://github.com/so-fancy",
-        "stars": 3797,
+        "stars": 4285,
         "language": "Shell"
     },
     {
@@ -856,7 +856,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2179708?v=3",
         "ownerUrl": "https://github.com/minimaxir",
-        "stars": 11038,
+        "stars": 11132,
         "language": "Python"
     },
     {
@@ -866,7 +866,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1637638?v=3",
         "ownerUrl": "https://github.com/electronicarts",
-        "stars": 1808,
+        "stars": 1886,
         "language": "C++"
     },
     {
@@ -876,7 +876,7 @@
         "homepage": "http://deepstream.io/",
         "avatar": "https://avatars.githubusercontent.com/u/9024218?v=3",
         "ownerUrl": "https://github.com/deepstreamIO",
-        "stars": 2011,
+        "stars": 2105,
         "language": "JavaScript"
     },
     {
@@ -886,17 +886,17 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/218205?v=3",
         "ownerUrl": "https://github.com/danielquinn",
-        "stars": 2353,
-        "language": "Python"
+        "stars": 2565,
+        "language": "CSS"
     },
     {
         "name": "hosts",
-        "description": "Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.",
+        "description": "Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomains.com, someonewhocares.org, yoyo.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.",
         "url": "https://github.com/StevenBlack/hosts",
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/80144?v=3",
         "ownerUrl": "https://github.com/StevenBlack",
-        "stars": 2905,
+        "stars": 3133,
         "language": "Python"
     },
     {
@@ -906,7 +906,7 @@
         "homepage": "http://jakiestfu.github.io/himawari.js/demo/",
         "avatar": "https://avatars.githubusercontent.com/u/1041792?v=3",
         "ownerUrl": "https://github.com/jakiestfu",
-        "stars": 1404,
+        "stars": 1487,
         "language": "JavaScript"
     },
     {
@@ -916,17 +916,17 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/5856852?v=3",
         "ownerUrl": "https://github.com/bytedeco",
-        "stars": 1345,
+        "stars": 1421,
         "language": "Java"
     },
     {
         "name": "30DaysofSwift",
-        "description": "A self taught project to learn Swift.",
+        "description": "A self-taught project to learn Swift.",
         "url": "https://github.com/allenwong/30DaysofSwift",
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/698982?v=3",
         "ownerUrl": "https://github.com/allenwong",
-        "stars": 4098,
+        "stars": 6079,
         "language": "Swift"
     },
     {
@@ -936,7 +936,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/541152?v=3",
         "ownerUrl": "https://github.com/pinterest",
-        "stars": 1179,
+        "stars": 1528,
         "language": "JavaScript"
     },
     {
@@ -946,7 +946,7 @@
         "homepage": "http://www.asad.pw/awesome-postgres/",
         "avatar": "https://avatars.githubusercontent.com/u/4560482?v=3",
         "ownerUrl": "https://github.com/dhamaniasad",
-        "stars": 2355,
+        "stars": 2583,
         "language": null
     },
     {
@@ -956,7 +956,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/1097349?v=3",
         "ownerUrl": "https://github.com/joealcorn",
-        "stars": 760,
+        "stars": 880,
         "language": "Python"
     },
     {
@@ -966,7 +966,7 @@
         "homepage": "https://godoc.org/gopkg.in/src-d/go-git.v2",
         "avatar": "https://avatars.githubusercontent.com/u/15128793?v=3",
         "ownerUrl": "https://github.com/src-d",
-        "stars": 724,
+        "stars": 823,
         "language": "Go"
     },
     {
@@ -976,7 +976,7 @@
         "homepage": "https://github.com/google/EarlGrey",
         "avatar": "https://avatars.githubusercontent.com/u/1342004?v=3",
         "ownerUrl": "https://github.com/google",
-        "stars": 1872,
+        "stars": 2428,
         "language": "Objective-C"
     },
     {
@@ -986,7 +986,7 @@
         "homepage": "http://callmecavs.com/bricks.js/",
         "avatar": "https://avatars.githubusercontent.com/u/2293641?v=3",
         "ownerUrl": "https://github.com/callmecavs",
-        "stars": 1331,
+        "stars": 2967,
         "language": "JavaScript"
     },
     {
@@ -996,7 +996,7 @@
         "homepage": "http://scup.github.io/atellier/",
         "avatar": "https://avatars.githubusercontent.com/u/1346674?v=3",
         "ownerUrl": "https://github.com/scup",
-        "stars": 575,
+        "stars": 703,
         "language": "JavaScript"
     },
     {
@@ -1006,7 +1006,7 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/14637079?v=3",
         "ownerUrl": "https://github.com/wardowsmcc",
-        "stars": 1544,
+        "stars": 1576,
         "language": "PHP"
     },
     {
@@ -1016,7 +1016,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/2090154?v=3",
         "ownerUrl": "https://github.com/timothycrosley",
-        "stars": 2381,
+        "stars": 2812,
         "language": "Python"
     },
     {
@@ -1026,7 +1026,7 @@
         "homepage": "http://mern.io",
         "avatar": "https://avatars.githubusercontent.com/u/16342708?v=3",
         "ownerUrl": "https://github.com/Hashnode",
-        "stars": 1301,
+        "stars": 1829,
         "language": "JavaScript"
     },
     {
@@ -1036,7 +1036,7 @@
         "homepage": "",
         "avatar": "https://avatars.githubusercontent.com/u/135331?v=3",
         "ownerUrl": "https://github.com/jflesch",
-        "stars": 1438,
+        "stars": 1643,
         "language": "Python"
     },
     {
@@ -1046,7 +1046,467 @@
         "homepage": null,
         "avatar": "https://avatars.githubusercontent.com/u/2187165?v=3",
         "ownerUrl": "https://github.com/defaultnamehere",
-        "stars": 731,
+        "stars": 1015,
         "language": "Python"
+    },
+    {
+        "name": "ImagicalMine",
+        "description": "ImagicalMine. The first third-party build of PocketMine-MP that went viral.",
+        "url": "https://github.com/ImagicalMine/ImagicalMine",
+        "homepage": "http://imagicalmine.net",
+        "avatar": "https://avatars.githubusercontent.com/u/15314206?v=3",
+        "ownerUrl": "https://github.com/ImagicalMine",
+        "stars": 340,
+        "language": "PHP"
+    },
+    {
+        "name": "vapor",
+        "description": "Elegant web framework for Swift that works on iOS, OS X, and Ubuntu.",
+        "url": "https://github.com/qutheory/vapor",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/17364220?v=3",
+        "ownerUrl": "https://github.com/qutheory",
+        "stars": 3215,
+        "language": "Swift"
+    },
+    {
+        "name": "claudia",
+        "description": "Deploy Node.js microservices to AWS easily",
+        "url": "https://github.com/claudiajs/claudia",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/17075165?v=3",
+        "ownerUrl": "https://github.com/claudiajs",
+        "stars": 940,
+        "language": "JavaScript"
+    },
+    {
+        "name": "okayNav",
+        "description": "The world's okayest responsive navigation",
+        "url": "https://github.com/VPenkov/okayNav",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/1693651?v=3",
+        "ownerUrl": "https://github.com/VPenkov",
+        "stars": 3238,
+        "language": "JavaScript"
+    },
+    {
+        "name": "peer-tweet",
+        "description": "Decentralized feeds using BitTorrent's DHT. Idea from Arvid and The_8472 \"DHT RSS feeds\" http://libtorrent.org/dht_rss.html",
+        "url": "https://github.com/lmatteis/peer-tweet",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/535442?v=3",
+        "ownerUrl": "https://github.com/lmatteis",
+        "stars": 780,
+        "language": "JavaScript"
+    },
+    {
+        "name": "jolteon",
+        "description": "Babel + Electron + React + Browserify + SASS application stack",
+        "url": "https://github.com/vulpino/jolteon",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/7596630?v=3",
+        "ownerUrl": "https://github.com/vulpino",
+        "stars": 839,
+        "language": "JavaScript"
+    },
+    {
+        "name": "draft-js",
+        "description": "A React framework for building text editors.",
+        "url": "https://github.com/facebook/draft-js",
+        "homepage": "https://facebook.github.io/draft-js/",
+        "avatar": "https://avatars.githubusercontent.com/u/69631?v=3",
+        "ownerUrl": "https://github.com/facebook",
+        "stars": 5285,
+        "language": "JavaScript"
+    },
+    {
+        "name": "how2",
+        "description": "stackoverflow from the terminal",
+        "url": "https://github.com/santinic/how2",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/179558?v=3",
+        "ownerUrl": "https://github.com/santinic",
+        "stars": 3987,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Kitura",
+        "description": "Web framework and HTTP server for Swift",
+        "url": "https://github.com/IBM-Swift/Kitura",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/16882981?v=3",
+        "ownerUrl": "https://github.com/IBM-Swift",
+        "stars": 2455,
+        "language": "Swift"
+    },
+    {
+        "name": "cash",
+        "description": ":dollar: Cross-platform Linux without the suck",
+        "url": "https://github.com/dthree/cash",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/10319897?v=3",
+        "ownerUrl": "https://github.com/dthree",
+        "stars": 4781,
+        "language": "JavaScript"
+    },
+    {
+        "name": "v86",
+        "description": "x86 virtualization in JavaScript, running in your browser and NodeJS",
+        "url": "https://github.com/copy/v86",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/1816456?v=3",
+        "ownerUrl": "https://github.com/copy",
+        "stars": 2763,
+        "language": "JavaScript"
+    },
+    {
+        "name": "keeweb",
+        "description": "KeePass web app (unofficial)",
+        "url": "https://github.com/antelle/keeweb",
+        "homepage": "https://keeweb.info",
+        "avatar": "https://avatars.githubusercontent.com/u/633557?v=3",
+        "ownerUrl": "https://github.com/antelle",
+        "stars": 2521,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Rosie",
+        "description": "Rosie is an Android framework to create applications following the principles of Clean Architecture.",
+        "url": "https://github.com/Karumi/Rosie",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/6469715?v=3",
+        "ownerUrl": "https://github.com/Karumi",
+        "stars": 1111,
+        "language": "Java"
+    },
+    {
+        "name": "swift-algorithm-club",
+        "description": "Algorithms and data structures in Swift, with explanations!",
+        "url": "https://github.com/hollance/swift-algorithm-club",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/346853?v=3",
+        "ownerUrl": "https://github.com/hollance",
+        "stars": 4377,
+        "language": "Swift"
+    },
+    {
+        "name": "AppImageKit",
+        "description": "Using AppImageKit you can package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives.",
+        "url": "https://github.com/probonopd/AppImageKit",
+        "homepage": "http://appimage.org",
+        "avatar": "https://avatars.githubusercontent.com/u/2480569?v=3",
+        "ownerUrl": "https://github.com/probonopd",
+        "stars": 854,
+        "language": "Python"
+    },
+    {
+        "name": "rqlite",
+        "description": "Replicating SQLite using the Raft consensus protocol",
+        "url": "https://github.com/otoolep/rqlite",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/536312?v=3",
+        "ownerUrl": "https://github.com/otoolep",
+        "stars": 1172,
+        "language": "Go"
+    },
+    {
+        "name": "Douya",
+        "description": "开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）。",
+        "url": "https://github.com/DreaminginCodeZH/Douya",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/4469895?v=3",
+        "ownerUrl": "https://github.com/DreaminginCodeZH",
+        "stars": 1322,
+        "language": "Java"
+    },
+    {
+        "name": "Introduction-to-Autonomous-Robots",
+        "description": "Introduction to Autonomous Robots",
+        "url": "https://github.com/correll/Introduction-to-Autonomous-Robots",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/399192?v=3",
+        "ownerUrl": "https://github.com/correll",
+        "stars": 881,
+        "language": "Mathematica"
+    },
+    {
+        "name": "neural-style",
+        "description": "Torch implementation of neural style algorithm",
+        "url": "https://github.com/jcjohnson/neural-style",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/2718714?v=3",
+        "ownerUrl": "https://github.com/jcjohnson",
+        "stars": 6418,
+        "language": "Lua"
+    },
+    {
+        "name": "intro.js",
+        "description": "A better way for new feature introduction and step-by-step users guide for your website and project.",
+        "url": "https://github.com/usablica/intro.js",
+        "homepage": "http://introjs.com",
+        "avatar": "https://avatars.githubusercontent.com/u/2010360?v=3",
+        "ownerUrl": "https://github.com/usablica",
+        "stars": 13201,
+        "language": "JavaScript"
+    },
+    {
+        "name": "react-native-gitfeed",
+        "description": "Yet another Github client written with react-native.",
+        "url": "https://github.com/xiekw2010/react-native-gitfeed",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/1814071?v=3",
+        "ownerUrl": "https://github.com/xiekw2010",
+        "stars": 847,
+        "language": "JavaScript"
+    },
+    {
+        "name": "system-bus-radio",
+        "description": "This program transmits radio on computers without radio transmitting hardware.",
+        "url": "https://github.com/fulldecent/system-bus-radio",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/382183?v=3",
+        "ownerUrl": "https://github.com/fulldecent",
+        "stars": 2632,
+        "language": "C"
+    },
+    {
+        "name": "electronic-wechat",
+        "description": ":shipit: A better WeChat client on Mac OS X and Linux.",
+        "url": "https://github.com/geeeeeeeeek/electronic-wechat",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/7262715?v=3",
+        "ownerUrl": "https://github.com/geeeeeeeeek",
+        "stars": 1881,
+        "language": "JavaScript"
+    },
+    {
+        "name": "React-Fundamentals",
+        "description": "Code for \"React Fundamentals\" videos",
+        "url": "https://github.com/ReactjsProgram/React-Fundamentals",
+        "homepage": "http://reactjsprogram.com",
+        "avatar": "https://avatars.githubusercontent.com/u/16768485?v=3",
+        "ownerUrl": "https://github.com/ReactjsProgram",
+        "stars": 768,
+        "language": null
+    },
+    {
+        "name": "Advance",
+        "description": "A powerful animation framework for iOS.",
+        "url": "https://github.com/storehouse/Advance",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/3597545?v=3",
+        "ownerUrl": "https://github.com/storehouse",
+        "stars": 2681,
+        "language": "Swift"
+    },
+    {
+        "name": "bash-sensible",
+        "description": "An attempt at saner Bash defaults",
+        "url": "https://github.com/mrzool/bash-sensible",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/6874363?v=3",
+        "ownerUrl": "https://github.com/mrzool",
+        "stars": 1059,
+        "language": "Shell"
+    },
+    {
+        "name": "ZeroNet",
+        "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+        "url": "https://github.com/HelloZeroNet/ZeroNet",
+        "homepage": "https://www.reddit.com/r/zeronet/",
+        "avatar": "https://avatars.githubusercontent.com/u/10350359?v=3",
+        "ownerUrl": "https://github.com/HelloZeroNet",
+        "stars": 2782,
+        "language": "Python"
+    },
+    {
+        "name": "Hilo",
+        "description": "A Cross-end HTML5 Game development solution developed by Alibaba Group",
+        "url": "https://github.com/hiloteam/Hilo",
+        "homepage": "http://hiloteam.github.io/",
+        "avatar": "https://avatars.githubusercontent.com/u/13195604?v=3",
+        "ownerUrl": "https://github.com/hiloteam",
+        "stars": 2085,
+        "language": "JavaScript"
+    },
+    {
+        "name": "vscode-go",
+        "description": "An extension for VS Code which provides support for the Go language.",
+        "url": "https://github.com/Microsoft/vscode-go",
+        "homepage": "https://marketplace.visualstudio.com/items/lukehoban.Go",
+        "avatar": "https://avatars.githubusercontent.com/u/6154722?v=3",
+        "ownerUrl": "https://github.com/Microsoft",
+        "stars": 1505,
+        "language": "TypeScript"
+    },
+    {
+        "name": "TSWeChat",
+        "description": "A WeChat alternative. Written in Swift.",
+        "url": "https://github.com/hilen/TSWeChat",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/2245840?v=3",
+        "ownerUrl": "https://github.com/hilen",
+        "stars": 843,
+        "language": "Swift"
+    },
+    {
+        "name": "rappel",
+        "description": "A linux-based assembly REPL for x86, amd64, and armv7",
+        "url": "https://github.com/yrp604/rappel",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/8716677?v=3",
+        "ownerUrl": "https://github.com/yrp604",
+        "stars": 498,
+        "language": "C"
+    },
+    {
+        "name": "mame",
+        "description": "MAME - Multiple Arcade Machine Emulator",
+        "url": "https://github.com/mamedev/mame",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/9024458?v=3",
+        "ownerUrl": "https://github.com/mamedev",
+        "stars": 1623,
+        "language": "C++"
+    },
+    {
+        "name": "hamburgers",
+        "description": "Tasty CSS-animated Hamburgers",
+        "url": "https://github.com/jonsuh/hamburgers",
+        "homepage": "https://jonsuh.com/hamburgers",
+        "avatar": "https://avatars.githubusercontent.com/u/359871?v=3",
+        "ownerUrl": "https://github.com/jonsuh",
+        "stars": 1910,
+        "language": "CSS"
+    },
+    {
+        "name": "Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+        "description": "A beautiful cross platform Desktop Player for Google Play Music",
+        "url": "https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-",
+        "homepage": "http://www.googleplaymusicdesktopplayer.com",
+        "avatar": "https://avatars.githubusercontent.com/u/6634592?v=3",
+        "ownerUrl": "https://github.com/MarshallOfSound",
+        "stars": 2030,
+        "language": "JavaScript"
+    },
+    {
+        "name": "parse-dashboard",
+        "description": "A dashboard for managing your Parse apps that aren't hosted on Parse.com",
+        "url": "https://github.com/ParsePlatform/parse-dashboard",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1294580?v=3",
+        "ownerUrl": "https://github.com/ParsePlatform",
+        "stars": 799,
+        "language": "JavaScript"
+    },
+    {
+        "name": "image-analogies",
+        "description": "Generate image analogies using neural matching and blending.",
+        "url": "https://github.com/awentzonline/image-analogies",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/5231065?v=3",
+        "ownerUrl": "https://github.com/awentzonline",
+        "stars": 1954,
+        "language": "Python"
+    },
+    {
+        "name": "luna",
+        "description": "luna programming language - a small, elegant VM implemented in C",
+        "url": "https://github.com/tj/luna",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/25254?v=3",
+        "ownerUrl": "https://github.com/tj",
+        "stars": 1806,
+        "language": "C"
+    },
+    {
+        "name": "proselint",
+        "description": "A linter for prose.",
+        "url": "https://github.com/amperser/proselint",
+        "homepage": "http://proselint.com",
+        "avatar": "https://avatars.githubusercontent.com/u/13326312?v=3",
+        "ownerUrl": "https://github.com/amperser",
+        "stars": 1589,
+        "language": "JavaScript"
+    },
+    {
+        "name": "statuspage",
+        "description": "A statuspage generator that lets you host your statuspage for free on Github.",
+        "url": "https://github.com/pyupio/statuspage",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/16113910?v=3",
+        "ownerUrl": "https://github.com/pyupio",
+        "stars": 2406,
+        "language": "Python"
+    },
+    {
+        "name": "Stevia",
+        "description": "Elegant view layout for iOS :leaves:",
+        "url": "https://github.com/s4cha/Stevia",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/1812953?v=3",
+        "ownerUrl": "https://github.com/s4cha",
+        "stars": 1263,
+        "language": "Swift"
+    },
+    {
+        "name": "leaf",
+        "description": "The Hacker's Machine Learning Engine",
+        "url": "https://github.com/autumnai/leaf",
+        "homepage": "http://autumnai.github.io/leaf",
+        "avatar": "https://avatars.githubusercontent.com/u/15320511?v=3",
+        "ownerUrl": "https://github.com/autumnai",
+        "stars": 2851,
+        "language": "Rust"
+    },
+    {
+        "name": "Android_Data",
+        "description": "Some Android learning materials, hoping to help you learn Android development.",
+        "url": "https://github.com/Freelander/Android_Data",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/10611037?v=3",
+        "ownerUrl": "https://github.com/Freelander",
+        "stars": 1905,
+        "language": "Java"
+    },
+    {
+        "name": "apns2",
+        "description": "⚡HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, and OSX apps, using the new APNs HTTP/2 protocol.",
+        "url": "https://github.com/sideshow/apns2",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/137756?v=3",
+        "ownerUrl": "https://github.com/sideshow",
+        "stars": 822,
+        "language": "Go"
+    },
+    {
+        "name": "neural-doodle",
+        "description": "Turn your two-bit doodles into fine artworks with deep neural networks! An implementation of Semantic Style Transfer.",
+        "url": "https://github.com/alexjc/neural-doodle",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/445208?v=3",
+        "ownerUrl": "https://github.com/alexjc",
+        "stars": 2221,
+        "language": "Python"
+    },
+    {
+        "name": "awesome-selfhosted",
+        "description": "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.",
+        "url": "https://github.com/Kickball/awesome-selfhosted",
+        "homepage": "http://reddit.com/r/selfhosted",
+        "avatar": "https://avatars.githubusercontent.com/u/2252004?v=3",
+        "ownerUrl": "https://github.com/Kickball",
+        "stars": 5637,
+        "language": "Makefile"
+    },
+    {
+        "name": "AlphaGo",
+        "description": "A replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search,\" details of which can be found on their website.",
+        "url": "https://github.com/Rochester-NRT/AlphaGo",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/17015390?v=3",
+        "ownerUrl": "https://github.com/Rochester-NRT",
+        "stars": 1591,
+        "language": "JavaScript"
     }
 ]
