@@ -149,3 +149,6 @@ sideshow/apns2
 alexjc/neural-doodle
 Kickball/awesome-selfhosted
 Rochester-NRT/AlphaGo
+kazzkiq/balloon.css
+Croteam-official/Serious-Engine
+machinezone/tcpkali
