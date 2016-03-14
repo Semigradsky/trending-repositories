@@ -152,3 +152,5 @@ Rochester-NRT/AlphaGo
 kazzkiq/balloon.css
 Croteam-official/Serious-Engine
 machinezone/tcpkali
+jpmens/jo
+ryanoasis/nerd-fonts
