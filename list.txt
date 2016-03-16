@@ -155,3 +155,6 @@ machinezone/tcpkali
 jpmens/jo
 ryanoasis/nerd-fonts
 srdja/Collections-C
+UnivaqTelegramBot/UnivaqInformaticaBot
+ageitgey/amplify
+DKirwan/calendar-heatmap
