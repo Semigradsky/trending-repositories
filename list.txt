@@ -160,3 +160,7 @@ ageitgey/amplify
 DKirwan/calendar-heatmap
 marmelroy/PeekPop
 feathersjs/feathers
+roughike/BottomBar
+1000ch/grd
+yenchenlin1994/DeepLearningFlappyBird
+sohutv/cachecloud
