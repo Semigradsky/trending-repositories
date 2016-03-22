@@ -165,3 +165,9 @@ roughike/BottomBar
 yenchenlin1994/DeepLearningFlappyBird
 sohutv/cachecloud
 AutumnsWind/Front-end-tutorial
+redox-os/redox
+dutchcoders/transfer.sh
+googlei18n/libphonenumber
+php-pm/php-pm
+searchkit/searchkit
+redspread/spread
