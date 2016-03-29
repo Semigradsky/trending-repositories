@@ -177,3 +177,10 @@ playdeadgames/temporal
 whyrusleeping/gx
 appetizermonster/hain
 draft-js-plugins/draft-js-plugins
+citusdata/citus
+jezen/is-thirteen
+amzn/alexa-avs-raspberry-pi
+delba/Permission
+opentoonz/opentoonz
+laobie/StatusBarUtil
+thejameskyle/spectacle-code-slide
