@@ -184,3 +184,4 @@ delba/Permission
 opentoonz/opentoonz
 laobie/StatusBarUtil
 thejameskyle/spectacle-code-slide
+gogits/gogs
