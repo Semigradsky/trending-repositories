@@ -185,3 +185,9 @@ opentoonz/opentoonz
 laobie/StatusBarUtil
 thejameskyle/spectacle-code-slide
 gogits/gogs
+ptmt/react-native-desktop
+firehol/netdata
+jianliaoim/talk-os
+googlesamples/android-architecture
+thejameskyle/the-super-tiny-compiler
+Microsoft/BotBuilder
