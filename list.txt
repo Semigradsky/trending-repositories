@@ -192,3 +192,7 @@ googlesamples/android-architecture
 thejameskyle/the-super-tiny-compiler
 Microsoft/BotBuilder
 airbnb/caravel
+kenwheeler/cash
+kadirahq/react-storybook
+tflearn/tflearn
+soimort/you-get
