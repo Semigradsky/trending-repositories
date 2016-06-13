@@ -98,7 +98,7 @@ src-d/go-git
 google/EarlGrey
 callmecavs/bricks.js
 scup/atellier
-wardowsmcc/badass
+# wardowsmcc/badass (slityourthroat/badass) // removed
 timothycrosley/hug
 Hashnode/mern-starter
 jflesch/paperwork
