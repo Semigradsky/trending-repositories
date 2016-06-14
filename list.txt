@@ -333,3 +333,4 @@ airbnb/hypernova
 facebookresearch/darkforestGo
 Haroenv/holmes
 Zomato/AndroidPhotoFilters
+tianzhuo112/VTMagic
