@@ -336,3 +336,8 @@ Zomato/AndroidPhotoFilters
 tianzhuo112/VTMagic
 Microsoft/checkedc
 quiet/quiet-lwip
+habitat-sh/habitat
+yandex/ClickHouse
+badoualy/stepper-indicator
+tj/react-enroute
+donnemartin/awesome-aws
