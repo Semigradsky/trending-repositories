@@ -359,3 +359,6 @@ evhub/coconut
 getify/You-Dont-Know-JS
 guarinogabriel/mac-cli
 shadowsocks/Potatso-iOS
+Bilibili/MagicaSakura
+juliangarnier/anime
+open-source-society/data-science
