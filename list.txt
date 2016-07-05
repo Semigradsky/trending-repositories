@@ -362,3 +362,11 @@ shadowsocks/Potatso-iOS
 Bilibili/MagicaSakura
 juliangarnier/anime
 open-source-society/data-science
+leonar15/startup-checklist
+zonination/investing
+alibaba/weex
+olistic/warriorjs
+jesserayadkins/lily
+impress/impress.js
+terwanerik/ScrollTrigger
+henryboldi/felony
