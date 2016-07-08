@@ -370,3 +370,10 @@ jesserayadkins/lily
 impress/impress.js
 terwanerik/ScrollTrigger
 henryboldi/felony
+vhf/free-programming-books
+Moeditor/Moeditor
+NamPNQ/You-Dont-Need-Javascript
+eriksvedang/Carp
+chrislgarry/Apollo-11
+lambci/lambci
+ChadCSong/ShineButton
