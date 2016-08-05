@@ -103,7 +103,7 @@ timothycrosley/hug
 Hashnode/mern-starter
 jflesch/paperwork
 defaultnamehere/zzzzz
-ImagicalMine/ImagicalMine
+# ImagicalMine/ImagicalMine // removed
 qutheory/vapor
 claudiajs/claudia
 VPenkov/okayNav
