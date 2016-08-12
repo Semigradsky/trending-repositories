@@ -410,7 +410,7 @@ facebook/Surround360
 Droogans/unmaintainable-code
 uber/image-diff
 NECROBOTIO/NecroBot
-PocketMobsters/PokeMobBot
+# MobBotTeam/PokeMobBot // unavailable due to DMCA takedown
 karandesai-96/digit-classifier
 anishathalye/lumen
 shagabutdinov/sublime-enhanced
