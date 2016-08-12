@@ -409,7 +409,7 @@ jgthms/web-design-in-4-minutes
 facebook/Surround360
 Droogans/unmaintainable-code
 uber/image-diff
-NecronomiconCoding/NecroBot
+NECROBOTIO/NecroBot
 PocketMobsters/PokeMobBot
 karandesai-96/digit-classifier
 anishathalye/lumen
@@ -424,3 +424,18 @@ yadav-rahul/TastyToast
 facebookresearch/fastText
 commaai/research
 sachinchoolur/lightgallery.js
+jumpsuit/jumpsuit
+fanrunqi/MaterialLogin
+thewhitetulip/web-dev-golang-anti-textbook
+tdebatty/java-string-similarity
+PokemonGoMap/PokemonGo-Map
+keyphact/pgoapi
+rfansharif/cfilter
+a0viedo/demystifying-js-engines
+acdlite/react-fiber-architecture
+PokemonGoF/PokemonGo-Bot
+roberdam/Xaddress
+mewo2/terrain
+eoinfogarty/Onboarding
+aymericdamien/TopDeepLearning
+redfin/react-server
