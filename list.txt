@@ -536,3 +536,10 @@ mandatoryprogrammer/NorthKoreaDNSLeak
 alexflint/gallium
 airyland/vux
 kholia/OSX-KVM
+gavinkwoe/weapp-ide-crack
+Aufree/awesome-wechat-weapp
+justjavac/awesome-wechat-weapp
+Tencent/tinker
+BurntSushi/ripgrep
+davecheney/httpstat
+ajbrock/Neural-Photo-Editor
