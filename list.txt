@@ -570,7 +570,7 @@ wulkano/kap
 googlecartographer/cartographer
 udacity/self-driving-car
 appbaseio/mirage
-amattson21/gitjob
+# amattson21/gitjob // removed
 jeasonlzy/okhttp-OkGo
 leolin310148/ShortcutBadger
 p-org/P
