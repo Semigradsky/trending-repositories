@@ -582,3 +582,7 @@ Instagram/IGListKit
 styled-components/styled-components
 transcranial/keras-js
 channelcat/sanic
+Microsoft/LightGBM
+wentin/cssicon
+airen/DemoHouse
+quozd/awesome-dotnet
