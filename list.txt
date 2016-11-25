@@ -584,7 +584,7 @@ transcranial/keras-js
 channelcat/sanic
 Microsoft/LightGBM
 wentin/cssicon
-airen/DemoHouse
+# airen/DemoHouse // removed
 quozd/awesome-dotnet
 Netflix/chaosmonkey
 paulsonnentag/swip
