@@ -1,0 +1,8 @@
+intel-analytics/BigDL
+FreeCodeCamp/FreeCodeCamp
+vhf/free-programming-books
+tidwall/tile38
+Tencent/mars
+espadrine/Solve-Data-In-Code
+ageitgey/show-facebook-computer-vision-tags
+jwasham/google-interview-university
