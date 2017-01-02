@@ -1,0 +1,82 @@
+[
+    {
+        "name": "BigDL",
+        "description": "BigDL: Distributed Deep learning Library for Apache Spark",
+        "url": "https://github.com/intel-analytics/BigDL",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/10941215?v=3",
+        "ownerUrl": "https://github.com/intel-analytics",
+        "stars": 581,
+        "language": "Scala"
+    },
+    {
+        "name": "FreeCodeCamp",
+        "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/9892522?v=3",
+        "ownerUrl": "https://github.com/FreeCodeCamp",
+        "stars": 215076,
+        "language": "JavaScript"
+    },
+    {
+        "name": "free-programming-books",
+        "description": ":books: Freely available programming books",
+        "url": "https://github.com/vhf/free-programming-books",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/2022803?v=3",
+        "ownerUrl": "https://github.com/vhf",
+        "stars": 74203,
+        "language": null
+    },
+    {
+        "name": "tile38",
+        "description": "Tile38 is a fast geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. 🌐",
+        "url": "https://github.com/tidwall/tile38",
+        "homepage": "http://tile38.com",
+        "avatar": "https://avatars.githubusercontent.com/u/1156077?v=3",
+        "ownerUrl": "https://github.com/tidwall",
+        "stars": 2523,
+        "language": "Go"
+    },
+    {
+        "name": "mars",
+        "description": "Mars is a cross-platform network component  developed by WeChat.",
+        "url": "https://github.com/Tencent/mars",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/18461506?v=3",
+        "ownerUrl": "https://github.com/Tencent",
+        "stars": 5947,
+        "language": "C++"
+    },
+    {
+        "name": "Solve-Data-In-Code",
+        "description": "Computer Science Cheatsheets.",
+        "url": "https://github.com/espadrine/Solve-Data-In-Code",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/100689?v=3",
+        "ownerUrl": "https://github.com/espadrine",
+        "stars": 684,
+        "language": "JavaScript"
+    },
+    {
+        "name": "show-facebook-computer-vision-tags",
+        "description": "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images",
+        "url": "https://github.com/ageitgey/show-facebook-computer-vision-tags",
+        "homepage": null,
+        "avatar": "https://avatars.githubusercontent.com/u/896692?v=3",
+        "ownerUrl": "https://github.com/ageitgey",
+        "stars": 436,
+        "language": "JavaScript"
+    },
+    {
+        "name": "google-interview-university",
+        "description": "A complete daily plan for studying to become a Google software engineer.",
+        "url": "https://github.com/jwasham/google-interview-university",
+        "homepage": "",
+        "avatar": "https://avatars.githubusercontent.com/u/3771963?v=3",
+        "ownerUrl": "https://github.com/jwasham",
+        "stars": 30828,
+        "language": null
+    }
+]
