@@ -1,22 +1,22 @@
 [
     {
         "name": "BigDL",
-        "description": "BigDL: Distributed Deep learning Library for Apache Spark",
+        "description": "BigDL: Distributed Deep Learning Library for Apache Spark",
         "url": "https://github.com/intel-analytics/BigDL",
         "homepage": "",
-        "avatar": "https://avatars.githubusercontent.com/u/10941215?v=3",
+        "avatar": "https://avatars0.githubusercontent.com/u/10941215?v=3",
         "ownerUrl": "https://github.com/intel-analytics",
-        "stars": 581,
+        "stars": 1604,
         "language": "Scala"
     },
     {
-        "name": "FreeCodeCamp",
-        "description": "The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
-        "url": "https://github.com/FreeCodeCamp/FreeCodeCamp",
+        "name": "freeCodeCamp",
+        "description": "The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+        "url": "https://github.com/freeCodeCamp/freeCodeCamp",
         "homepage": "",
-        "avatar": "https://avatars.githubusercontent.com/u/9892522?v=3",
-        "ownerUrl": "https://github.com/FreeCodeCamp",
-        "stars": 215076,
+        "avatar": "https://avatars3.githubusercontent.com/u/9892522?v=3",
+        "ownerUrl": "https://github.com/freeCodeCamp",
+        "stars": 248801,
         "language": "JavaScript"
     },
     {
@@ -24,19 +24,19 @@
         "description": ":books: Freely available programming books",
         "url": "https://github.com/vhf/free-programming-books",
         "homepage": "",
-        "avatar": "https://avatars.githubusercontent.com/u/2022803?v=3",
+        "avatar": "https://avatars1.githubusercontent.com/u/2022803?v=3",
         "ownerUrl": "https://github.com/vhf",
-        "stars": 74203,
+        "stars": 80815,
         "language": null
     },
     {
         "name": "tile38",
-        "description": "Tile38 is a fast geolocation data store, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. 🌐",
+        "description": "Tile38 is a fast geospatial database, spatial index, and realtime geofence. It supports a variety of object types including lat/lon points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON. 🌐",
         "url": "https://github.com/tidwall/tile38",
         "homepage": "http://tile38.com",
-        "avatar": "https://avatars.githubusercontent.com/u/1156077?v=3",
+        "avatar": "https://avatars2.githubusercontent.com/u/1156077?v=3",
         "ownerUrl": "https://github.com/tidwall",
-        "stars": 2523,
+        "stars": 2965,
         "language": "Go"
     },
     {
@@ -44,19 +44,19 @@
         "description": "Mars is a cross-platform network component  developed by WeChat.",
         "url": "https://github.com/Tencent/mars",
         "homepage": "",
-        "avatar": "https://avatars.githubusercontent.com/u/18461506?v=3",
+        "avatar": "https://avatars0.githubusercontent.com/u/18461506?v=3",
         "ownerUrl": "https://github.com/Tencent",
-        "stars": 5947,
+        "stars": 8307,
         "language": "C++"
     },
     {
-        "name": "Solve-Data-In-Code",
+        "name": "succinct-cybernetics",
         "description": "Computer Science Cheatsheets.",
-        "url": "https://github.com/espadrine/Solve-Data-In-Code",
+        "url": "https://github.com/espadrine/succinct-cybernetics",
         "homepage": null,
-        "avatar": "https://avatars.githubusercontent.com/u/100689?v=3",
+        "avatar": "https://avatars0.githubusercontent.com/u/100689?v=3",
         "ownerUrl": "https://github.com/espadrine",
-        "stars": 684,
+        "stars": 1576,
         "language": "JavaScript"
     },
     {
@@ -64,19 +64,529 @@
         "description": "A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images",
         "url": "https://github.com/ageitgey/show-facebook-computer-vision-tags",
         "homepage": null,
-        "avatar": "https://avatars.githubusercontent.com/u/896692?v=3",
+        "avatar": "https://avatars2.githubusercontent.com/u/896692?v=3",
         "ownerUrl": "https://github.com/ageitgey",
-        "stars": 436,
+        "stars": 1131,
         "language": "JavaScript"
     },
     {
-        "name": "google-interview-university",
-        "description": "A complete daily plan for studying to become a Google software engineer.",
-        "url": "https://github.com/jwasham/google-interview-university",
+        "name": "coding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "url": "https://github.com/jwasham/coding-interview-university",
         "homepage": "",
-        "avatar": "https://avatars.githubusercontent.com/u/3771963?v=3",
+        "avatar": "https://avatars1.githubusercontent.com/u/3771963?v=3",
         "ownerUrl": "https://github.com/jwasham",
-        "stars": 30828,
+        "stars": 37843,
         "language": null
+    },
+    {
+        "name": "Hero",
+        "description": "Elegant transition library for iOS & tvOS",
+        "url": "https://github.com/lkzhao/Hero",
+        "homepage": "",
+        "avatar": "https://avatars2.githubusercontent.com/u/3359850?v=3",
+        "ownerUrl": "https://github.com/lkzhao",
+        "stars": 7966,
+        "language": "Swift"
+    },
+    {
+        "name": "swa-dashboard",
+        "description": "Dashboard to monitor and receive alerts for changes in Southwest fare prices.",
+        "url": "https://github.com/ezekg/swa-dashboard",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/6979737?v=3",
+        "ownerUrl": "https://github.com/ezekg",
+        "stars": 1854,
+        "language": "JavaScript"
+    },
+    {
+        "name": "StreetMap",
+        "description": "Import OpenStreetMap data into Unreal Engine 4",
+        "url": "https://github.com/ue4plugins/StreetMap",
+        "homepage": null,
+        "avatar": "https://avatars3.githubusercontent.com/u/11466839?v=3",
+        "ownerUrl": "https://github.com/ue4plugins",
+        "stars": 1073,
+        "language": "C++"
+    },
+    {
+        "name": "have-fun-with-machine-learning",
+        "description": "An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks",
+        "url": "https://github.com/humphd/have-fun-with-machine-learning",
+        "homepage": null,
+        "avatar": "https://avatars1.githubusercontent.com/u/427398?v=3",
+        "ownerUrl": "https://github.com/humphd",
+        "stars": 4052,
+        "language": "Python"
+    },
+    {
+        "name": "xLua",
+        "description": "xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+        "url": "https://github.com/Tencent/xLua",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/18461506?v=3",
+        "ownerUrl": "https://github.com/Tencent",
+        "stars": 1546,
+        "language": "C"
+    },
+    {
+        "name": "explore-python",
+        "description": ":green_book: The Beauty of Python Programming.",
+        "url": "https://github.com/ethan-funny/explore-python",
+        "homepage": "http://funhacks.net/explore-python/",
+        "avatar": "https://avatars3.githubusercontent.com/u/2676138?v=3",
+        "ownerUrl": "https://github.com/ethan-funny",
+        "stars": 769,
+        "language": "Python"
+    },
+    {
+        "name": "grumpy",
+        "description": "Grumpy is a Python to Go source code transcompiler and runtime.",
+        "url": "https://github.com/google/grumpy",
+        "homepage": "",
+        "avatar": "https://avatars2.githubusercontent.com/u/1342004?v=3",
+        "ownerUrl": "https://github.com/google",
+        "stars": 7371,
+        "language": "Go"
+    },
+    {
+        "name": "iina",
+        "description": "The modern video player for macOS.",
+        "url": "https://github.com/lhc70000/iina",
+        "homepage": "https://lhc70000.github.io/iina/",
+        "avatar": "https://avatars0.githubusercontent.com/u/8478049?v=3",
+        "ownerUrl": "https://github.com/lhc70000",
+        "stars": 5125,
+        "language": "Swift"
+    },
+    {
+        "name": "clean-code-javascript",
+        "description": ":bathtub: Clean Code concepts adapted for JavaScript",
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "homepage": null,
+        "avatar": "https://avatars2.githubusercontent.com/u/5114666?v=3",
+        "ownerUrl": "https://github.com/ryanmcdermott",
+        "stars": 12640,
+        "language": "JavaScript"
+    },
+    {
+        "name": "mermaid",
+        "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+        "url": "https://github.com/knsv/mermaid",
+        "homepage": "http://knsv.github.io/mermaid/",
+        "avatar": "https://avatars3.githubusercontent.com/u/5837277?v=3",
+        "ownerUrl": "https://github.com/knsv",
+        "stars": 12497,
+        "language": "JavaScript"
+    },
+    {
+        "name": "alacritty",
+        "description": "A cross-platform, GPU-accelerated terminal emulator",
+        "url": "https://github.com/jwilm/alacritty",
+        "homepage": "",
+        "avatar": "https://avatars1.githubusercontent.com/u/4285147?v=3",
+        "ownerUrl": "https://github.com/jwilm",
+        "stars": 5391,
+        "language": "Rust"
+    },
+    {
+        "name": "kitty",
+        "description": "A modern, hackable, featureful, OpenGL based terminal emulator",
+        "url": "https://github.com/kovidgoyal/kitty",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/1308621?v=3",
+        "ownerUrl": "https://github.com/kovidgoyal",
+        "stars": 828,
+        "language": "C"
+    },
+    {
+        "name": "chisel",
+        "description": "A fast TCP tunnel over HTTP",
+        "url": "https://github.com/jpillora/chisel",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/633843?v=3",
+        "ownerUrl": "https://github.com/jpillora",
+        "stars": 1471,
+        "language": "Go"
+    },
+    {
+        "name": "prettier",
+        "description": "Prettier is an opinionated JavaScript formatter.",
+        "url": "https://github.com/prettier/prettier",
+        "homepage": "https://prettier.github.io/prettier/",
+        "avatar": "https://avatars1.githubusercontent.com/u/25822731?v=3",
+        "ownerUrl": "https://github.com/prettier",
+        "stars": 6384,
+        "language": "JavaScript"
+    },
+    {
+        "name": "remacs",
+        "description": "Rust :heart: Emacs",
+        "url": "https://github.com/Wilfred/remacs",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/70800?v=3",
+        "ownerUrl": "https://github.com/Wilfred",
+        "stars": 1057,
+        "language": "Emacs Lisp"
+    },
+    {
+        "name": "Fluor",
+        "description": "A handy tool for macOS allowing you to switch Fn keys' mode based on active application",
+        "url": "https://github.com/Pyroh/Fluor",
+        "homepage": null,
+        "avatar": "https://avatars2.githubusercontent.com/u/5583681?v=3",
+        "ownerUrl": "https://github.com/Pyroh",
+        "stars": 630,
+        "language": "Swift"
+    },
+    {
+        "name": "streama",
+        "description": "It's like Netflix, but self-hosted! http://dularion.github.io/streama/",
+        "url": "https://github.com/dularion/streama",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/936076?v=3",
+        "ownerUrl": "https://github.com/dularion",
+        "stars": 6216,
+        "language": "JavaScript"
+    },
+    {
+        "name": "rax",
+        "description": ":tophat: A universal React-compatible render engine.",
+        "url": "https://github.com/alibaba/rax",
+        "homepage": "https://alibaba.github.io/rax",
+        "avatar": "https://avatars2.githubusercontent.com/u/1961952?v=3",
+        "ownerUrl": "https://github.com/alibaba",
+        "stars": 2681,
+        "language": "JavaScript"
+    },
+    {
+        "name": "backpack",
+        "description": "🎒 Backpack is a minimalistic build system for Node.js projects.",
+        "url": "https://github.com/palmerhq/backpack",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/10245696?v=3",
+        "ownerUrl": "https://github.com/palmerhq",
+        "stars": 1758,
+        "language": "JavaScript"
+    },
+    {
+        "name": "Public-APIs",
+        "description": "📚 A public list of APIs from round the web.",
+        "url": "https://github.com/abhishekbanthia/Public-APIs",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/8280282?v=3",
+        "ownerUrl": "https://github.com/abhishekbanthia",
+        "stars": 8416,
+        "language": null
+    },
+    {
+        "name": "big-list-of-naughty-strings",
+        "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+        "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+        "homepage": null,
+        "avatar": "https://avatars2.githubusercontent.com/u/2179708?v=3",
+        "ownerUrl": "https://github.com/minimaxir",
+        "stars": 20298,
+        "language": "Python"
+    },
+    {
+        "name": "hover",
+        "description": "A floating menu library for Android.",
+        "url": "https://github.com/google/hover",
+        "homepage": null,
+        "avatar": "https://avatars2.githubusercontent.com/u/1342004?v=3",
+        "ownerUrl": "https://github.com/google",
+        "stars": 1918,
+        "language": "Java"
+    },
+    {
+        "name": "robotgo",
+        "description": "RobotGo, Go Native cross-platform system automation",
+        "url": "https://github.com/go-vgo/robotgo",
+        "homepage": "",
+        "avatar": "https://avatars2.githubusercontent.com/u/22145830?v=3",
+        "ownerUrl": "https://github.com/go-vgo",
+        "stars": 1474,
+        "language": "C"
+    },
+    {
+        "name": "WebSlides",
+        "description": "Making HTML presentations easy —",
+        "url": "https://github.com/webslides/WebSlides",
+        "homepage": "https://webslides.tv/",
+        "avatar": "https://avatars3.githubusercontent.com/u/13846397?v=3",
+        "ownerUrl": "https://github.com/webslides",
+        "stars": 3416,
+        "language": "HTML"
+    },
+    {
+        "name": "git-quick-stats",
+        "description": "Git quick statistics is a simple and efficient way to access various statistics in git repository.",
+        "url": "https://github.com/arzzen/git-quick-stats",
+        "homepage": "https://arzzen.github.io/git-quick-stats/",
+        "avatar": "https://avatars1.githubusercontent.com/u/6382002?v=3",
+        "ownerUrl": "https://github.com/arzzen",
+        "stars": 1086,
+        "language": "Shell"
+    },
+    {
+        "name": "oklog",
+        "description": "A distributed and coördination-free log management system",
+        "url": "https://github.com/oklog/oklog",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/24411296?v=3",
+        "ownerUrl": "https://github.com/oklog",
+        "stars": 1492,
+        "language": "Go"
+    },
+    {
+        "name": "pytorch",
+        "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration",
+        "url": "https://github.com/pytorch/pytorch",
+        "homepage": "http://pytorch.org",
+        "avatar": "https://avatars0.githubusercontent.com/u/21003710?v=3",
+        "ownerUrl": "https://github.com/pytorch",
+        "stars": 4006,
+        "language": "Python"
+    },
+    {
+        "name": "bluepill",
+        "description": "Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine",
+        "url": "https://github.com/linkedin/bluepill",
+        "homepage": null,
+        "avatar": "https://avatars0.githubusercontent.com/u/357098?v=3",
+        "ownerUrl": "https://github.com/linkedin",
+        "stars": 2168,
+        "language": "Objective-C"
+    },
+    {
+        "name": "mathsteps",
+        "description": "Step by step math solutions for everyone",
+        "url": "https://github.com/socraticorg/mathsteps",
+        "homepage": "https://socratic.org",
+        "avatar": "https://avatars0.githubusercontent.com/u/4368132?v=3",
+        "ownerUrl": "https://github.com/socraticorg",
+        "stars": 1252,
+        "language": "JavaScript"
+    },
+    {
+        "name": "engineering-blogs",
+        "description": "A curated list of engineering blogs",
+        "url": "https://github.com/kilimchoi/engineering-blogs",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/1356007?v=3",
+        "ownerUrl": "https://github.com/kilimchoi",
+        "stars": 11198,
+        "language": "Ruby"
+    },
+    {
+        "name": "hellogopher",
+        "description": "Hellogopher: \"just clone and make\" your conventional Go project",
+        "url": "https://github.com/cloudflare/hellogopher",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/314135?v=3",
+        "ownerUrl": "https://github.com/cloudflare",
+        "stars": 1000,
+        "language": "Makefile"
+    },
+    {
+        "name": "jocko",
+        "description": "Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install)",
+        "url": "https://github.com/travisjeffery/jocko",
+        "homepage": "https://twitter.com/travisjeffery",
+        "avatar": "https://avatars0.githubusercontent.com/u/15225?v=3",
+        "ownerUrl": "https://github.com/travisjeffery",
+        "stars": 1485,
+        "language": "Go"
+    },
+    {
+        "name": "programming-cheatsheets",
+        "description": "Programming cheatsheets (Python, Bash, Haskell...)",
+        "url": "https://github.com/remigiusz-suwalski/programming-cheatsheets",
+        "homepage": null,
+        "avatar": "https://avatars1.githubusercontent.com/u/20328842?v=3",
+        "ownerUrl": "https://github.com/remigiusz-suwalski",
+        "stars": 584,
+        "language": "TeX"
+    },
+    {
+        "name": "pipenv",
+        "description": "Sacred Marriage of Pipfile, Pip, & Virtualenv.",
+        "url": "https://github.com/kennethreitz/pipenv",
+        "homepage": "http://pipenv.org/",
+        "avatar": "https://avatars1.githubusercontent.com/u/119893?v=3",
+        "ownerUrl": "https://github.com/kennethreitz",
+        "stars": 3189,
+        "language": "Python"
+    },
+    {
+        "name": "BossSensor",
+        "description": "Hide screen when boss is approaching.",
+        "url": "https://github.com/Hironsan/BossSensor",
+        "homepage": "http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/",
+        "avatar": "https://avatars1.githubusercontent.com/u/6737785?v=3",
+        "ownerUrl": "https://github.com/Hironsan",
+        "stars": 3728,
+        "language": "Python"
+    },
+    {
+        "name": "glazier",
+        "description": "A tool for automating the installation of the Microsoft Windows operating system on various device platforms.",
+        "url": "https://github.com/google/glazier",
+        "homepage": "",
+        "avatar": "https://avatars2.githubusercontent.com/u/1342004?v=3",
+        "ownerUrl": "https://github.com/google",
+        "stars": 897,
+        "language": "Python"
+    },
+    {
+        "name": "dep",
+        "description": "Go dependency tool",
+        "url": "https://github.com/golang/dep",
+        "homepage": null,
+        "avatar": "https://avatars0.githubusercontent.com/u/4314092?v=3",
+        "ownerUrl": "https://github.com/golang",
+        "stars": 2611,
+        "language": "Go"
+    },
+    {
+        "name": "illustrated-algorithms",
+        "description": "Interactive algorithm visualizations",
+        "url": "https://github.com/skidding/illustrated-algorithms",
+        "homepage": "https://illustrated-algorithms.now.sh/",
+        "avatar": "https://avatars3.githubusercontent.com/u/250750?v=3",
+        "ownerUrl": "https://github.com/skidding",
+        "stars": 2115,
+        "language": "JavaScript"
+    },
+    {
+        "name": "element",
+        "description": "A Vue.js 2.0 UI Toolkit for Web",
+        "url": "https://github.com/ElemeFE/element",
+        "homepage": "http://element.eleme.io/",
+        "avatar": "https://avatars2.githubusercontent.com/u/12810740?v=3",
+        "ownerUrl": "https://github.com/ElemeFE",
+        "stars": 10583,
+        "language": "Vue"
+    },
+    {
+        "name": "home-automation",
+        "description": "Raspberry Pi 3 based home automation with NodeJS and React Native.",
+        "url": "https://github.com/deepsyx/home-automation",
+        "homepage": null,
+        "avatar": "https://avatars1.githubusercontent.com/u/4641811?v=3",
+        "ownerUrl": "https://github.com/deepsyx",
+        "stars": 2531,
+        "language": "JavaScript"
+    },
+    {
+        "name": "yalu102",
+        "description": "incomplete iOS 10.2 jailbreak for 64 bit devices by qwertyoruiopz and marcograssi",
+        "url": "https://github.com/kpwn/yalu102",
+        "homepage": null,
+        "avatar": "https://avatars3.githubusercontent.com/u/1671686?v=3",
+        "ownerUrl": "https://github.com/kpwn",
+        "stars": 1442,
+        "language": "Objective-C"
+    },
+    {
+        "name": "teleconsole",
+        "description": "Command line tool to share your UNIX terminal and forward local TCP ports to people you trust.",
+        "url": "https://github.com/gravitational/teleconsole",
+        "homepage": "https://www.teleconsole.com",
+        "avatar": "https://avatars1.githubusercontent.com/u/10781132?v=3",
+        "ownerUrl": "https://github.com/gravitational",
+        "stars": 1802,
+        "language": "Go"
+    },
+    {
+        "name": "react-navigation",
+        "description": "Learn once, navigate anywhere",
+        "url": "https://github.com/react-community/react-navigation",
+        "homepage": "https://reactnavigation.org",
+        "avatar": "https://avatars0.githubusercontent.com/u/24483500?v=3",
+        "ownerUrl": "https://github.com/react-community",
+        "stars": 3193,
+        "language": "JavaScript"
+    },
+    {
+        "name": "whalebrew",
+        "description": "Homebrew, but with Docker images",
+        "url": "https://github.com/bfirsh/whalebrew",
+        "homepage": "",
+        "avatar": "https://avatars2.githubusercontent.com/u/40906?v=3",
+        "ownerUrl": "https://github.com/bfirsh",
+        "stars": 1926,
+        "language": "Go"
+    },
+    {
+        "name": "PythonDataScienceHandbook",
+        "description": "Jupyter Notebooks for the Python Data Science Handbook",
+        "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+        "homepage": "",
+        "avatar": "https://avatars3.githubusercontent.com/u/781659?v=3",
+        "ownerUrl": "https://github.com/jakevdp",
+        "stars": 4025,
+        "language": "Jupyter Notebook"
+    },
+    {
+        "name": "magnetissimo",
+        "description": "Web application that indexes all popular torrent sites, and saves it to the local database.",
+        "url": "https://github.com/sergiotapia/magnetissimo",
+        "homepage": null,
+        "avatar": "https://avatars3.githubusercontent.com/u/686715?v=3",
+        "ownerUrl": "https://github.com/sergiotapia",
+        "stars": 1745,
+        "language": "Elixir"
+    },
+    {
+        "name": "awesome-electronics",
+        "description": "A curated list of awesome resources for electronic engineers and hobbyists",
+        "url": "https://github.com/monostable/awesome-electronics",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/7317517?v=3",
+        "ownerUrl": "https://github.com/monostable",
+        "stars": 1879,
+        "language": null
+    },
+    {
+        "name": "PaintsChainer",
+        "description": "line drawing colorization using chainer",
+        "url": "https://github.com/pfnet/PaintsChainer",
+        "homepage": "http://paintschainer.preferred.tech/",
+        "avatar": "https://avatars1.githubusercontent.com/u/9739572?v=3",
+        "ownerUrl": "https://github.com/pfnet",
+        "stars": 2244,
+        "language": "Jupyter Notebook"
+    },
+    {
+        "name": "rxdb",
+        "description": ":computer: :iphone: Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime :heavy_exclamation_mark:",
+        "url": "https://github.com/pubkey/rxdb",
+        "homepage": "",
+        "avatar": "https://avatars0.githubusercontent.com/u/8926560?v=3",
+        "ownerUrl": "https://github.com/pubkey",
+        "stars": 3962,
+        "language": "JavaScript"
+    },
+    {
+        "name": "git-recall",
+        "description": "Handy tool to easily recall what you've done",
+        "url": "https://github.com/Fakerr/git-recall",
+        "homepage": "",
+        "avatar": "https://avatars1.githubusercontent.com/u/10001592?v=3",
+        "ownerUrl": "https://github.com/Fakerr",
+        "stars": 1853,
+        "language": "Shell"
+    },
+    {
+        "name": "jimp",
+        "description": "An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.",
+        "url": "https://github.com/oliver-moran/jimp",
+        "homepage": null,
+        "avatar": "https://avatars0.githubusercontent.com/u/414918?v=3",
+        "ownerUrl": "https://github.com/oliver-moran",
+        "stars": 3673,
+        "language": "JavaScript"
     }
 ]
